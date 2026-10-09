@@ -1,0 +1,17 @@
+{
+  "method": "Neutral fixed face ROI pixel MSE, full-image uniform scale and integer translation; no facial warp",
+  "roi": [
+    310,
+    40,
+    670,
+    420
+  ],
+  "unalignedMSE": 48.55348927875243,
+  "bestMSE": 48.55348927875243,
+  "scale": 1,
+  "translation": [
+    0,
+    0
+  ],
+  "note": "Appearance error is not an identity score. Candidate changes due to intended pose should not be registered away."
+}

@@ -1,0 +1,36 @@
+{
+  "source": "Creating_studio_portrait_video_1080p_20261009170410.mp4",
+  "sha256": "ab35fc4c372c28c1019ae77488fe61a9d9dc0674f556e1f2efcc051e1206e283",
+  "fps": 24,
+  "frames": [
+    {
+      "frame": 3,
+      "time": 0.125
+    },
+    {
+      "frame": 66,
+      "time": 2.75
+    },
+    {
+      "frame": 78,
+      "time": 3.25
+    },
+    {
+      "frame": 132,
+      "time": 5.5
+    }
+  ],
+  "renderSizes": [
+    [
+      960,
+      540
+    ],
+    [
+      640,
+      360
+    ]
+  ],
+  "productionReplacement": false,
+  "decision": "CONDITIONAL",
+  "alignmentApplied": false
+}

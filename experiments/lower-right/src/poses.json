@@ -1,0 +1,450 @@
+{
+  "source": "Man_moving_head_in_studio_20261009121811.mp4",
+  "assetDirectory": "frames/flow-1218",
+  "sourceId": "Google Flow 12:18 PM",
+  "fps": 24,
+  "sourceSize": [
+    1920,
+    1080
+  ],
+  "limitations": {
+    "lower-right": "Closest eyes-open source pose; mostly rightward with minimal downward tilt.",
+    "right": "Weaker yaw than the previous source.",
+    "transitions": "Rolled/reversed middle sequence and blinks excluded; some paths remain discrete."
+  },
+  "renderSize": [
+    960,
+    540
+  ],
+  "excludedFrameRanges": [
+    [
+      9,
+      15
+    ],
+    [
+      82,
+      87
+    ],
+    [
+      98,
+      147
+    ],
+    [
+      165,
+      173
+    ],
+    [
+      203,
+      215
+    ]
+  ],
+  "anchors": {
+    "center": {
+      "frame": 3,
+      "time": 0.125,
+      "position": [
+        0,
+        0
+      ]
+    },
+    "left": {
+      "frame": 36,
+      "time": 1.5,
+      "position": [
+        -1,
+        0
+      ]
+    },
+    "upper-left": {
+      "frame": 58,
+      "time": 2.416667,
+      "position": [
+        -1,
+        -1
+      ]
+    },
+    "up": {
+      "frame": 76,
+      "time": 3.166667,
+      "position": [
+        0,
+        -1
+      ]
+    },
+    "upper-right": {
+      "frame": 94,
+      "time": 3.916667,
+      "position": [
+        1,
+        -1
+      ]
+    },
+    "right": {
+      "frame": 156,
+      "time": 6.5,
+      "position": [
+        1,
+        0
+      ]
+    },
+    "lower-right": {
+      "frame": 164,
+      "time": 6.833333,
+      "position": [
+        1,
+        1
+      ]
+    },
+    "down": {
+      "frame": 180,
+      "time": 7.5,
+      "position": [
+        0,
+        1
+      ]
+    },
+    "lower-left": {
+      "frame": 198,
+      "time": 8.25,
+      "position": [
+        -1,
+        1
+      ]
+    }
+  },
+  "frames": [
+    {
+      "frame": 3,
+      "time": 0.125,
+      "position": [
+        0.0,
+        0.0
+      ],
+      "file": "frame-003.webp"
+    },
+    {
+      "frame": 8,
+      "time": 0.333333,
+      "position": [
+        0.0,
+        0.0
+      ],
+      "file": "frame-008.webp"
+    },
+    {
+      "frame": 16,
+      "time": 0.666667,
+      "position": [
+        -0.4,
+        0.0
+      ],
+      "file": "frame-016.webp"
+    },
+    {
+      "frame": 20,
+      "time": 0.833333,
+      "position": [
+        -0.52,
+        0.0
+      ],
+      "file": "frame-020.webp"
+    },
+    {
+      "frame": 24,
+      "time": 1.0,
+      "position": [
+        -0.64,
+        0.0
+      ],
+      "file": "frame-024.webp"
+    },
+    {
+      "frame": 28,
+      "time": 1.166667,
+      "position": [
+        -0.76,
+        0.0
+      ],
+      "file": "frame-028.webp"
+    },
+    {
+      "frame": 32,
+      "time": 1.333333,
+      "position": [
+        -0.88,
+        0.0
+      ],
+      "file": "frame-032.webp"
+    },
+    {
+      "frame": 36,
+      "time": 1.5,
+      "position": [
+        -1.0,
+        0.0
+      ],
+      "file": "frame-036.webp"
+    },
+    {
+      "frame": 40,
+      "time": 1.666667,
+      "position": [
+        -1.0,
+        0.0
+      ],
+      "file": "frame-040.webp"
+    },
+    {
+      "frame": 42,
+      "time": 1.75,
+      "position": [
+        -1.0,
+        0.0
+      ],
+      "file": "frame-042.webp"
+    },
+    {
+      "frame": 44,
+      "time": 1.833333,
+      "position": [
+        -1.0,
+        -0.125
+      ],
+      "file": "frame-044.webp"
+    },
+    {
+      "frame": 48,
+      "time": 2.0,
+      "position": [
+        -1.0,
+        -0.375
+      ],
+      "file": "frame-048.webp"
+    },
+    {
+      "frame": 52,
+      "time": 2.166667,
+      "position": [
+        -1.0,
+        -0.625
+      ],
+      "file": "frame-052.webp"
+    },
+    {
+      "frame": 56,
+      "time": 2.333333,
+      "position": [
+        -1.0,
+        -0.875
+      ],
+      "file": "frame-056.webp"
+    },
+    {
+      "frame": 58,
+      "time": 2.416667,
+      "position": [
+        -1.0,
+        -1.0
+      ],
+      "file": "frame-058.webp"
+    },
+    {
+      "frame": 60,
+      "time": 2.5,
+      "position": [
+        -0.88889,
+        -1.0
+      ],
+      "file": "frame-060.webp"
+    },
+    {
+      "frame": 64,
+      "time": 2.666667,
+      "position": [
+        -0.66667,
+        -1.0
+      ],
+      "file": "frame-064.webp"
+    },
+    {
+      "frame": 68,
+      "time": 2.833333,
+      "position": [
+        -0.44444,
+        -1.0
+      ],
+      "file": "frame-068.webp"
+    },
+    {
+      "frame": 72,
+      "time": 3.0,
+      "position": [
+        -0.22222,
+        -1.0
+      ],
+      "file": "frame-072.webp"
+    },
+    {
+      "frame": 76,
+      "time": 3.166667,
+      "position": [
+        0.0,
+        -1.0
+      ],
+      "file": "frame-076.webp"
+    },
+    {
+      "frame": 88,
+      "time": 3.666667,
+      "position": [
+        0.45,
+        -1.0
+      ],
+      "file": "frame-088.webp"
+    },
+    {
+      "frame": 92,
+      "time": 3.833333,
+      "position": [
+        0.81667,
+        -1.0
+      ],
+      "file": "frame-092.webp"
+    },
+    {
+      "frame": 94,
+      "time": 3.916667,
+      "position": [
+        1.0,
+        -1.0
+      ],
+      "file": "frame-094.webp"
+    },
+    {
+      "frame": 148,
+      "time": 6.166667,
+      "position": [
+        0.8,
+        0.0
+      ],
+      "file": "frame-148.webp"
+    },
+    {
+      "frame": 152,
+      "time": 6.333333,
+      "position": [
+        0.9,
+        0.0
+      ],
+      "file": "frame-152.webp"
+    },
+    {
+      "frame": 156,
+      "time": 6.5,
+      "position": [
+        1.0,
+        0.0
+      ],
+      "file": "frame-156.webp"
+    },
+    {
+      "frame": 160,
+      "time": 6.666667,
+      "position": [
+        1.0,
+        0.5
+      ],
+      "file": "frame-160.webp"
+    },
+    {
+      "frame": 164,
+      "time": 6.833333,
+      "position": [
+        1.0,
+        1.0
+      ],
+      "file": "frame-164.webp"
+    },
+    {
+      "frame": 174,
+      "time": 7.25,
+      "position": [
+        0.3,
+        1.0
+      ],
+      "file": "frame-174.webp"
+    },
+    {
+      "frame": 178,
+      "time": 7.416667,
+      "position": [
+        0.1,
+        1.0
+      ],
+      "file": "frame-178.webp"
+    },
+    {
+      "frame": 180,
+      "time": 7.5,
+      "position": [
+        0.0,
+        1.0
+      ],
+      "file": "frame-180.webp"
+    },
+    {
+      "frame": 182,
+      "time": 7.583333,
+      "position": [
+        -0.11111,
+        1.0
+      ],
+      "file": "frame-182.webp"
+    },
+    {
+      "frame": 186,
+      "time": 7.75,
+      "position": [
+        -0.33333,
+        1.0
+      ],
+      "file": "frame-186.webp"
+    },
+    {
+      "frame": 190,
+      "time": 7.916667,
+      "position": [
+        -0.55556,
+        1.0
+      ],
+      "file": "frame-190.webp"
+    },
+    {
+      "frame": 194,
+      "time": 8.083333,
+      "position": [
+        -0.77778,
+        1.0
+      ],
+      "file": "frame-194.webp"
+    },
+    {
+      "frame": 198,
+      "time": 8.25,
+      "position": [
+        -1.0,
+        1.0
+      ],
+      "file": "frame-198.webp"
+    },
+    {
+      "frame": 202,
+      "time": 8.416667,
+      "position": [
+        -1.0,
+        1.0
+      ],
+      "file": "frame-202.webp"
+    }
+  ]
+}

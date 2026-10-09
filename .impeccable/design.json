@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-09T06:18:02.625857+00:00",
+  "title": "Design System: Head-tracking prototype",
+  "extensions": {
+    "motion": [
+      {
+        "name": "coordinate-easing",
+        "value": "1 - Math.exp(-Math.min(elapsed, 50) / 65)",
+        "purpose": "Ease pointer coordinates; snap each axis when within 0.001. Does not blend source images."
+      },
+      {
+        "name": "pose-hysteresis",
+        "value": "0.002",
+        "purpose": "Retain the previous source pose when its squared spatial score is within 0.002 of the best candidate."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "immediate coordinate target",
+        "purpose": "Select recorded poses without temporal smoothing when prefers-reduced-motion is reduce."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact",
+        "value": "640px"
+      },
+      {
+        "name": "touch-instruction",
+        "value": "(pointer: coarse)"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Instruction",
+      "kind": "custom",
+      "refersTo": "instruction",
+      "description": "Production cursor cue; coarse pointers receive the touch cue.",
+      "html": "<p class=\"ds-instruction\"><span class=\"ds-desktop-hint\">Move your cursor</span><span class=\"ds-touch-hint\">Touch and move</span></p>",
+      "css": ".ds-instruction { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: #353b3c; margin: 28px 0 0; font-size: 12px; line-height: 1.5; letter-spacing: .025em; text-align: center; user-select: none; } .ds-touch-hint { display: none; } @media (pointer: coarse) { .ds-desktop-hint { display: none; } .ds-touch-hint { display: inline; } } @media (max-width: 640px) { .ds-instruction { margin-top: 24px; } }"
+    },
+    {
+      "name": "Reload",
+      "kind": "button",
+      "refersTo": "reload",
+      "description": "Inline reload affordance shown only on portrait loading failure.",
+      "html": "<p class=\"ds-failure\" role=\"alert\">The portrait couldn’t load. <button class=\"ds-reload\">Reload</button></p>",
+      "css": ".ds-failure { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: #353b3c; margin: 28px 0 0; font-size: 12px; line-height: 1.5; letter-spacing: .025em; text-align: center; user-select: none; } .ds-reload { font: inherit; color: inherit; border: 0; padding: 0; background: transparent; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; -webkit-tap-highlight-color: transparent; } .ds-reload:focus-visible { outline: 2px solid #353b3c; outline-offset: 4px; } @media (max-width: 640px) { .ds-failure { margin-top: 24px; } }"
+    },
+    {
+      "name": "Diagnostic smoothing control",
+      "kind": "input",
+      "description": "Observed development checkbox; disabled under reduced motion.",
+      "html": "<label class=\"ds-control\"><input type=\"checkbox\" checked /> Smooth tracking</label>",
+      "css": ".ds-control { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: #353b3c; display: flex; align-items: center; gap: 8px; width: fit-content; padding: 4px 0; cursor: pointer; font-size: 12px; line-height: 1.55; } .ds-control input { font: inherit; margin: 0; accent-color: #353b3c; width: 15px; height: 15px; -webkit-tap-highlight-color: transparent; } .ds-control input:focus-visible { outline: 2px solid #353b3c; outline-offset: 4px; } @media (max-width: 640px) { .ds-control { font-size: 11px; } }"
+    }
+  ],
+  "narrative": {
+    "northStar": "Neutral studio portrait",
+    "overview": "This document records the implemented experiment, whose presentation is pinned by the brief. A single centered portrait occupies a quiet neutral grey viewport, with one small instruction. It establishes no portfolio identity or broader component library.",
+    "keyCharacteristics": [
+      "Full source composition, including hairstyle and shoulders.",
+      "Flat grey surface, generous whitespace, minimal system typography.",
+      "Viewer-relative interaction using recorded source poses."
+    ],
+    "rules": [],
+    "dos": [
+      "Do preserve the full source composition and responsive 16:9 sizing.",
+      "Do keep the normal experience centered, flat, and limited to its portrait and instruction.",
+      "Do retain source expression changes and disclose discrete pose transitions honestly."
+    ],
+    "donts": [
+      "Don't add portfolio sections, decorative visual assets, or generated portrait imagery to this experiment.",
+      "Don't interpolate faces, crossfade poses, autoplay, or loop the source video.",
+      "Don't promote development diagnostics into the production interface."
+    ]
+  }
+}
