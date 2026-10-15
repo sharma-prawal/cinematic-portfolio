@@ -1,0 +1,359 @@
+[
+  {
+    "path": "normal-circle",
+    "before": 73,
+    "after": 142,
+    "angle": 33.01918964479057,
+    "time": 41490
+  },
+  {
+    "path": "normal-circle",
+    "before": 73,
+    "after": 142,
+    "angle": 33.01918964479057,
+    "time": 43239.80000000447
+  },
+  {
+    "path": "large-clockwise",
+    "before": 80,
+    "after": 140,
+    "angle": 30.529296113482946,
+    "time": 17158.30000000447
+  },
+  {
+    "path": "large-clockwise",
+    "before": 80,
+    "after": 140,
+    "angle": 30.529296113482946,
+    "time": 19408.10000000149
+  },
+  {
+    "path": "medium-clockwise",
+    "before": 17,
+    "after": 150,
+    "angle": 27.1636199003675,
+    "time": 9108
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 0,
+    "after": 147,
+    "angle": 19.13268434159867,
+    "time": 44373.20000000298
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 0,
+    "after": 147,
+    "angle": 19.13268434159867,
+    "time": 44956.5
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 0,
+    "after": 147,
+    "angle": 19.13268434159867,
+    "time": 45539.89999999851
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 0,
+    "after": 147,
+    "angle": 19.13268434159867,
+    "time": 46123.20000000298
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 0,
+    "after": 147,
+    "angle": 19.13268434159867,
+    "time": 46706.5
+  },
+  {
+    "path": "normal-circle",
+    "before": 25,
+    "after": 62,
+    "angle": 12.551075875780375,
+    "time": 40956.5
+  },
+  {
+    "path": "normal-circle",
+    "before": 25,
+    "after": 62,
+    "angle": 12.551075875780375,
+    "time": 42706.5
+  },
+  {
+    "path": "medium-clockwise",
+    "before": 0,
+    "after": 153,
+    "angle": 12.359898686172386,
+    "time": 7408.10000000149
+  },
+  {
+    "path": "large-clockwise",
+    "before": 0,
+    "after": 153,
+    "angle": 12.359898686172386,
+    "time": 15058.39999999851
+  },
+  {
+    "path": "normal-circle",
+    "before": 0,
+    "after": 153,
+    "angle": 12.359898686172386,
+    "time": 39840.89999999851
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 0,
+    "after": 153,
+    "angle": 12.359898686172386,
+    "time": 43740.60000000149
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 153,
+    "after": 0,
+    "angle": 12.359898686172386,
+    "time": 43989.80000000447
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 0,
+    "after": 18,
+    "angle": 12.234107544612462,
+    "time": 44056.5
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 0,
+    "after": 18,
+    "angle": 12.234107544612462,
+    "time": 44639.89999999851
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 0,
+    "after": 18,
+    "angle": 12.234107544612462,
+    "time": 45223.20000000298
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 0,
+    "after": 18,
+    "angle": 12.234107544612462,
+    "time": 45807.20000000298
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 0,
+    "after": 18,
+    "angle": 12.234107544612462,
+    "time": 46389.89999999851
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 0,
+    "after": 18,
+    "angle": 12.234107544612462,
+    "time": 46973.10000000149
+  },
+  {
+    "path": "large-clockwise",
+    "before": 40,
+    "after": 62,
+    "angle": 11.570234849935847,
+    "time": 16458.20000000298
+  },
+  {
+    "path": "large-clockwise",
+    "before": 40,
+    "after": 62,
+    "angle": 11.570234849935847,
+    "time": 18708.10000000149
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 16,
+    "after": 0,
+    "angle": 9.132922135132967,
+    "time": 44873.89999999851
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 16,
+    "after": 0,
+    "angle": 9.132922135132967,
+    "time": 45456.5
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 16,
+    "after": 0,
+    "angle": 9.132922135132967,
+    "time": 46039.80000000447
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 16,
+    "after": 0,
+    "angle": 9.132922135132967,
+    "time": 46623.20000000298
+  },
+  {
+    "path": "large-clockwise",
+    "before": 153,
+    "after": 147,
+    "angle": 7.505180955757071,
+    "time": 15074.70000000298
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 153,
+    "after": 147,
+    "angle": 7.505180955757071,
+    "time": 43773.89999999851
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 157,
+    "after": 0,
+    "angle": 7.394558460664879,
+    "time": 44573.10000000149
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 157,
+    "after": 0,
+    "angle": 7.394558460664879,
+    "time": 45156.5
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 157,
+    "after": 0,
+    "angle": 7.394558460664879,
+    "time": 45740.5
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 157,
+    "after": 0,
+    "angle": 7.394558460664879,
+    "time": 46323.30000000447
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 157,
+    "after": 0,
+    "angle": 7.394558460664879,
+    "time": 46906.39999999851
+  },
+  {
+    "path": "large-clockwise",
+    "before": 62,
+    "after": 67,
+    "angle": 6.1591472586930625,
+    "time": 16574.5
+  },
+  {
+    "path": "large-clockwise",
+    "before": 62,
+    "after": 67,
+    "angle": 6.1591472586930625,
+    "time": 18824
+  },
+  {
+    "path": "normal-circle",
+    "before": 62,
+    "after": 67,
+    "angle": 6.1591472586930625,
+    "time": 41039.80000000447
+  },
+  {
+    "path": "normal-circle",
+    "before": 62,
+    "after": 67,
+    "angle": 6.1591472586930625,
+    "time": 42790.60000000149
+  },
+  {
+    "path": "medium-clockwise",
+    "before": 153,
+    "after": 157,
+    "angle": 5.553721087662105,
+    "time": 7642
+  },
+  {
+    "path": "medium-clockwise",
+    "before": 153,
+    "after": 157,
+    "angle": 5.553721087662105,
+    "time": 9391.89999999851
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 153,
+    "after": 157,
+    "angle": 5.553721087662105,
+    "time": 44556.60000000149
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 153,
+    "after": 157,
+    "angle": 5.553721087662105,
+    "time": 45139.80000000447
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 153,
+    "after": 157,
+    "angle": 5.553721087662105,
+    "time": 45723.80000000447
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 153,
+    "after": 157,
+    "angle": 5.553721087662105,
+    "time": 46306.5
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 153,
+    "after": 157,
+    "angle": 5.553721087662105,
+    "time": 46890.39999999851
+  },
+  {
+    "path": "offset-lower",
+    "before": 0,
+    "after": 160,
+    "angle": 5.540926236516419,
+    "time": 28691.10000000149
+  },
+  {
+    "path": "offset-lower",
+    "before": 0,
+    "after": 160,
+    "angle": 5.540926236516419,
+    "time": 30391.10000000149
+  },
+  {
+    "path": "large-clockwise",
+    "before": 141,
+    "after": 144,
+    "angle": 5.131682937898261,
+    "time": 17391.60000000149
+  },
+  {
+    "path": "rapid-reversals",
+    "before": 16,
+    "after": 214,
+    "angle": 5.026282612864825,
+    "time": 44273.20000000298
+  }
+]

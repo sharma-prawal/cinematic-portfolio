@@ -1,0 +1,12 @@
+{
+  "verdict": "NO-GO",
+  "scope": "Natural two-dimensional cursor tracking across arbitrary circular trajectories",
+  "reason": "The primary preserves the strongest photographic identity, but its upper interior and blink-covered return lack compatible intermediate poses. Normal circles visibly jump up to 33 estimated degrees and hold missing regions. No compatible secondary repair passed the static adjacent-photograph gate.",
+  "promoted": false,
+  "selected_sources": {
+    "Generate_video_from_image_reference_20261009112404.mp4": 197
+  },
+  "selected_secondary": 0,
+  "browser_engineering_checks_passed": true,
+  "method_limits": "Uncalibrated pose estimates, hand-reviewed source photographs, one local Chrome/macOS machine. No claim of a physical pose ground truth, actual process/GPU memory measurement, all-secondary-frame manual inspection, exhaustive secondary-source impossibility, or 60fps photographic motion."
+}

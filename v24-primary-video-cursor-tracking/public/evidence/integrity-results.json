@@ -1,0 +1,187 @@
+{
+  "passed": true,
+  "all_original_candidates": [
+    {
+      "source": "primary",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s01",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s02",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s03",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s04",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s05",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s06",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s07",
+      "frames": 239,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s08",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s09",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s10",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s11",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s12",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s13",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s14",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s15",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s16",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s17",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    },
+    {
+      "source": "s18",
+      "frames": 240,
+      "native_dimensions": [
+        1920,
+        1080
+      ],
+      "sha256_preserved": true
+    }
+  ],
+  "total_native_jpegs": 4559,
+  "primary_native_jpegs": 240,
+  "selected_primary": 197,
+  "selected_secondary": 0,
+  "optimized_960": 240,
+  "optimized_1280": 197,
+  "primary_reviewed": 240,
+  "frame_timestamps": "all exact original FFprobe presentation timestamps preserved",
+  "all_runtime_dimensions_verified": true,
+  "all_19_checksums_preserved": true,
+  "notes": "Engineering QA success does not imply the source-quality acceptance gate passes."
+}

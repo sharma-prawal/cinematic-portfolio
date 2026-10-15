@@ -1,0 +1,2131 @@
+{
+  "browser": "155.0.8059.80",
+  "url": "http://127.0.0.1:4324",
+  "viewports": [
+    {
+      "width": 1920,
+      "height": 1080,
+      "layout": {
+        "width": 1920,
+        "height": 1080,
+        "scrollWidth": 1920,
+        "canvas": [
+          300,
+          176.4375,
+          1320,
+          742.5
+        ],
+        "pixel": [
+          147,
+          99,
+          74,
+          255
+        ],
+        "videos": 0
+      },
+      "initialImageRequests": 5,
+      "requestsDuringDirectionalTest": 202,
+      "metrics": {
+        "samples": 21,
+        "durationMs": 349.3999999985099,
+        "renderFPS": 60.10303377243721,
+        "frameMsP50": 16.69999999552965,
+        "frameMsP95": 16.80000000447035,
+        "frameMsMax": 17.099999994039536,
+        "renderCostMsP95": 0.20000000298023224,
+        "selectionChanges": 0,
+        "uniquePhotographs": 1,
+        "unsupportedFraction": 0,
+        "cacheWaitFraction": 0,
+        "largeJumps": 0,
+        "maxAngularJumpDeg": 0,
+        "longestPhotographHoldMs": 332.79999999701977,
+        "visibleChangeInputAgeMsP50": null,
+        "visibleChangeInputAgeMsP95": null,
+        "readyMs": 19.69999999552965,
+        "cache": {
+          "loaded": 24,
+          "pending": 0,
+          "queued": 0,
+          "hits": 173,
+          "misses": 25,
+          "evictions": 178,
+          "errors": 0,
+          "decodes": 202,
+          "peakImages": 24,
+          "nominalDecodedBytes": 49766400,
+          "peakNominalBytes": 49766400,
+          "decodeMsP50": 2.5,
+          "decodeMsP95": 3.2999999970197678,
+          "loadMsP95": 8
+        },
+        "sourceCounts": {
+          "Generate_video_from_image_reference_20261009112404.mp4": 21
+        }
+      }
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "layout": {
+        "width": 1440,
+        "height": 900,
+        "scrollWidth": 1440,
+        "canvas": [
+          140.4375,
+          145.390625,
+          1159.109375,
+          651.984375
+        ],
+        "pixel": [
+          147,
+          99,
+          74,
+          255
+        ],
+        "videos": 0
+      },
+      "initialImageRequests": 5,
+      "requestsDuringDirectionalTest": 213,
+      "metrics": {
+        "samples": 22,
+        "durationMs": 366.6000000014901,
+        "renderFPS": 60.01091107449694,
+        "frameMsP50": 16.69999999552965,
+        "frameMsP95": 17,
+        "frameMsMax": 17.299999997019768,
+        "renderCostMsP95": 0.30000000447034836,
+        "selectionChanges": 0,
+        "uniquePhotographs": 1,
+        "unsupportedFraction": 0,
+        "cacheWaitFraction": 0,
+        "largeJumps": 0,
+        "maxAngularJumpDeg": 0,
+        "longestPhotographHoldMs": 349.70000000298023,
+        "visibleChangeInputAgeMsP50": null,
+        "visibleChangeInputAgeMsP95": null,
+        "readyMs": 19.399999998509884,
+        "cache": {
+          "loaded": 24,
+          "pending": 0,
+          "queued": 0,
+          "hits": 201,
+          "misses": 23,
+          "evictions": 189,
+          "errors": 0,
+          "decodes": 213,
+          "peakImages": 24,
+          "nominalDecodedBytes": 49766400,
+          "peakNominalBytes": 49766400,
+          "decodeMsP50": 2.2000000029802322,
+          "decodeMsP95": 2.6999999955296516,
+          "loadMsP95": 5.100000001490116
+        },
+        "sourceCounts": {
+          "Generate_video_from_image_reference_20261009112404.mp4": 22
+        }
+      }
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "layout": {
+        "width": 1366,
+        "height": 768,
+        "scrollWidth": 1366,
+        "canvas": [
+          220.78125,
+          145.390625,
+          924.4375,
+          519.984375
+        ],
+        "pixel": [
+          147,
+          99,
+          74,
+          255
+        ],
+        "videos": 0
+      },
+      "initialImageRequests": 5,
+      "requestsDuringDirectionalTest": 211,
+      "metrics": {
+        "samples": 22,
+        "durationMs": 366.69999999552965,
+        "renderFPS": 59.994545951099525,
+        "frameMsP50": 16.69999999552965,
+        "frameMsP95": 16.799999997019768,
+        "frameMsMax": 16.80000000447035,
+        "renderCostMsP95": 0.20000000298023224,
+        "selectionChanges": 0,
+        "uniquePhotographs": 1,
+        "unsupportedFraction": 0,
+        "cacheWaitFraction": 0,
+        "largeJumps": 0,
+        "maxAngularJumpDeg": 0,
+        "longestPhotographHoldMs": 350.1000000014901,
+        "visibleChangeInputAgeMsP50": null,
+        "visibleChangeInputAgeMsP95": null,
+        "readyMs": 20.399999998509884,
+        "cache": {
+          "loaded": 24,
+          "pending": 0,
+          "queued": 0,
+          "hits": 171,
+          "misses": 24,
+          "evictions": 187,
+          "errors": 0,
+          "decodes": 211,
+          "peakImages": 24,
+          "nominalDecodedBytes": 49766400,
+          "peakNominalBytes": 49766400,
+          "decodeMsP50": 2.600000001490116,
+          "decodeMsP95": 3.4000000059604645,
+          "loadMsP95": 5.799999997019768
+        },
+        "sourceCounts": {
+          "Generate_video_from_image_reference_20261009112404.mp4": 22
+        }
+      }
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "layout": {
+        "width": 1024,
+        "height": 768,
+        "scrollWidth": 1024,
+        "canvas": [
+          49.78125,
+          145.390625,
+          924.4375,
+          519.984375
+        ],
+        "pixel": [
+          147,
+          99,
+          74,
+          255
+        ],
+        "videos": 0
+      },
+      "initialImageRequests": 5,
+      "requestsDuringDirectionalTest": 212,
+      "metrics": {
+        "samples": 22,
+        "durationMs": 367.19999999552965,
+        "renderFPS": 59.91285403123048,
+        "frameMsP50": 16.69999999552965,
+        "frameMsP95": 17.200000002980232,
+        "frameMsMax": 17.399999998509884,
+        "renderCostMsP95": 0.20000000298023224,
+        "selectionChanges": 0,
+        "uniquePhotographs": 1,
+        "unsupportedFraction": 0,
+        "cacheWaitFraction": 0,
+        "largeJumps": 0,
+        "maxAngularJumpDeg": 0,
+        "longestPhotographHoldMs": 350.79999999701977,
+        "visibleChangeInputAgeMsP50": null,
+        "visibleChangeInputAgeMsP95": null,
+        "readyMs": 5.899999998509884,
+        "cache": {
+          "loaded": 24,
+          "pending": 0,
+          "queued": 0,
+          "hits": 172,
+          "misses": 22,
+          "evictions": 188,
+          "errors": 0,
+          "decodes": 212,
+          "peakImages": 24,
+          "nominalDecodedBytes": 49766400,
+          "peakNominalBytes": 49766400,
+          "decodeMsP50": 2.5,
+          "decodeMsP95": 3.3000000044703484,
+          "loadMsP95": 5.799999997019768
+        },
+        "sourceCounts": {
+          "Generate_video_from_image_reference_20261009112404.mp4": 22
+        }
+      }
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "layout": {
+        "width": 390,
+        "height": 844,
+        "scrollWidth": 390,
+        "canvas": [
+          16,
+          349.953125,
+          358,
+          201.375
+        ],
+        "pixel": [
+          147,
+          99,
+          74,
+          255
+        ],
+        "videos": 0
+      },
+      "initialImageRequests": 5,
+      "requestsDuringDirectionalTest": 206,
+      "metrics": {
+        "samples": 22,
+        "durationMs": 364.69999999552965,
+        "renderFPS": 60.323553606442744,
+        "frameMsP50": 16.600000001490116,
+        "frameMsP95": 17.200000002980232,
+        "frameMsMax": 17.400000005960464,
+        "renderCostMsP95": 0.30000000447034836,
+        "selectionChanges": 0,
+        "uniquePhotographs": 1,
+        "unsupportedFraction": 0,
+        "cacheWaitFraction": 0,
+        "largeJumps": 0,
+        "maxAngularJumpDeg": 0,
+        "longestPhotographHoldMs": 350.5,
+        "visibleChangeInputAgeMsP50": null,
+        "visibleChangeInputAgeMsP95": null,
+        "readyMs": 7.700000002980232,
+        "cache": {
+          "loaded": 24,
+          "pending": 0,
+          "queued": 0,
+          "hits": 170,
+          "misses": 23,
+          "evictions": 182,
+          "errors": 0,
+          "decodes": 206,
+          "peakImages": 24,
+          "nominalDecodedBytes": 49766400,
+          "peakNominalBytes": 49766400,
+          "decodeMsP50": 2.600000001490116,
+          "decodeMsP95": 3.5,
+          "loadMsP95": 6
+        },
+        "sourceCounts": {
+          "Generate_video_from_image_reference_20261009112404.mp4": 22
+        }
+      }
+    }
+  ],
+  "checks": [
+    "B/C identical-input recording: no secondary repairs passed, so compare claims no repaired advantage",
+    "390x844 browser-native touch drag and release-to-neutral passed",
+    "Reduced motion suppresses passive tracking and permits explicit static pose selection",
+    "A uses extracted images only, manual blink inspection, explicit play once, no autoplay or loop",
+    "Manifest failure exposes a recovery action",
+    "Neutral image failure retries successfully without erasing the last valid photo"
+  ],
+  "directions": [
+    {
+      "name": "CENTER",
+      "frame": 0,
+      "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+      "yaw": 0.3091541220743902,
+      "pitch": -7.1672358079011405,
+      "error": 0
+    },
+    {
+      "name": "LEFT",
+      "frame": 33,
+      "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+      "yaw": -26.3733974463273,
+      "pitch": -6.1395404244854825,
+      "error": 0.07036163580377854
+    },
+    {
+      "name": "RIGHT",
+      "frame": 141,
+      "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+      "yaw": 26.765484882376775,
+      "pitch": -4.6630853170616735,
+      "error": 0.1777347895620749
+    },
+    {
+      "name": "UP",
+      "frame": 77,
+      "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+      "yaw": -0.0557222786126478,
+      "pitch": 11.265439773866172,
+      "error": 0.03108384655934963
+    },
+    {
+      "name": "DOWN",
+      "frame": 164,
+      "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+      "yaw": -0.24460389451809642,
+      "pitch": -11.356228789689641,
+      "error": 0.04658916990312329
+    },
+    {
+      "name": "UPPER-LEFT",
+      "frame": 60,
+      "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+      "yaw": -19.696631373766888,
+      "pitch": 7.093430116330944,
+      "error": 0.061527547847156486
+    },
+    {
+      "name": "UPPER-RIGHT",
+      "frame": 106,
+      "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+      "yaw": 25.841904024296888,
+      "pitch": 9.802622566103176,
+      "error": 0.17951937721232245
+    },
+    {
+      "name": "LOWER-LEFT",
+      "frame": 179,
+      "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+      "yaw": -19.941643223257703,
+      "pitch": -9.834809599690486,
+      "error": 0.08292056790415894
+    },
+    {
+      "name": "LOWER-RIGHT",
+      "frame": 146,
+      "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+      "yaw": 19.628550572182633,
+      "pitch": -9.180826245004496,
+      "error": 0.16803948258090382
+    }
+  ],
+  "trajectories": [
+    {
+      "name": "small-clockwise",
+      "radius": 0.15,
+      "duration": 3000,
+      "cycles": 2,
+      "wallMs": 3008.2999999970198,
+      "inputEvents": 181,
+      "panels": {
+        "B": {
+          "samples": 181,
+          "durationMs": 3016.60000000149,
+          "renderFPS": 60.00132599612497,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.600000001490116,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 0.20000000298023224,
+          "selectionChanges": 10,
+          "uniquePhotographs": 5,
+          "unsupportedFraction": 0,
+          "cacheWaitFraction": 0,
+          "largeJumps": 0,
+          "maxAngularJumpDeg": 2.3782506808135104,
+          "longestPhotographHoldMs": 700,
+          "visibleChangeInputAgeMsP50": 16.5,
+          "visibleChangeInputAgeMsP95": 17.399999998509884,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 10,
+            "pending": 0,
+            "queued": 0,
+            "hits": 218,
+            "misses": 0,
+            "evictions": 0,
+            "errors": 0,
+            "decodes": 10,
+            "peakImages": 10,
+            "nominalDecodedBytes": 20736000,
+            "peakNominalBytes": 20736000,
+            "decodeMsP50": 2.3000000044703484,
+            "decodeMsP95": 3.3000000044703484,
+            "loadMsP95": 5.600000001490116
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 181
+          }
+        },
+        "C": {
+          "samples": 181,
+          "durationMs": 3016.60000000149,
+          "renderFPS": 60.00132599612497,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.600000001490116,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 0.19999999552965164,
+          "selectionChanges": 10,
+          "uniquePhotographs": 5,
+          "unsupportedFraction": 0,
+          "cacheWaitFraction": 0,
+          "largeJumps": 0,
+          "maxAngularJumpDeg": 2.3782506808135104,
+          "longestPhotographHoldMs": 699.8999999985099,
+          "visibleChangeInputAgeMsP50": 16.700000002980232,
+          "visibleChangeInputAgeMsP95": 17.399999998509884,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 10,
+            "pending": 0,
+            "queued": 0,
+            "hits": 218,
+            "misses": 0,
+            "evictions": 0,
+            "errors": 0,
+            "decodes": 10,
+            "peakImages": 10,
+            "nominalDecodedBytes": 20736000,
+            "peakNominalBytes": 20736000,
+            "decodeMsP50": 2.2000000029802322,
+            "decodeMsP95": 3.399999998509884,
+            "loadMsP95": 6.600000001490116
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 181
+          }
+        }
+      }
+    },
+    {
+      "name": "small-counterclockwise",
+      "radius": 0.15,
+      "duration": 3000,
+      "cycles": 2,
+      "ccw": true,
+      "wallMs": 3004.39999999851,
+      "inputEvents": 181,
+      "panels": {
+        "B": {
+          "samples": 181,
+          "durationMs": 3016.6999999955297,
+          "renderFPS": 59.9993370239892,
+          "frameMsP50": 16.700000002980232,
+          "frameMsP95": 17.600000001490116,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 0.19999999552965164,
+          "selectionChanges": 12,
+          "uniquePhotographs": 6,
+          "unsupportedFraction": 0,
+          "cacheWaitFraction": 0,
+          "largeJumps": 0,
+          "maxAngularJumpDeg": 2.3782506808135104,
+          "longestPhotographHoldMs": 749.9000000059605,
+          "visibleChangeInputAgeMsP50": 16.599999994039536,
+          "visibleChangeInputAgeMsP95": 17.5,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 10,
+            "pending": 0,
+            "queued": 0,
+            "hits": 418,
+            "misses": 0,
+            "evictions": 0,
+            "errors": 0,
+            "decodes": 10,
+            "peakImages": 10,
+            "nominalDecodedBytes": 20736000,
+            "peakNominalBytes": 20736000,
+            "decodeMsP50": 2.3000000044703484,
+            "decodeMsP95": 3.3000000044703484,
+            "loadMsP95": 5.600000001490116
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 181
+          }
+        },
+        "C": {
+          "samples": 181,
+          "durationMs": 3016.6999999955297,
+          "renderFPS": 59.9993370239892,
+          "frameMsP50": 16.700000002980232,
+          "frameMsP95": 17.600000001490116,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 0.10000000149011612,
+          "selectionChanges": 12,
+          "uniquePhotographs": 6,
+          "unsupportedFraction": 0,
+          "cacheWaitFraction": 0,
+          "largeJumps": 0,
+          "maxAngularJumpDeg": 2.3782506808135104,
+          "longestPhotographHoldMs": 749.9000000059605,
+          "visibleChangeInputAgeMsP50": 16.599999994039536,
+          "visibleChangeInputAgeMsP95": 17.5,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 10,
+            "pending": 0,
+            "queued": 0,
+            "hits": 418,
+            "misses": 0,
+            "evictions": 0,
+            "errors": 0,
+            "decodes": 10,
+            "peakImages": 10,
+            "nominalDecodedBytes": 20736000,
+            "peakNominalBytes": 20736000,
+            "decodeMsP50": 2.2000000029802322,
+            "decodeMsP95": 3.399999998509884,
+            "loadMsP95": 6.600000001490116
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 181
+          }
+        }
+      }
+    },
+    {
+      "name": "medium-clockwise",
+      "radius": 0.45,
+      "duration": 3500,
+      "cycles": 2,
+      "wallMs": 3512,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3516.5,
+          "renderFPS": 60.00284373666999,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.5,
+          "frameMsMax": 17.80000000447035,
+          "renderCostMsP95": 0.3999999985098839,
+          "selectionChanges": 27,
+          "uniquePhotographs": 15,
+          "unsupportedFraction": 0.3412322274881517,
+          "cacheWaitFraction": 0.009478672985781991,
+          "largeJumps": 4,
+          "maxAngularJumpDeg": 27.1636199003675,
+          "longestPhotographHoldMs": 700.5,
+          "visibleChangeInputAgeMsP50": 16.399999998509884,
+          "visibleChangeInputAgeMsP95": 17.399999998509884,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 22,
+            "pending": 2,
+            "queued": 1,
+            "hits": 647,
+            "misses": 2,
+            "evictions": 87,
+            "errors": 0,
+            "decodes": 109,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.1999999955296516,
+            "decodeMsP95": 3,
+            "loadMsP95": 6.700000002980232
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        },
+        "C": {
+          "samples": 211,
+          "durationMs": 3516.5,
+          "renderFPS": 60.00284373666999,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.5,
+          "frameMsMax": 17.80000000447035,
+          "renderCostMsP95": 0.29999999701976776,
+          "selectionChanges": 27,
+          "uniquePhotographs": 15,
+          "unsupportedFraction": 0.3412322274881517,
+          "cacheWaitFraction": 0.009478672985781991,
+          "largeJumps": 4,
+          "maxAngularJumpDeg": 27.1636199003675,
+          "longestPhotographHoldMs": 700.8000000044703,
+          "visibleChangeInputAgeMsP50": 16.5,
+          "visibleChangeInputAgeMsP95": 17.69999999552965,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 22,
+            "pending": 2,
+            "queued": 1,
+            "hits": 647,
+            "misses": 2,
+            "evictions": 87,
+            "errors": 0,
+            "decodes": 109,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.7999999970197678,
+            "loadMsP95": 7.199999995529652
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "medium-counterclockwise",
+      "radius": 0.45,
+      "duration": 3500,
+      "cycles": 2,
+      "ccw": true,
+      "wallMs": 3510.60000000149,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3515.60000000149,
+          "renderFPS": 60.01820457387375,
+          "frameMsP50": 16.600000001490116,
+          "frameMsP95": 17.400000005960464,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 0.3999999985098839,
+          "selectionChanges": 26,
+          "uniquePhotographs": 14,
+          "unsupportedFraction": 0.35071090047393366,
+          "cacheWaitFraction": 0,
+          "largeJumps": 6,
+          "maxAngularJumpDeg": 27.1636199003675,
+          "longestPhotographHoldMs": 650.2000000029802,
+          "visibleChangeInputAgeMsP50": 16.19999999552965,
+          "visibleChangeInputAgeMsP95": 17.100000001490116,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 23,
+            "pending": 1,
+            "queued": 0,
+            "hits": 878,
+            "misses": 2,
+            "evictions": 182,
+            "errors": 0,
+            "decodes": 205,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.7000000029802322,
+            "loadMsP95": 6.5
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        },
+        "C": {
+          "samples": 211,
+          "durationMs": 3515.60000000149,
+          "renderFPS": 60.01820457387375,
+          "frameMsP50": 16.600000001490116,
+          "frameMsP95": 17.400000005960464,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 0.29999999701976776,
+          "selectionChanges": 26,
+          "uniquePhotographs": 14,
+          "unsupportedFraction": 0.35071090047393366,
+          "cacheWaitFraction": 0,
+          "largeJumps": 6,
+          "maxAngularJumpDeg": 27.1636199003675,
+          "longestPhotographHoldMs": 650.1000000014901,
+          "visibleChangeInputAgeMsP50": 16.5,
+          "visibleChangeInputAgeMsP95": 17.399999998509884,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 23,
+            "pending": 1,
+            "queued": 0,
+            "hits": 878,
+            "misses": 2,
+            "evictions": 182,
+            "errors": 0,
+            "decodes": 205,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.5999999940395355,
+            "loadMsP95": 6.700000002980232
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "large-clockwise",
+      "radius": 0.9,
+      "duration": 4500,
+      "cycles": 2,
+      "wallMs": 4516,
+      "inputEvents": 271,
+      "panels": {
+        "B": {
+          "samples": 271,
+          "durationMs": 4517.29999999702,
+          "renderFPS": 59.99158789546384,
+          "frameMsP50": 16.700000002980232,
+          "frameMsP95": 17.399999998509884,
+          "frameMsMax": 17.80000000447035,
+          "renderCostMsP95": 0.3999999985098839,
+          "selectionChanges": 98,
+          "uniquePhotographs": 50,
+          "unsupportedFraction": 0.14760147601476015,
+          "cacheWaitFraction": 0.02214022140221402,
+          "largeJumps": 9,
+          "maxAngularJumpDeg": 30.529296113482946,
+          "longestPhotographHoldMs": 334.1000000014901,
+          "visibleChangeInputAgeMsP50": 16.399999998509884,
+          "visibleChangeInputAgeMsP95": 17.100000001490116,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 1163,
+            "misses": 8,
+            "evictions": 368,
+            "errors": 0,
+            "decodes": 392,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.5999999940395355,
+            "loadMsP95": 6.5
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 271
+          }
+        },
+        "C": {
+          "samples": 271,
+          "durationMs": 4517.29999999702,
+          "renderFPS": 59.99158789546384,
+          "frameMsP50": 16.700000002980232,
+          "frameMsP95": 17.399999998509884,
+          "frameMsMax": 17.80000000447035,
+          "renderCostMsP95": 0.30000000447034836,
+          "selectionChanges": 98,
+          "uniquePhotographs": 50,
+          "unsupportedFraction": 0.14760147601476015,
+          "cacheWaitFraction": 0.02214022140221402,
+          "largeJumps": 9,
+          "maxAngularJumpDeg": 30.529296113482946,
+          "longestPhotographHoldMs": 334.20000000298023,
+          "visibleChangeInputAgeMsP50": 16.600000001490116,
+          "visibleChangeInputAgeMsP95": 17.399999998509884,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 1163,
+            "misses": 8,
+            "evictions": 368,
+            "errors": 0,
+            "decodes": 392,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.5,
+            "loadMsP95": 7.199999995529652
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 271
+          }
+        }
+      }
+    },
+    {
+      "name": "large-counterclockwise",
+      "radius": 0.9,
+      "duration": 4500,
+      "cycles": 2,
+      "ccw": true,
+      "wallMs": 4508.39999999851,
+      "inputEvents": 271,
+      "panels": {
+        "B": {
+          "samples": 271,
+          "durationMs": 4516.60000000149,
+          "renderFPS": 60.0008856219082,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.5,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 0.4000000059604645,
+          "selectionChanges": 110,
+          "uniquePhotographs": 57,
+          "unsupportedFraction": 0.14760147601476015,
+          "cacheWaitFraction": 0.007380073800738007,
+          "largeJumps": 9,
+          "maxAngularJumpDeg": 26.954807113648787,
+          "longestPhotographHoldMs": 366.80000000447035,
+          "visibleChangeInputAgeMsP50": 16.30000000447035,
+          "visibleChangeInputAgeMsP95": 17.19999999552965,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 1450,
+            "misses": 12,
+            "evictions": 604,
+            "errors": 0,
+            "decodes": 628,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.4000000059604645,
+            "loadMsP95": 6
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 271
+          }
+        },
+        "C": {
+          "samples": 271,
+          "durationMs": 4516.60000000149,
+          "renderFPS": 60.0008856219082,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.5,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 0.29999999701976776,
+          "selectionChanges": 110,
+          "uniquePhotographs": 57,
+          "unsupportedFraction": 0.14760147601476015,
+          "cacheWaitFraction": 0.007380073800738007,
+          "largeJumps": 9,
+          "maxAngularJumpDeg": 26.954807113648787,
+          "longestPhotographHoldMs": 366.8999999985099,
+          "visibleChangeInputAgeMsP50": 16.600000001490116,
+          "visibleChangeInputAgeMsP95": 17.5,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 1450,
+            "misses": 12,
+            "evictions": 604,
+            "errors": 0,
+            "decodes": 628,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.399999998509884,
+            "loadMsP95": 6.399999998509884
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 271
+          }
+        }
+      }
+    },
+    {
+      "name": "offset-upper",
+      "radius": 0.3,
+      "cx": 0.25,
+      "cy": -0.35,
+      "duration": 3500,
+      "cycles": 2,
+      "wallMs": 3507.60000000149,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3517.5,
+          "renderFPS": 59.985785358919685,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.399999998509884,
+          "frameMsMax": 17.69999999552965,
+          "renderCostMsP95": 0.3999999985098839,
+          "selectionChanges": 3,
+          "uniquePhotographs": 2,
+          "unsupportedFraction": 0.7962085308056872,
+          "cacheWaitFraction": 0,
+          "largeJumps": 0,
+          "maxAngularJumpDeg": 1.5403431413000626,
+          "longestPhotographHoldMs": 1533,
+          "visibleChangeInputAgeMsP50": 16.700000002980232,
+          "visibleChangeInputAgeMsP95": 17.200000002980232,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 1681,
+            "misses": 12,
+            "evictions": 657,
+            "errors": 0,
+            "decodes": 681,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.4000000059604645,
+            "loadMsP95": 5.600000001490116
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        },
+        "C": {
+          "samples": 211,
+          "durationMs": 3517.5,
+          "renderFPS": 59.985785358919685,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.399999998509884,
+          "frameMsMax": 17.69999999552965,
+          "renderCostMsP95": 0.20000000298023224,
+          "selectionChanges": 3,
+          "uniquePhotographs": 2,
+          "unsupportedFraction": 0.7962085308056872,
+          "cacheWaitFraction": 0,
+          "largeJumps": 0,
+          "maxAngularJumpDeg": 1.5403431413000626,
+          "longestPhotographHoldMs": 1532.6999999955297,
+          "visibleChangeInputAgeMsP50": 16.899999998509884,
+          "visibleChangeInputAgeMsP95": 17.30000000447035,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 1681,
+            "misses": 12,
+            "evictions": 657,
+            "errors": 0,
+            "decodes": 681,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.399999998509884,
+            "loadMsP95": 6.399999998509884
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "offset-lower",
+      "radius": 0.3,
+      "cx": -0.2,
+      "cy": 0.4,
+      "duration": 3500,
+      "cycles": 2,
+      "wallMs": 3513.8000000044703,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3516.6999999955297,
+          "renderFPS": 59.99943128508779,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.399999998509884,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 0.3999999985098839,
+          "selectionChanges": 36,
+          "uniquePhotographs": 18,
+          "unsupportedFraction": 0,
+          "cacheWaitFraction": 0.009478672985781991,
+          "largeJumps": 2,
+          "maxAngularJumpDeg": 5.540926236516419,
+          "longestPhotographHoldMs": 299.30000000447035,
+          "visibleChangeInputAgeMsP50": 16.5,
+          "visibleChangeInputAgeMsP95": 17.30000000447035,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 22,
+            "pending": 2,
+            "queued": 2,
+            "hits": 1910,
+            "misses": 14,
+            "evictions": 731,
+            "errors": 0,
+            "decodes": 753,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.4000000059604645,
+            "loadMsP95": 5.5
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        },
+        "C": {
+          "samples": 211,
+          "durationMs": 3516.6999999955297,
+          "renderFPS": 59.99943128508779,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.399999998509884,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 0.20000000298023224,
+          "selectionChanges": 36,
+          "uniquePhotographs": 18,
+          "unsupportedFraction": 0,
+          "cacheWaitFraction": 0.009478672985781991,
+          "largeJumps": 2,
+          "maxAngularJumpDeg": 5.540926236516419,
+          "longestPhotographHoldMs": 299.40000000596046,
+          "visibleChangeInputAgeMsP50": 16.600000001490116,
+          "visibleChangeInputAgeMsP95": 17.400000005960464,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 22,
+            "pending": 2,
+            "queued": 2,
+            "hits": 1910,
+            "misses": 14,
+            "evictions": 731,
+            "errors": 0,
+            "decodes": 753,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.399999998509884,
+            "loadMsP95": 6.100000001490116
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "slow-circle",
+      "radius": 0.8,
+      "duration": 7000,
+      "cycles": 1,
+      "wallMs": 7014.10000000149,
+      "inputEvents": 421,
+      "panels": {
+        "B": {
+          "samples": 421,
+          "durationMs": 7016.5,
+          "renderFPS": 60.001425212000285,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.299999997019768,
+          "frameMsMax": 17.799999997019768,
+          "renderCostMsP95": 0.30000000447034836,
+          "selectionChanges": 40,
+          "uniquePhotographs": 40,
+          "unsupportedFraction": 0.21852731591448932,
+          "cacheWaitFraction": 0.007125890736342043,
+          "largeJumps": 4,
+          "maxAngularJumpDeg": 32.006165366303925,
+          "longestPhotographHoldMs": 1232.2999999970198,
+          "visibleChangeInputAgeMsP50": 16.5,
+          "visibleChangeInputAgeMsP95": 16.700000002980232,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 22,
+            "pending": 2,
+            "queued": 0,
+            "hits": 2349,
+            "misses": 17,
+            "evictions": 821,
+            "errors": 0,
+            "decodes": 843,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.5,
+            "loadMsP95": 5.600000001490116
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 421
+          }
+        },
+        "C": {
+          "samples": 421,
+          "durationMs": 7016.5,
+          "renderFPS": 60.001425212000285,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.299999997019768,
+          "frameMsMax": 17.799999997019768,
+          "renderCostMsP95": 0.20000000298023224,
+          "selectionChanges": 40,
+          "uniquePhotographs": 40,
+          "unsupportedFraction": 0.21852731591448932,
+          "cacheWaitFraction": 0.007125890736342043,
+          "largeJumps": 4,
+          "maxAngularJumpDeg": 32.006165366303925,
+          "longestPhotographHoldMs": 1232,
+          "visibleChangeInputAgeMsP50": 16.69999999552965,
+          "visibleChangeInputAgeMsP95": 17.100000001490116,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 22,
+            "pending": 2,
+            "queued": 0,
+            "hits": 2349,
+            "misses": 17,
+            "evictions": 821,
+            "errors": 0,
+            "decodes": 843,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.5,
+            "loadMsP95": 6.100000001490116
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 421
+          }
+        }
+      }
+    },
+    {
+      "name": "normal-circle",
+      "radius": 0.8,
+      "duration": 3500,
+      "cycles": 2,
+      "wallMs": 3504.60000000149,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3516.39999999851,
+          "renderFPS": 60.00455010809049,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.200000002980232,
+          "frameMsMax": 17.600000001490116,
+          "renderCostMsP95": 0.3999999985098839,
+          "selectionChanges": 68,
+          "uniquePhotographs": 35,
+          "unsupportedFraction": 0.21800947867298578,
+          "cacheWaitFraction": 0.014218009478672985,
+          "largeJumps": 7,
+          "maxAngularJumpDeg": 33.01918964479057,
+          "longestPhotographHoldMs": 350,
+          "visibleChangeInputAgeMsP50": 16.399999998509884,
+          "visibleChangeInputAgeMsP95": 16.700000002980232,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 23,
+            "pending": 1,
+            "queued": 0,
+            "hits": 2578,
+            "misses": 20,
+            "evictions": 983,
+            "errors": 0,
+            "decodes": 1006,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.5,
+            "loadMsP95": 5.299999997019768
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        },
+        "C": {
+          "samples": 211,
+          "durationMs": 3516.39999999851,
+          "renderFPS": 60.00455010809049,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.200000002980232,
+          "frameMsMax": 17.600000001490116,
+          "renderCostMsP95": 0.30000000447034836,
+          "selectionChanges": 68,
+          "uniquePhotographs": 35,
+          "unsupportedFraction": 0.21800947867298578,
+          "cacheWaitFraction": 0.014218009478672985,
+          "largeJumps": 7,
+          "maxAngularJumpDeg": 33.01918964479057,
+          "longestPhotographHoldMs": 349.80000000447035,
+          "visibleChangeInputAgeMsP50": 16.599999994039536,
+          "visibleChangeInputAgeMsP95": 17.100000001490116,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 23,
+            "pending": 1,
+            "queued": 0,
+            "hits": 2578,
+            "misses": 20,
+            "evictions": 983,
+            "errors": 0,
+            "decodes": 1006,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.4000000059604645,
+            "loadMsP95": 6.0999999940395355
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "rapid-reversals",
+      "kind": "reverse",
+      "duration": 3500,
+      "wallMs": 3508.10000000149,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3516.60000000149,
+          "renderFPS": 60.001137462296136,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.100000001490116,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 0.3999999985098839,
+          "selectionChanges": 102,
+          "uniquePhotographs": 14,
+          "unsupportedFraction": 0,
+          "cacheWaitFraction": 0.15165876777251186,
+          "largeJumps": 29,
+          "maxAngularJumpDeg": 19.13268434159867,
+          "longestPhotographHoldMs": 100.10000000149012,
+          "visibleChangeInputAgeMsP50": 16.5,
+          "visibleChangeInputAgeMsP95": 16.80000000447035,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 2776,
+            "misses": 53,
+            "evictions": 1231,
+            "errors": 0,
+            "decodes": 1255,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.4000000059604645,
+            "loadMsP95": 4.799999997019768
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        },
+        "C": {
+          "samples": 211,
+          "durationMs": 3516.60000000149,
+          "renderFPS": 60.001137462296136,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.100000001490116,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 0.30000000447034836,
+          "selectionChanges": 102,
+          "uniquePhotographs": 14,
+          "unsupportedFraction": 0,
+          "cacheWaitFraction": 0.15165876777251186,
+          "largeJumps": 29,
+          "maxAngularJumpDeg": 19.13268434159867,
+          "longestPhotographHoldMs": 99.90000000596046,
+          "visibleChangeInputAgeMsP50": 16.5,
+          "visibleChangeInputAgeMsP95": 16.900000005960464,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 2776,
+            "misses": 53,
+            "evictions": 1231,
+            "errors": 0,
+            "decodes": 1255,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.399999998509884,
+            "loadMsP95": 5.600000001490116
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "small-movement",
+      "radius": 0.035,
+      "duration": 2000,
+      "cycles": 2,
+      "wallMs": 2005.9000000059605,
+      "inputEvents": 121,
+      "panels": {
+        "B": {
+          "samples": 121,
+          "durationMs": 2016.6000000014901,
+          "renderFPS": 60.0019835366015,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 16.799999997019768,
+          "frameMsMax": 17.600000001490116,
+          "renderCostMsP95": 0.20000000298023224,
+          "selectionChanges": 0,
+          "uniquePhotographs": 1,
+          "unsupportedFraction": 0,
+          "cacheWaitFraction": 0,
+          "largeJumps": 0,
+          "maxAngularJumpDeg": 0,
+          "longestPhotographHoldMs": 1999.7999999970198,
+          "visibleChangeInputAgeMsP50": null,
+          "visibleChangeInputAgeMsP95": null,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 2917,
+            "misses": 53,
+            "evictions": 1236,
+            "errors": 0,
+            "decodes": 1260,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.4000000059604645,
+            "loadMsP95": 4.799999997019768
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 121
+          }
+        },
+        "C": {
+          "samples": 121,
+          "durationMs": 2016.6000000014901,
+          "renderFPS": 60.0019835366015,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 16.799999997019768,
+          "frameMsMax": 17.600000001490116,
+          "renderCostMsP95": 0.10000000149011612,
+          "selectionChanges": 0,
+          "uniquePhotographs": 1,
+          "unsupportedFraction": 0,
+          "cacheWaitFraction": 0,
+          "largeJumps": 0,
+          "maxAngularJumpDeg": 0,
+          "longestPhotographHoldMs": 1999.8000000044703,
+          "visibleChangeInputAgeMsP50": null,
+          "visibleChangeInputAgeMsP95": null,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 2917,
+            "misses": 53,
+            "evictions": 1236,
+            "errors": 0,
+            "decodes": 1260,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.399999998509884,
+            "loadMsP95": 5.600000001490116
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 121
+          }
+        }
+      }
+    },
+    {
+      "name": "horizontal-sweep",
+      "kind": "sweep",
+      "duration": 3500,
+      "wallMs": 3505,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3516.0999999940395,
+          "renderFPS": 60.0096698047148,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 16.80000000447035,
+          "frameMsMax": 17.69999999552965,
+          "renderCostMsP95": 0.3999999985098839,
+          "selectionChanges": 24,
+          "uniquePhotographs": 20,
+          "unsupportedFraction": 0.023696682464454975,
+          "cacheWaitFraction": 0.004739336492890996,
+          "largeJumps": 3,
+          "maxAngularJumpDeg": 12.359898686172386,
+          "longestPhotographHoldMs": 700.1000000014901,
+          "visibleChangeInputAgeMsP50": 16.5,
+          "visibleChangeInputAgeMsP95": 16.600000001490116,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 3146,
+            "misses": 54,
+            "evictions": 1287,
+            "errors": 0,
+            "decodes": 1311,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.4000000059604645,
+            "loadMsP95": 4.5
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        },
+        "C": {
+          "samples": 211,
+          "durationMs": 3516.0999999940395,
+          "renderFPS": 60.0096698047148,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 16.80000000447035,
+          "frameMsMax": 17.69999999552965,
+          "renderCostMsP95": 0.20000000298023224,
+          "selectionChanges": 24,
+          "uniquePhotographs": 20,
+          "unsupportedFraction": 0.023696682464454975,
+          "cacheWaitFraction": 0.004739336492890996,
+          "largeJumps": 3,
+          "maxAngularJumpDeg": 12.359898686172386,
+          "longestPhotographHoldMs": 700.2000000029802,
+          "visibleChangeInputAgeMsP50": 16.799999997019768,
+          "visibleChangeInputAgeMsP95": 17,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 3146,
+            "misses": 54,
+            "evictions": 1287,
+            "errors": 0,
+            "decodes": 1311,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.399999998509884,
+            "loadMsP95": 5.5
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "diagonal-sweep",
+      "kind": "diagonal",
+      "duration": 3500,
+      "wallMs": 3513.2000000029802,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3516.7999999970198,
+          "renderFPS": 59.99772520478242,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17,
+          "frameMsMax": 17.80000000447035,
+          "renderCostMsP95": 0.29999999701976776,
+          "selectionChanges": 16,
+          "uniquePhotographs": 15,
+          "unsupportedFraction": 0.11848341232227488,
+          "cacheWaitFraction": 0.004739336492890996,
+          "largeJumps": 4,
+          "maxAngularJumpDeg": 22.785620295605074,
+          "longestPhotographHoldMs": 616.8999999985099,
+          "visibleChangeInputAgeMsP50": 16.5,
+          "visibleChangeInputAgeMsP95": 16.700000002980232,
+          "readyMs": 4.699999995529652,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 3376,
+            "misses": 55,
+            "evictions": 1336,
+            "errors": 0,
+            "decodes": 1360,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.4000000059604645,
+            "loadMsP95": 4.600000001490116
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        },
+        "C": {
+          "samples": 211,
+          "durationMs": 3516.7999999970198,
+          "renderFPS": 59.99772520478242,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17,
+          "frameMsMax": 17.80000000447035,
+          "renderCostMsP95": 0.20000000298023224,
+          "selectionChanges": 16,
+          "uniquePhotographs": 15,
+          "unsupportedFraction": 0.11848341232227488,
+          "cacheWaitFraction": 0.004739336492890996,
+          "largeJumps": 4,
+          "maxAngularJumpDeg": 22.785620295605074,
+          "longestPhotographHoldMs": 617,
+          "visibleChangeInputAgeMsP50": 16.600000001490116,
+          "visibleChangeInputAgeMsP95": 17,
+          "readyMs": 5.899999998509884,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 3376,
+            "misses": 55,
+            "evictions": 1336,
+            "errors": 0,
+            "decodes": 1360,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 2.100000001490116,
+            "decodeMsP95": 2.399999998509884,
+            "loadMsP95": 5.5
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "smoothing-20",
+      "radius": 0.8,
+      "duration": 3500,
+      "cycles": 2,
+      "wallMs": 3504.4000000059605,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3516.5,
+          "renderFPS": 60.00284373666999,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.399999998509884,
+          "frameMsMax": 17.80000000447035,
+          "renderCostMsP95": 1,
+          "selectionChanges": 70,
+          "uniquePhotographs": 36,
+          "unsupportedFraction": 0.21800947867298578,
+          "cacheWaitFraction": 0.023696682464454975,
+          "largeJumps": 7,
+          "maxAngularJumpDeg": 32.006165366303925,
+          "longestPhotographHoldMs": 300,
+          "visibleChangeInputAgeMsP50": 16.399999998509884,
+          "visibleChangeInputAgeMsP95": 16.799999997019768,
+          "readyMs": 5.5,
+          "cache": {
+            "loaded": 24,
+            "pending": 0,
+            "queued": 0,
+            "hits": 240,
+            "misses": 5,
+            "evictions": 157,
+            "errors": 0,
+            "decodes": 181,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 3.399999998509884,
+            "decodeMsP95": 4.300000004470348,
+            "loadMsP95": 9.5
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "smoothing-35",
+      "radius": 0.8,
+      "duration": 3500,
+      "cycles": 2,
+      "wallMs": 3509.5,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3515.7000000029802,
+          "renderFPS": 60.016497425781814,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.5,
+          "frameMsMax": 17.700000002980232,
+          "renderCostMsP95": 1.0999999940395355,
+          "selectionChanges": 71,
+          "uniquePhotographs": 38,
+          "unsupportedFraction": 0.22748815165876776,
+          "cacheWaitFraction": 0.023696682464454975,
+          "largeJumps": 7,
+          "maxAngularJumpDeg": 32.006165366303925,
+          "longestPhotographHoldMs": 300.19999999552965,
+          "visibleChangeInputAgeMsP50": 16.399999998509884,
+          "visibleChangeInputAgeMsP95": 17.100000001490116,
+          "readyMs": 7.5,
+          "cache": {
+            "loaded": 23,
+            "pending": 1,
+            "queued": 0,
+            "hits": 240,
+            "misses": 5,
+            "evictions": 154,
+            "errors": 0,
+            "decodes": 177,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 3.600000001490116,
+            "decodeMsP95": 4.4000000059604645,
+            "loadMsP95": 9.5
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "smoothing-50",
+      "radius": 0.8,
+      "duration": 3500,
+      "cycles": 2,
+      "wallMs": 3512.10000000149,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3516.7999999970198,
+          "renderFPS": 59.99772520478242,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.5,
+          "frameMsMax": 17.799999997019768,
+          "renderCostMsP95": 0.9000000059604645,
+          "selectionChanges": 66,
+          "uniquePhotographs": 36,
+          "unsupportedFraction": 0.22748815165876776,
+          "cacheWaitFraction": 0.018957345971563982,
+          "largeJumps": 7,
+          "maxAngularJumpDeg": 32.006165366303925,
+          "longestPhotographHoldMs": 300.1000000014901,
+          "visibleChangeInputAgeMsP50": 16.5,
+          "visibleChangeInputAgeMsP95": 17.19999999552965,
+          "readyMs": 17.5,
+          "cache": {
+            "loaded": 23,
+            "pending": 1,
+            "queued": 0,
+            "hits": 241,
+            "misses": 5,
+            "evictions": 154,
+            "errors": 0,
+            "decodes": 177,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 3.5,
+            "decodeMsP95": 4.399999998509884,
+            "loadMsP95": 9.399999998509884
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "selector-nearest",
+      "radius": 0.8,
+      "duration": 3500,
+      "cycles": 2,
+      "wallMs": 3509,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3516.5,
+          "renderFPS": 60.00284373666999,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.5,
+          "frameMsMax": 17.799999997019768,
+          "renderCostMsP95": 0.8999999985098839,
+          "selectionChanges": 78,
+          "uniquePhotographs": 40,
+          "unsupportedFraction": 0.22274881516587677,
+          "cacheWaitFraction": 0.03317535545023697,
+          "largeJumps": 7,
+          "maxAngularJumpDeg": 32.006165366303925,
+          "longestPhotographHoldMs": 317.20000000298023,
+          "visibleChangeInputAgeMsP50": 16.399999998509884,
+          "visibleChangeInputAgeMsP95": 17.30000000447035,
+          "readyMs": 4.700000002980232,
+          "cache": {
+            "loaded": 23,
+            "pending": 1,
+            "queued": 0,
+            "hits": 238,
+            "misses": 7,
+            "evictions": 157,
+            "errors": 0,
+            "decodes": 180,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 3.5,
+            "decodeMsP95": 4.5,
+            "loadMsP95": 9.299999997019768
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "selector-neighbor",
+      "radius": 0.8,
+      "duration": 3500,
+      "cycles": 2,
+      "wallMs": 3509.10000000149,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3516.5,
+          "renderFPS": 60.00284373666999,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.600000001490116,
+          "frameMsMax": 17.799999997019768,
+          "renderCostMsP95": 0.8999999985098839,
+          "selectionChanges": 76,
+          "uniquePhotographs": 39,
+          "unsupportedFraction": 0.21800947867298578,
+          "cacheWaitFraction": 0.023696682464454975,
+          "largeJumps": 7,
+          "maxAngularJumpDeg": 33.01918964479057,
+          "longestPhotographHoldMs": 350.1000000014901,
+          "visibleChangeInputAgeMsP50": 16.399999998509884,
+          "visibleChangeInputAgeMsP95": 17.5,
+          "readyMs": 6.199999995529652,
+          "cache": {
+            "loaded": 23,
+            "pending": 1,
+            "queued": 0,
+            "hits": 240,
+            "misses": 5,
+            "evictions": 136,
+            "errors": 0,
+            "decodes": 159,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 3.4000000059604645,
+            "decodeMsP95": 4.5,
+            "loadMsP95": 8.800000004470348
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "selector-continuity",
+      "radius": 0.8,
+      "duration": 3500,
+      "cycles": 2,
+      "wallMs": 3510,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3516.60000000149,
+          "renderFPS": 60.001137462296136,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.600000001490116,
+          "frameMsMax": 17.799999997019768,
+          "renderCostMsP95": 1,
+          "selectionChanges": 72,
+          "uniquePhotographs": 38,
+          "unsupportedFraction": 0.22748815165876776,
+          "cacheWaitFraction": 0.023696682464454975,
+          "largeJumps": 7,
+          "maxAngularJumpDeg": 32.006165366303925,
+          "longestPhotographHoldMs": 301,
+          "visibleChangeInputAgeMsP50": 16.399999998509884,
+          "visibleChangeInputAgeMsP95": 17.399999998509884,
+          "readyMs": 5.200000002980232,
+          "cache": {
+            "loaded": 23,
+            "pending": 1,
+            "queued": 0,
+            "hits": 240,
+            "misses": 5,
+            "evictions": 154,
+            "errors": 0,
+            "decodes": 177,
+            "peakImages": 24,
+            "nominalDecodedBytes": 49766400,
+            "peakNominalBytes": 49766400,
+            "decodeMsP50": 3.5999999940395355,
+            "decodeMsP95": 4.399999998509884,
+            "loadMsP95": 9.299999997019768
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    },
+    {
+      "name": "sharp-1280",
+      "radius": 0.8,
+      "duration": 3500,
+      "cycles": 2,
+      "wallMs": 3508.7000000029802,
+      "inputEvents": 211,
+      "panels": {
+        "B": {
+          "samples": 211,
+          "durationMs": 3515.89999999851,
+          "renderFPS": 60.01308342105561,
+          "frameMsP50": 16.69999999552965,
+          "frameMsP95": 17.5,
+          "frameMsMax": 17.69999999552965,
+          "renderCostMsP95": 0.7000000029802322,
+          "selectionChanges": 71,
+          "uniquePhotographs": 38,
+          "unsupportedFraction": 0.21800947867298578,
+          "cacheWaitFraction": 0.023696682464454975,
+          "largeJumps": 7,
+          "maxAngularJumpDeg": 33.01918964479057,
+          "longestPhotographHoldMs": 350.5,
+          "visibleChangeInputAgeMsP50": 16.399999998509884,
+          "visibleChangeInputAgeMsP95": 17.299999997019768,
+          "readyMs": 21,
+          "cache": {
+            "loaded": 23,
+            "pending": 1,
+            "queued": 0,
+            "hits": 240,
+            "misses": 6,
+            "evictions": 149,
+            "errors": 0,
+            "decodes": 172,
+            "peakImages": 24,
+            "nominalDecodedBytes": 88473600,
+            "peakNominalBytes": 88473600,
+            "decodeMsP50": 4.399999998509884,
+            "decodeMsP95": 6.299999997019768,
+            "loadMsP95": 10.100000001490116
+          },
+          "sourceCounts": {
+            "Generate_video_from_image_reference_20261009112404.mp4": 211
+          }
+        }
+      }
+    }
+  ],
+  "response": [
+    {
+      "tau": 20,
+      "name": "right-down",
+      "firstVisibleChangeMs": 26,
+      "withinPointOneInputMs": 42.69999999552965,
+      "finalFrame": 146,
+      "requested": {
+        "yaw": 24.30915412207439,
+        "pitch": -10.66723580790114
+      },
+      "supported": true
+    },
+    {
+      "tau": 20,
+      "name": "left-down",
+      "firstVisibleChangeMs": 61.900000005960464,
+      "withinPointOneInputMs": 45.70000000298023,
+      "finalFrame": 180,
+      "requested": {
+        "yaw": -22.090845877925613,
+        "pitch": -10.66723580790114
+      },
+      "supported": true
+    },
+    {
+      "tau": 20,
+      "name": "up",
+      "firstVisibleChangeMs": 18.299999997019768,
+      "withinPointOneInputMs": 35,
+      "finalFrame": 77,
+      "requested": {
+        "yaw": 0.3091541220743902,
+        "pitch": 10.83276419209886
+      },
+      "supported": true
+    },
+    {
+      "tau": 20,
+      "name": "down",
+      "firstVisibleChangeMs": 27.5,
+      "withinPointOneInputMs": 44.899999998509884,
+      "finalFrame": 164,
+      "requested": {
+        "yaw": 0.3091541220743902,
+        "pitch": -12.16723580790114
+      },
+      "supported": true
+    },
+    {
+      "tau": 35,
+      "name": "right-down",
+      "firstVisibleChangeMs": 8.100000001490116,
+      "withinPointOneInputMs": 74.80000000447035,
+      "finalFrame": 146,
+      "requested": {
+        "yaw": 24.304635004518925,
+        "pitch": -10.666574462014932
+      },
+      "supported": true
+    },
+    {
+      "tau": 35,
+      "name": "left-down",
+      "firstVisibleChangeMs": 47.19999999552965,
+      "withinPointOneInputMs": 80.59999999403954,
+      "finalFrame": 180,
+      "requested": {
+        "yaw": -22.086605753865953,
+        "pitch": -10.66657601793702
+      },
+      "supported": true
+    },
+    {
+      "tau": 35,
+      "name": "up",
+      "firstVisibleChangeMs": 65.09999999403954,
+      "withinPointOneInputMs": 81.79999999701977,
+      "finalFrame": 77,
+      "requested": {
+        "yaw": 0.3091541220743902,
+        "pitch": 10.829339597627698
+      },
+      "supported": true
+    },
+    {
+      "tau": 35,
+      "name": "down",
+      "firstVisibleChangeMs": 37.600000001490116,
+      "withinPointOneInputMs": 70.79999999701977,
+      "finalFrame": 164,
+      "requested": {
+        "yaw": 0.3091541220743902,
+        "pitch": -12.166293514288192
+      },
+      "supported": true
+    },
+    {
+      "tau": 50,
+      "name": "right-down",
+      "firstVisibleChangeMs": 17.799999997019768,
+      "withinPointOneInputMs": 117.60000000149012,
+      "finalFrame": 146,
+      "requested": {
+        "yaw": 24.267319519484964,
+        "pitch": -10.661007989416163
+      },
+      "supported": true
+    },
+    {
+      "tau": 50,
+      "name": "left-down",
+      "firstVisibleChangeMs": 27.700000002980232,
+      "withinPointOneInputMs": 128.20000000298023,
+      "finalFrame": 180,
+      "requested": {
+        "yaw": -22.03496691779726,
+        "pitch": -10.658822595281883
+      },
+      "supported": true
+    },
+    {
+      "tau": 50,
+      "name": "up",
+      "firstVisibleChangeMs": 4.600000001490116,
+      "withinPointOneInputMs": 121.79999999701977,
+      "finalFrame": 77,
+      "requested": {
+        "yaw": 0.30813970054857553,
+        "pitch": 10.787486664482913
+      },
+      "supported": true
+    },
+    {
+      "tau": 50,
+      "name": "down",
+      "firstVisibleChangeMs": 49.600000001490116,
+      "withinPointOneInputMs": 116.20000000298023,
+      "finalFrame": 164,
+      "requested": {
+        "yaw": 0.3091541220743902,
+        "pitch": -12.15470467467788
+      },
+      "supported": true
+    }
+  ],
+  "errors": [],
+  "method": "Installed real Chrome, production Vite preview. Direction/exit tests use Playwright mouse input; reproducible normal-speed paths dispatch pointer events inside browser requestAnimationFrame, measured in real wall time. Recordings are Playwright screen captures, no time compression. Render FPS is not photographic FPS. Nominal memory includes cache reservations, excludes browser internals and canvas backing stores.",
+  "sourceReference": {
+    "samples": 632,
+    "durationMs": 10528.10000000149,
+    "renderFPS": 60.02982494466338,
+    "frameMsP50": 16.69999999552965,
+    "frameMsP95": 16.900000005960464,
+    "frameMsMax": 40,
+    "renderCostMsP95": 0.30000000447034836,
+    "selectionChanges": 239,
+    "uniquePhotographs": 240,
+    "unsupportedFraction": 0,
+    "cacheWaitFraction": 0,
+    "largeJumps": 0,
+    "maxAngularJumpDeg": 0,
+    "longestPhotographHoldMs": 516.8000000044703,
+    "visibleChangeInputAgeMsP50": 6035.19999999553,
+    "visibleChangeInputAgeMsP95": 10535.19999999553,
+    "readyMs": 21.100000001490116,
+    "cache": {
+      "loaded": 24,
+      "pending": 0,
+      "queued": 0,
+      "hits": 688,
+      "misses": 2,
+      "evictions": 216,
+      "errors": 0,
+      "decodes": 240,
+      "peakImages": 24,
+      "nominalDecodedBytes": 49766400,
+      "peakNominalBytes": 49766400,
+      "decodeMsP50": 2.399999998509884,
+      "decodeMsP95": 2.7999999970197678,
+      "loadMsP95": 6.300000004470348
+    },
+    "sourceCounts": {
+      "Generate_video_from_image_reference_20261009112404.mp4": 632
+    }
+  },
+  "passed": true
+}

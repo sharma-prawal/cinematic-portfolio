@@ -1,0 +1,6122 @@
+{
+  "mode": "B",
+  "compare": false,
+  "tau": 20,
+  "strategy": "continuity",
+  "sharp": false,
+  "reduced": false,
+  "coarse": false,
+  "raw": [
+    0.8,
+    -5.551115123125783e-16
+  ],
+  "primary": "Generate_video_from_image_reference_20261009112404.mp4",
+  "panels": {
+    "B": {
+      "samples": [
+        {
+          "t": 603.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            0,
+            0
+          ],
+          "smoothed": [
+            0,
+            0
+          ],
+          "requested": {
+            "yaw": 0.3091541220743902,
+            "pitch": -7.1672358079011405
+          },
+          "frame": 0,
+          "desired": 0,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 308.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 620.2999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.7999504478461792,
+            0.008903987348230169
+          ],
+          "smoothed": [
+            0.45287236203725134,
+            0.005040774453967397
+          ],
+          "requested": {
+            "yaw": 13.895324983191932,
+            "pitch": -7.192439680170978
+          },
+          "frame": 0,
+          "desired": 150,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": true,
+          "error": 0.19425560509373643,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": true,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 1
+        },
+        {
+          "t": 636.7999999970198,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.7979588965243087,
+            0.05711041461684263
+          ],
+          "smoothed": [
+            0.6474841594532666,
+            0.03440548518649337
+          ],
+          "requested": {
+            "yaw": 19.733678905672388,
+            "pitch": -7.3392632338336075
+          },
+          "frame": 0,
+          "desired": 145,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": true,
+          "error": 0.06665150899201766,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": true,
+          "inputAgeMs": 15.399999998509884,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 653.5,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.7931402588838368,
+            0.10453960846339583
+          ],
+          "smoothed": [
+            0.7296270206834902,
+            0.07395767406399445
+          ],
+          "requested": {
+            "yaw": 22.197964742579096,
+            "pitch": -7.537024178221113
+          },
+          "frame": 144,
+          "desired": 144,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": true,
+          "error": 0.026874411053744628,
+          "changed": true,
+          "angularJump": 21.915716450182796,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 670.1999999955297,
+          "dt": 16.799999997019768,
+          "raw": [
+            0.7854505666258396,
+            0.15187958186388184
+          ],
+          "smoothed": [
+            0.7613509543838095,
+            0.11823987425598725
+          ],
+          "requested": {
+            "yaw": 23.149682753588674,
+            "pitch": -7.758435179181077
+          },
+          "frame": 144,
+          "desired": 144,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.049844255740701865,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 686.7999999970198,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.7750091921659934,
+            0.19839544364277772
+          ],
+          "smoothed": [
+            0.769053527329106,
+            0.16344366481957553
+          ],
+          "requested": {
+            "yaw": 23.38075994194757,
+            "pitch": -7.984454131999018
+          },
+          "frame": 144,
+          "desired": 144,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.06449758098714499,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 703.6000000014901,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.7617279007538948,
+            0.24448027571373565
+          ],
+          "smoothed": [
+            0.7649063031849127,
+            0.20932055819018408
+          ],
+          "requested": {
+            "yaw": 23.25634321762177,
+            "pitch": -8.21383859885206
+          },
+          "frame": 144,
+          "desired": 144,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.07306156243546741,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.700000002980232,
+          "renderMs": 0.09999999403953552
+        },
+        {
+          "t": 720.1000000014901,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.7458128670693609,
+            0.2894186713288909
+          ],
+          "smoothed": [
+            0.7541385462603528,
+            0.2544919462616584
+          ],
+          "requested": {
+            "yaw": 22.933310509884972,
+            "pitch": -8.439695539209433
+          },
+          "frame": 145,
+          "desired": 145,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.057080107803045996,
+          "changed": true,
+          "angularJump": 1.3166886272587515,
+          "cacheWait": false,
+          "inputAgeMs": 16.30000000447035,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 736.8999999985099,
+          "dt": 16.799999997019768,
+          "raw": [
+            0.727009782374058,
+            0.33385142853135275
+          ],
+          "smoothed": [
+            0.7387215552331394,
+            0.29959110489653706
+          ],
+          "requested": {
+            "yaw": 22.470800779068572,
+            "pitch": -8.665191332383825
+          },
+          "frame": 145,
+          "desired": 145,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.050832180026089975,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.600000001490116,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 753.5,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.7058329811419184,
+            0.37656314574359495
+          ],
+          "smoothed": [
+            0.7201740204014597,
+            0.342999542268024
+          ],
+          "requested": {
+            "yaw": 21.91437473411818,
+            "pitch": -8.882233519241261
+          },
+          "frame": 145,
+          "desired": 145,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.050281296716029204,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 770.1999999955297,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.6821496482178864,
+            0.4179376238581707
+          ],
+          "smoothed": [
+            0.6986474529845369,
+            0.38542390256139525
+          ],
+          "requested": {
+            "yaw": 21.268577711610497,
+            "pitch": -9.094355320708116
+          },
+          "frame": 145,
+          "desired": 145,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.05854455994775214,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 786.8999999985099,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.655879466663615,
+            0.4580634510731587
+          ],
+          "smoothed": [
+            0.6744354045477732,
+            0.4265470046357871
+          ],
+          "requested": {
+            "yaw": 20.542216258507583,
+            "pitch": -9.299970831080076
+          },
+          "frame": 146,
+          "desired": 146,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03116651948289037,
+          "changed": true,
+          "angularJump": 2.06792552772951,
+          "cacheWait": false,
+          "inputAgeMs": 16.600000001490116,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 803.3999999985099,
+          "dt": 16.5,
+          "raw": [
+            0.6272520087547298,
+            0.49654296643206686
+          ],
+          "smoothed": [
+            0.6479294238545649,
+            0.4658682866416973
+          ],
+          "requested": {
+            "yaw": 19.747036837711335,
+            "pitch": -9.496577241109627
+          },
+          "frame": 146,
+          "desired": 146,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.01798084798878179,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 820.1999999955297,
+          "dt": 16.799999997019768,
+          "raw": [
+            0.5965615783980893,
+            0.533023717276427
+          ],
+          "smoothed": [
+            0.6187376178508329,
+            0.5040320111616825
+          ],
+          "requested": {
+            "yaw": 18.871282657599377,
+            "pitch": -9.687395863709554
+          },
+          "frame": 146,
+          "desired": 146,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03780458479444346,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.69999999552965,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 836.7999999970198,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.5635488263602491,
+            0.5678139838961225
+          ],
+          "smoothed": [
+            0.5876138595008732,
+            0.5400019002071624
+          ],
+          "requested": {
+            "yaw": 17.937569907100585,
+            "pitch": -9.867245308936953
+          },
+          "frame": 148,
+          "desired": 148,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.022262543946404964,
+          "changed": true,
+          "angularJump": 2.109380019190861,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 853.6000000014901,
+          "dt": 16.80000000447035,
+          "raw": [
+            0.5285106407014917,
+            0.6005634876224986
+          ],
+          "smoothed": [
+            0.5540261222200129,
+            0.5744184130255717
+          ],
+          "requested": {
+            "yaw": 16.929937788674778,
+            "pitch": -10.039327873028999
+          },
+          "frame": 148,
+          "desired": 148,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03203754908106918,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0
+        },
+        {
+          "t": 870.1999999955297,
+          "dt": 16.599999994039536,
+          "raw": [
+            0.4917995285960759,
+            0.6309779898480434
+          ],
+          "smoothed": [
+            0.5189333903441004,
+            0.6063152267326065
+          ],
+          "requested": {
+            "yaw": 15.877155832397401,
+            "pitch": -10.198811941564173
+          },
+          "frame": 150,
+          "desired": 150,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.014645698620944708,
+          "changed": true,
+          "angularJump": 1.791763520281837,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 886.8999999985099,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.45310526308814536,
+            0.6593145080777629
+          ],
+          "smoothed": [
+            0.48166640766077184,
+            0.6363194723712385
+          ],
+          "requested": {
+            "yaw": 14.759146351897547,
+            "pitch": -10.348833169757333
+          },
+          "frame": 150,
+          "desired": 150,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.04284948460076751,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 903.5,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.41302852204510376,
+            0.6851331549248201
+          ],
+          "smoothed": [
+            0.4429580230802051,
+            0.6638479834861907
+          ],
+          "requested": {
+            "yaw": 13.597894814480544,
+            "pitch": -10.486475725332093
+          },
+          "frame": 151,
+          "desired": 151,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.06396889784194361,
+          "changed": true,
+          "angularJump": 1.533986616874788,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 920.1999999955297,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.3712306372909848,
+            0.7086521106555241
+          ],
+          "smoothed": [
+            0.4023513196117829,
+            0.6892127432095267
+          ],
+          "requested": {
+            "yaw": 12.379693710427878,
+            "pitch": -10.613299523948774
+          },
+          "frame": 153,
+          "desired": 153,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.02335988922316505,
+          "changed": true,
+          "angularJump": 2.779454558939358,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 936.8999999985099,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.32809852384413674,
+            0.7296241214839998
+          ],
+          "smoothed": [
+            0.36031491709797336,
+            0.712090655693783
+          ],
+          "requested": {
+            "yaw": 11.118601635013592,
+            "pitch": -10.727689086370056
+          },
+          "frame": 153,
+          "desired": 153,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03467072759438015,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 953.5,
+          "dt": 16.5,
+          "raw": [
+            0.2837872015158527,
+            0.7479738125468036
+          ],
+          "smoothed": [
+            0.31732432437734315,
+            0.7322485575737016
+          ],
+          "requested": {
+            "yaw": 9.828883853394686,
+            "pitch": -10.82847859576965
+          },
+          "frame": 153,
+          "desired": 153,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.07501620134935488,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 970.1999999955297,
+          "dt": 16.799999997019768,
+          "raw": [
+            0.23845592827604167,
+            0.7636352337798535
+          ],
+          "smoothed": [
+            0.27250424484402014,
+            0.7500852753641776
+          ],
+          "requested": {
+            "yaw": 8.484281467394995,
+            "pitch": -10.917662184722028
+          },
+          "frame": 155,
+          "desired": 155,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.06395398359890901,
+          "changed": true,
+          "angularJump": 3.0610052031948443,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 986.7999999970198,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.19254642808341305,
+            0.7764830152890139
+          ],
+          "smoothed": [
+            0.22741197701510618,
+            0.7649722996351451
+          ],
+          "requested": {
+            "yaw": 7.1315134325275755,
+            "pitch": -10.992097306076866
+          },
+          "frame": 157,
+          "desired": 157,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.023363792397111238,
+          "changed": true,
+          "angularJump": 2.7766589920031963,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 1003.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.14567074307799444,
+            0.7866257271479904
+          ],
+          "smoothed": [
+            0.18113617855886682,
+            0.7772308575160077
+          ],
+          "requested": {
+            "yaw": 5.743239478840395,
+            "pitch": -11.053390095481179
+          },
+          "frame": 157,
+          "desired": 157,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.026778977306931764,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.30000000447035,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1020.1999999955297,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.09855655696517518,
+            0.7939059170198761
+          ],
+          "smoothed": [
+            0.13456534202312403,
+            0.7866347692243869
+          ],
+          "requested": {
+            "yaw": 4.3461143827681115,
+            "pitch": -11.100409654023075
+          },
+          "frame": 160,
+          "desired": 160,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.015228674755325893,
+          "changed": true,
+          "angularJump": 2.5021506929568247,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.5
+        },
+        {
+          "t": 1036.7999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.05080573169635971,
+            0.7983851060902862
+          ],
+          "smoothed": [
+            0.08714688920003685,
+            0.7932869347747917
+          ],
+          "requested": {
+            "yaw": 2.9235607980754956,
+            "pitch": -11.133670481775098
+          },
+          "frame": 161,
+          "desired": 161,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.023147707887793738,
+          "changed": true,
+          "angularJump": 1.2318576524734248,
+          "cacheWait": false,
+          "inputAgeMs": 16.100000001490116,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 1053.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.002872307099323068,
+            0.7999948436408371
+          ],
+          "smoothed": [
+            0.03943689770080373,
+            0.7970844531605156
+          ],
+          "requested": {
+            "yaw": 1.492261053098502,
+            "pitch": -11.15265807370372
+          },
+          "frame": 162,
+          "desired": 162,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.025664405449378078,
+          "changed": true,
+          "angularJump": 0.8322529646653833,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 1070.2999999970198,
+          "dt": 16.799999997019768,
+          "raw": [
+            -0.04478466275689075,
+            0.7987454750931311
+          ],
+          "smoothed": [
+            -0.008425328802267623,
+            0.7980283944450676
+          ],
+          "requested": {
+            "yaw": 0.07324491561089674,
+            "pitch": -11.157377780126478
+          },
+          "frame": 164,
+          "desired": 164,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.015306715604398913,
+          "changed": true,
+          "angularJump": 2.2267670463454508,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 1086.7999999970198,
+          "dt": 16.5,
+          "raw": [
+            -0.0925679027105103,
+            0.7946264426683634
+          ],
+          "smoothed": [
+            -0.055693682467850135,
+            0.7961172969795934
+          ],
+          "requested": {
+            "yaw": -1.2502689870254136,
+            "pitch": -11.147822292799107
+          },
+          "frame": 164,
+          "desired": 164,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.035465323358096795,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.19999999552965,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 1103.6000000014901,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.13973564045248055,
+            0.7877016889580313
+          ],
+          "smoothed": [
+            -0.10327197951871932,
+            0.7913530065237858
+          ],
+          "requested": {
+            "yaw": -2.5824613044497506,
+            "pitch": -11.12400084052007
+          },
+          "frame": 166,
+          "desired": 166,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.024698735678075616,
+          "changed": true,
+          "angularJump": 2.1760448701140627,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 1120.1999999955297,
+          "dt": 16.69999999552965,
+          "raw": [
+            -0.18668646656900723,
+            0.777912696386927
+          ],
+          "smoothed": [
+            -0.15049504924797522,
+            0.7837441039791586
+          ],
+          "requested": {
+            "yaw": -3.9047072568689156,
+            "pitch": -11.085956327796934
+          },
+          "frame": 167,
+          "desired": 167,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03427841325836231,
+          "changed": true,
+          "angularJump": 1.6556158949414688,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 1136.7999999970198,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.23296632855914023,
+            0.7653278315582641
+          ],
+          "smoothed": [
+            -0.19700478607616206,
+            0.7733582340034998
+          ],
+          "requested": {
+            "yaw": -5.2069798880581475,
+            "pitch": -11.03402697791864
+          },
+          "frame": 168,
+          "desired": 168,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.01687554802125775,
+          "changed": true,
+          "angularJump": 1.5207609425331168,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 1153.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.27813959883096295,
+            0.750092236703028
+          ],
+          "smoothed": [
+            -0.24293727402605644,
+            0.7601867592152874
+          ],
+          "requested": {
+            "yaw": -6.49308955065519,
+            "pitch": -10.968169603977579
+          },
+          "frame": 168,
+          "desired": 168,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.0365153369752005,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.30000000447035,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1170.1999999955297,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.32258801373945944,
+            0.732077163550148
+          ],
+          "smoothed": [
+            -0.2878563655350354,
+            0.7443343326778057
+          ],
+          "requested": {
+            "yaw": -7.750824112906602,
+            "pitch": -10.88890747129017
+          },
+          "frame": 170,
+          "desired": 170,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.012285463368410878,
+          "changed": true,
+          "angularJump": 2.5842449823547007,
+          "cacheWait": false,
+          "inputAgeMs": 16.599999994039536,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 1186.7999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            -0.3658770249225455,
+            0.7114309542280455
+          ],
+          "smoothed": [
+            -0.3320258517821632,
+            0.7257068904935196
+          ],
+          "requested": {
+            "yaw": -8.987569727826179,
+            "pitch": -10.795770260368737
+          },
+          "frame": 170,
+          "desired": 170,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.031595950159018046,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 1203.3999999985099,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.40785104866756827,
+            0.6882278126469208
+          ],
+          "smoothed": [
+            -0.3747875256829609,
+            0.7045705377927018
+          ],
+          "requested": {
+            "yaw": -10.184896597048516,
+            "pitch": -10.69008849686465
+          },
+          "frame": 172,
+          "desired": 172,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.026745181971831993,
+          "changed": true,
+          "angularJump": 2.796954163140918,
+          "cacheWait": false,
+          "inputAgeMs": 16.200000002980232,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 1220.1999999955297,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.4481213167220237,
+            0.6627120683217711
+          ],
+          "smoothed": [
+            -0.4163036561681762,
+            0.6808733900543437
+          ],
+          "requested": {
+            "yaw": -11.347348250634543,
+            "pitch": -10.571602758172858
+          },
+          "frame": 172,
+          "desired": 172,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.024938846126674123,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1236,
+          "dt": 15.899999998509884,
+          "raw": [
+            -0.4870281326603215,
+            0.6346681006615982
+          ],
+          "smoothed": [
+            -0.45509028622436515,
+            0.6555335423070845
+          ],
+          "requested": {
+            "yaw": -12.433373892207833,
+            "pitch": -10.444903519436563
+          },
+          "frame": 174,
+          "desired": 174,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.04007560460349185,
+          "changed": true,
+          "angularJump": 2.1177398818842783,
+          "cacheWait": false,
+          "inputAgeMs": 15.700000002980232,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 1253.5,
+          "dt": 17.5,
+          "raw": [
+            -0.5239675190476024,
+            0.6045312555882454
+          ],
+          "smoothed": [
+            -0.49525521666304084,
+            0.625792171838083
+          ],
+          "requested": {
+            "yaw": -13.557991944490754,
+            "pitch": -10.296196667091555
+          },
+          "frame": 174,
+          "desired": 174,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.04748546456658742,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17.100000001490116,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 1270.1999999955297,
+          "dt": 16.69999999552965,
+          "raw": [
+            -0.5592516318696941,
+            0.5720468619362267
+          ],
+          "smoothed": [
+            -0.5314852204021308,
+            0.5953655804045621
+          ],
+          "requested": {
+            "yaw": -14.57243204918527,
+            "pitch": -10.144063709923952
+          },
+          "frame": 175,
+          "desired": 175,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.007364062248927166,
+          "changed": true,
+          "angularJump": 1.887806149901104,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1286.7999999970198,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.5925257554863126,
+            0.5375064921332342
+          ],
+          "smoothed": [
+            -0.5659090737281536,
+            0.5627359062792817
+          ],
+          "requested": {
+            "yaw": -15.536299942313908,
+            "pitch": -9.98091533929755
+          },
+          "frame": 175,
+          "desired": 175,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.031923562752862046,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 1303.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.6236703003862609,
+            0.5010342866672013
+          ],
+          "smoothed": [
+            -0.5986091781267755,
+            0.5278050448759792
+          ],
+          "requested": {
+            "yaw": -16.451902865475326,
+            "pitch": -9.806261032281036
+          },
+          "frame": 176,
+          "desired": 176,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.032530818672036485,
+          "changed": true,
+          "angularJump": 1.4554421692513997,
+          "cacheWait": false,
+          "inputAgeMs": 16.30000000447035,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 1319.2999999970198,
+          "dt": 15.799999997019768,
+          "raw": [
+            -0.6524071394152974,
+            0.4629955987263257
+          ],
+          "smoothed": [
+            -0.6279912146840618,
+            0.492409028550861
+          ],
+          "requested": {
+            "yaw": -17.27459988907934,
+            "pitch": -9.629280950655446
+          },
+          "frame": 177,
+          "desired": 177,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.017999905395838685,
+          "changed": true,
+          "angularJump": 1.280661499511426,
+          "cacheWait": false,
+          "inputAgeMs": 15.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1336.1999999955297,
+          "dt": 16.899999998509884,
+          "raw": [
+            -0.6789791129991578,
+            0.42306898268589377
+          ],
+          "smoothed": [
+            -0.6570768860965756,
+            0.45285450960807977
+          ],
+          "requested": {
+            "yaw": -18.088998688629726,
+            "pitch": -9.431508355941538
+          },
+          "frame": 177,
+          "desired": 177,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.0377033327403923,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.799999997019768,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1352.6999999955297,
+          "dt": 16.5,
+          "raw": [
+            -0.7029737259989488,
+            0.38187424704365025
+          ],
+          "smoothed": [
+            -0.6828601247101673,
+            0.41298028187373315
+          ],
+          "requested": {
+            "yaw": -18.810929369810296,
+            "pitch": -9.232137217269806
+          },
+          "frame": 177,
+          "desired": 177,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.06271699403964746,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 1369.7999999970198,
+          "dt": 17.100000001490116,
+          "raw": [
+            -0.7247154349856734,
+            0.3388030966409934
+          ],
+          "smoothed": [
+            -0.7069150750692937,
+            0.3703494066799235
+          ],
+          "requested": {
+            "yaw": -19.484467979865837,
+            "pitch": -9.018982841300758
+          },
+          "frame": 179,
+          "desired": 179,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.04781705791140426,
+          "changed": true,
+          "angularJump": 2.5861939753596386,
+          "cacheWait": false,
+          "inputAgeMs": 16.799999997019768,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1386.7999999970198,
+          "dt": 17,
+          "raw": [
+            -0.7436095231543352,
+            0.29503368803271
+          ],
+          "smoothed": [
+            -0.7279257681231711,
+            0.3272247507929782
+          ],
+          "requested": {
+            "yaw": -20.0727673853744,
+            "pitch": -8.803359561866031
+          },
+          "frame": 179,
+          "desired": 179,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.05746923108721246,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.799999997019768,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 1403.1000000014901,
+          "dt": 16.30000000447035,
+          "raw": [
+            -0.7598629287734732,
+            0.2502165651506705
+          ],
+          "smoothed": [
+            -0.7457262854685518,
+            0.2843034166370806
+          ],
+          "requested": {
+            "yaw": -20.571181871045063,
+            "pitch": -8.588752891086543
+          },
+          "frame": 180,
+          "desired": 180,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.054545027483528186,
+          "changed": true,
+          "angularJump": 1.2704492749561849,
+          "cacheWait": false,
+          "inputAgeMs": 16,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 1420.1999999955297,
+          "dt": 17.099999994039536,
+          "raw": [
+            -0.7734913108278206,
+            0.2042331806388471
+          ],
+          "smoothed": [
+            -0.7616833122390314,
+            0.23828570612503505
+          ],
+          "requested": {
+            "yaw": -21.01797862061849,
+            "pitch": -8.358664338526316
+          },
+          "frame": 181,
+          "desired": 181,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.050665879623555544,
+          "changed": true,
+          "angularJump": 0.8072426602002755,
+          "cacheWait": false,
+          "inputAgeMs": 16.799999997019768,
+          "renderMs": 0.4000000059604645
+        },
+        {
+          "t": 1436.7999999970198,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.7842831065092686,
+            0.15779736640442166
+          ],
+          "smoothed": [
+            -0.7744284823474523,
+            0.19289424949418552
+          ],
+          "requested": {
+            "yaw": -21.374843383654277,
+            "pitch": -8.131707055372068
+          },
+          "frame": 181,
+          "desired": 181,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.05695613734621405,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.19999999552965,
+          "renderMs": 0
+        },
+        {
+          "t": 1453.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.7923295117999177,
+            0.11051671697487242
+          ],
+          "smoothed": [
+            -0.7845627119302699,
+            0.14625822617309284
+          ],
+          "requested": {
+            "yaw": -21.65860181197317,
+            "pitch": -7.898526938766604
+          },
+          "frame": 181,
+          "desired": 181,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.06780518544684096,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.700000002980232,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1469.6000000014901,
+          "dt": 16.100000001490116,
+          "raw": [
+            -0.7975282297971539,
+            0.06283886278902773
+          ],
+          "smoothed": [
+            -0.7917315032977124,
+            0.10013465299653215
+          ],
+          "requested": {
+            "yaw": -21.859327970261557,
+            "pitch": -7.667909072883801
+          },
+          "frame": 181,
+          "desired": 181,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.0802364904949585,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16,
+          "renderMs": 0.09999999403953552
+        },
+        {
+          "t": 1485.8999999985099,
+          "dt": 16.299999997019768,
+          "raw": [
+            -0.7998605759474389,
+            0.014935161366103067
+          ],
+          "smoothed": [
+            -0.7962623286971562,
+            0.05264780703854488
+          ],
+          "requested": {
+            "yaw": -21.986191081445984,
+            "pitch": -7.430474843093865
+          },
+          "frame": 181,
+          "desired": 181,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.09350011544600242,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.100000001490116,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 1503.2999999970198,
+          "dt": 17.399999998509884,
+          "raw": [
+            -0.7993299723862192,
+            -0.0327352294179557
+          ],
+          "smoothed": [
+            -0.7980447783100507,
+            0.0030361259876280355
+          ],
+          "requested": {
+            "yaw": -22.03609967060703,
+            "pitch": -7.18241643783928
+          },
+          "frame": 181,
+          "desired": 181,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.10734228970261675,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17.19999999552965,
+          "renderMs": 0.7000000029802322
+        },
+        {
+          "t": 1520.1999999955297,
+          "dt": 16.899999998509884,
+          "raw": [
+            -0.7959319352523933,
+            -0.08057514781481956
+          ],
+          "smoothed": [
+            -0.7968395225346221,
+            -0.04465930992092945
+          ],
+          "requested": {
+            "yaw": -22.00235250889503,
+            "pitch": -6.3633682293244105
+          },
+          "frame": 26,
+          "desired": 26,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.05805003508833036,
+          "changed": true,
+          "angularJump": 3.79991318455818,
+          "cacheWait": false,
+          "inputAgeMs": 16.19999999552965,
+          "renderMs": 0.4000000059604645
+        },
+        {
+          "t": 1536.7999999970198,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.7897192146284893,
+            -0.12784194165672802
+          ],
+          "smoothed": [
+            -0.7928240198091168,
+            -0.09157021445668839
+          ],
+          "requested": {
+            "yaw": -21.88991843258088,
+            "pitch": -5.5189719476807495
+          },
+          "frame": 26,
+          "desired": 26,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.013943771845147591,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.19999999552965,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1553.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.7806393099691356,
+            -0.17493503860265414
+          ],
+          "smoothed": [
+            -0.785925944631581,
+            -0.1387651687619605
+          ],
+          "requested": {
+            "yaw": -21.69677232760988,
+            "pitch": -4.669462770185852
+          },
+          "frame": 26,
+          "desired": 26,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.039279941597516965,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.600000001490116,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1570.1999999955297,
+          "dt": 16.69999999552965,
+          "raw": [
+            -0.7687537334136432,
+            -0.221399406870446
+          ],
+          "smoothed": [
+            -0.776204317652549,
+            -0.1855465196545028
+          ],
+          "requested": {
+            "yaw": -21.424566772196982,
+            "pitch": -3.82739845412009
+          },
+          "frame": 26,
+          "desired": 26,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.08649045204514465,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.599999994039536,
+          "renderMs": 0
+        },
+        {
+          "t": 1586.6999999955297,
+          "dt": 16.5,
+          "raw": [
+            -0.7541052025496171,
+            -0.2670680502935556
+          ],
+          "smoothed": [
+            -0.7637898080902326,
+            -0.2313424629282192
+          ],
+          "requested": {
+            "yaw": -21.076960504452124,
+            "pitch": -3.0030714751931953
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.12100139699441913,
+          "changed": true,
+          "angularJump": 0.7247925243341696,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 1603.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.7367463652143361,
+            -0.3117768325957915
+          ],
+          "smoothed": [
+            -0.74847982496653,
+            -0.2768784121720843
+          ],
+          "requested": {
+            "yaw": -20.64828097698845,
+            "pitch": -2.1834243888036227
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.1680181115192538,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.600000001490116,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1620.3999999985099,
+          "dt": 16.899999998509884,
+          "raw": [
+            -0.7168671540502998,
+            -0.3551077068212176
+          ],
+          "smoothed": [
+            -0.7304466094560729,
+            -0.3215037376745427
+          ],
+          "requested": {
+            "yaw": -20.14335094269565,
+            "pitch": -1.3801685297593718
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.21494967883937705,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.700000002980232,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 1637,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.6944422269895685,
+            -0.3971775338230611
+          ],
+          "smoothed": [
+            -0.7101419122673656,
+            -0.3641800290217168
+          ],
+          "requested": {
+            "yaw": -19.574819421411846,
+            "pitch": -0.611995285510238
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.23561216188969655,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.200000002980232,
+          "renderMs": 1.2999999970197678
+        },
+        {
+          "t": 1653.5,
+          "dt": 16.5,
+          "raw": [
+            -0.6693939749705767,
+            -0.438077283447899
+          ],
+          "smoothed": [
+            -0.6872511469647972,
+            -0.4056929207112606
+          ],
+          "requested": {
+            "yaw": -18.93387799293993,
+            "pitch": 0.1352367649015509
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.2595041710967528,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.100000001490116,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1669.7999999970198,
+          "dt": 16.200000002980232,
+          "raw": [
+            -0.6419398745155207,
+            -0.47740255289116096
+          ],
+          "smoothed": [
+            -0.662096959552403,
+            -0.44550194459480563
+          ],
+          "requested": {
+            "yaw": -18.229560745392895,
+            "pitch": 0.8517991948053618
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.29060035237083903,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.19999999552965,
+          "renderMs": 0
+        },
+        {
+          "t": 1686.7999999970198,
+          "dt": 17.19999999552965,
+          "raw": [
+            -0.6123634675841362,
+            -0.5147921751234497
+          ],
+          "smoothed": [
+            -0.633408795611065,
+            -0.48547117688211805
+          ],
+          "requested": {
+            "yaw": -17.42629215503543,
+            "pitch": 1.5712453759769849
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.29099706436731043,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17,
+          "renderMs": 0.5
+        },
+        {
+          "t": 1703.3999999985099,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.580414818988922,
+            -0.5505621108449591
+          ],
+          "smoothed": [
+            -0.6035228046726259,
+            -0.5221792555465747
+          ],
+          "requested": {
+            "yaw": -16.589484408759134,
+            "pitch": 2.2319907919372044
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.2567837052141466,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.100000001490116,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1719.5,
+          "dt": 16,
+          "raw": [
+            -0.5463801192239246,
+            -0.5843532881030533
+          ],
+          "smoothed": [
+            -0.5720559828834658,
+            -0.5564166944594604
+          ],
+          "requested": {
+            "yaw": -15.708413398662652,
+            "pitch": 2.8482646923691464
+          },
+          "frame": 62,
+          "desired": 62,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": true,
+          "error": 0.2296098446389937,
+          "changed": true,
+          "angularJump": 12.551075875780375,
+          "cacheWait": false,
+          "inputAgeMs": 15.899999998509884,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 1736.7999999970198,
+          "dt": 17.399999998509884,
+          "raw": [
+            -0.5103816913638408,
+            -0.6160442590598384
+          ],
+          "smoothed": [
+            -0.5362202313466633,
+            -0.5910631984907851
+          ],
+          "requested": {
+            "yaw": -14.705012355632181,
+            "pitch": 3.4719017649329915
+          },
+          "frame": 62,
+          "desired": 62,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.21027506809061056,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 1753.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.4727806531580594,
+            -0.6453514189954483
+          ],
+          "smoothed": [
+            -0.5003054672428661,
+            -0.6217971454795775
+          ],
+          "requested": {
+            "yaw": -13.699398960725858,
+            "pitch": 4.0251128107312555
+          },
+          "frame": 62,
+          "desired": 62,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.2038681981696179,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1769.2999999970198,
+          "dt": 15.799999997019768,
+          "raw": [
+            -0.43325925733741166,
+            -0.6725224278278268
+          ],
+          "smoothed": [
+            -0.46368783075094466,
+            -0.6495010224414155
+          ],
+          "requested": {
+            "yaw": -12.67410513895206,
+            "pitch": 4.523782596044339
+          },
+          "frame": 62,
+          "desired": 62,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.20981801336041148,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.699999995529652,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1786.7999999970198,
+          "dt": 17.5,
+          "raw": [
+            -0.392180697655645,
+            -0.697276344347298
+          ],
+          "smoothed": [
+            -0.4219893055791715,
+            -0.677360627166821
+          ],
+          "requested": {
+            "yaw": -11.506546434142411,
+            "pitch": 5.025255481101637
+          },
+          "frame": 62,
+          "desired": 67,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": true,
+          "error": 0.19062728982994057,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": true,
+          "inputAgeMs": 17.399999998509884,
+          "renderMs": 0.7000000029802322
+        },
+        {
+          "t": 1803.1999999955297,
+          "dt": 16.399999998509884,
+          "raw": [
+            -0.3499509281294797,
+            -0.7193986015425078
+          ],
+          "smoothed": [
+            -0.3816789098999391,
+            -0.7008837469347637
+          ],
+          "requested": {
+            "yaw": -10.377855355123904,
+            "pitch": 5.448671636924607
+          },
+          "frame": 67,
+          "desired": 67,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": true,
+          "error": 0.17310892766582744,
+          "changed": true,
+          "angularJump": 6.1591472586930625,
+          "cacheWait": false,
+          "inputAgeMs": 15.599999994039536,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 1820.1999999955297,
+          "dt": 17,
+          "raw": [
+            -0.30621308643317047,
+            -0.7390761433689169
+          ],
+          "smoothed": [
+            -0.338468306234674,
+            -0.7227521428460545
+          ],
+          "requested": {
+            "yaw": -9.167958452496482,
+            "pitch": 5.842302763327841
+          },
+          "frame": 67,
+          "desired": 67,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.16872714463315933,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.799999997019768,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1835.7999999970198,
+          "dt": 15.600000001490116,
+          "raw": [
+            -0.2613746936374438,
+            -0.7560973942065483
+          ],
+          "smoothed": [
+            -0.2967148690826172,
+            -0.7408117305355532
+          ],
+          "requested": {
+            "yaw": -7.998862212238891,
+            "pitch": 6.167375341738816
+          },
+          "frame": 70,
+          "desired": 70,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.14857030042433006,
+          "changed": true,
+          "angularJump": 2.8291119009603207,
+          "cacheWait": false,
+          "inputAgeMs": 15.5,
+          "renderMs": 0.6000000014901161
+        },
+        {
+          "t": 1853.5,
+          "dt": 17.700000002980232,
+          "raw": [
+            -0.21587349233023567,
+            -0.7703237211128499
+          ],
+          "smoothed": [
+            -0.2492378742983633,
+            -0.7581437043217367
+          ],
+          "requested": {
+            "yaw": -6.669506358279782,
+            "pitch": 6.47935086989012
+          },
+          "frame": 70,
+          "desired": 70,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.14864010314490952,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 1870.1000000014901,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.16932497497800003,
+            -0.7818753435482537
+          ],
+          "smoothed": [
+            -0.20417093769193295,
+            -0.7715271792010618
+          ],
+          "requested": {
+            "yaw": -5.407632133299733,
+            "pitch": 6.720253417717973
+          },
+          "frame": 71,
+          "desired": 71,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.14336531220527746,
+          "changed": true,
+          "angularJump": 1.5142695642249726,
+          "cacheWait": false,
+          "inputAgeMs": 16.400000005960464,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 1886.7999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            -0.12245174643618384,
+            -0.7905729376817351
+          ],
+          "smoothed": [
+            -0.15790761817332039,
+            -0.782309469095588
+          ],
+          "requested": {
+            "yaw": -4.112259186778581,
+            "pitch": 6.914334635819443
+          },
+          "frame": 73,
+          "desired": 73,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.1374445916944131,
+          "changed": true,
+          "angularJump": 2.4725651750919795,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 1903.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.0748577048661967,
+            -0.7964900024621562
+          ],
+          "smoothed": [
+            -0.11089094293001048,
+            -0.79033743090221
+          ],
+          "requested": {
+            "yaw": -2.7957922799659034,
+            "pitch": 7.058837948338639
+          },
+          "frame": 73,
+          "desired": 73,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.14596794199794905,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.30000000447035,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 1920.1999999955297,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.026994619505983475,
+            -0.799544426856774
+          ],
+          "smoothed": [
+            -0.06357755145730554,
+            -0.7955297228419201
+          ],
+          "requested": {
+            "yaw": -1.4710173187301647,
+            "pitch": 7.152299203253421
+          },
+          "frame": 73,
+          "desired": 73,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.16865900493229039,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1936.7999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.020965486391534283,
+            -0.7997252330521818
+          ],
+          "smoothed": [
+            -0.015715580322099673,
+            -0.7979049082349509
+          ],
+          "requested": {
+            "yaw": -0.13088212694440066,
+            "pitch": 7.195052540327976
+          },
+          "frame": 73,
+          "desired": 73,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.2009115952917506,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 1953.3999999985099,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.06856407082536653,
+            -0.7970564397781716
+          ],
+          "smoothed": [
+            0.031813989093824,
+            -0.797426413843189
+          ],
+          "requested": {
+            "yaw": 1.2635737948891101,
+            "pitch": 7.1864396412762614
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.22291398163401133,
+          "changed": true,
+          "angularJump": 1.5725901404620668,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.5
+        },
+        {
+          "t": 1970.1999999955297,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.11591917270590324,
+            -0.7915571649597892
+          ],
+          "smoothed": [
+            0.07942807978582347,
+            -0.794103682275096
+          ],
+          "requested": {
+            "yaw": 2.691996515649094,
+            "pitch": 7.126630473050587
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.24750438027399413,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 1986.7999999970198,
+          "dt": 16.599999994039536,
+          "raw": [
+            0.16342501670590615,
+            -0.7831297874009611
+          ],
+          "smoothed": [
+            0.12679821229779342,
+            -0.7879149464304213
+          ],
+          "requested": {
+            "yaw": 4.1131004910081925,
+            "pitch": 7.0152332278464415
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.27386778445663124,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.5
+        },
+        {
+          "t": 2003.5,
+          "dt": 16.80000000447035,
+          "raw": [
+            0.20978214086589775,
+            -0.7720048272994935
+          ],
+          "smoothed": [
+            0.1739571056355676,
+            -0.7788733931557901
+          ],
+          "requested": {
+            "yaw": 5.527867291141418,
+            "pitch": 6.85248526890308
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.30027740942226144,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.200000002980232,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 2020.1000000014901,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.25566647823086286,
+            -0.7580466027290327
+          ],
+          "smoothed": [
+            0.2200371646275585,
+            -0.7671281098303118
+          ],
+          "requested": {
+            "yaw": 6.910269060901146,
+            "pitch": 6.641070169044471
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.33218076423510706,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.400000005960464,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 2036.8999999985099,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.30036573447104287,
+            -0.7414717968713788
+          ],
+          "smoothed": [
+            0.2655132178781572,
+            -0.7526034163544064
+          ],
+          "requested": {
+            "yaw": 8.274550658419106,
+            "pitch": 6.3796256864781755
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.34761886245675505,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.5
+        },
+        {
+          "t": 2053.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.34425764028967776,
+            -0.7221403444637219
+          ],
+          "smoothed": [
+            0.3100924448552299,
+            -0.735357493981179
+          ],
+          "requested": {
+            "yaw": 9.611927467731288,
+            "pitch": 6.069199083760082
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.3511508363812755,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.100000001490116,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 2070.10000000149,
+          "dt": 16.5,
+          "raw": [
+            0.3869122602401065,
+            -0.7002134695047592
+          ],
+          "smoothed": [
+            0.3532471290237563,
+            -0.715614810806371
+          ],
+          "requested": {
+            "yaw": 10.90656799278708,
+            "pitch": 5.713830786613538
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.34698273136397384,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.400000005960464,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 2086.7999999970198,
+          "dt": 16.799999997019768,
+          "raw": [
+            0.4279336351773373,
+            -0.6759236672020812
+          ],
+          "smoothed": [
+            0.3956906845078811,
+            -0.6930587515855412
+          ],
+          "requested": {
+            "yaw": 12.179874657310824,
+            "pitch": 5.307821720638601
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.3440948929441939,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2103.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.4679014257456906,
+            -0.6488977236708032
+          ],
+          "smoothed": [
+            0.4365710278419127,
+            -0.6680580667540029
+          ],
+          "requested": {
+            "yaw": 13.406284957331772,
+            "pitch": 4.8578093936709115
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.35071482082341104,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.600000001490116,
+          "renderMs": 0
+        },
+        {
+          "t": 2120.1999999955297,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.505722363852763,
+            -0.6198748992330418
+          ],
+          "smoothed": [
+            0.47556897313929763,
+            -0.6408851350417025
+          ],
+          "requested": {
+            "yaw": 14.57622331625332,
+            "pitch": 4.368696622849504
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.3661070223845685,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.69999999552965,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2136.7999999970198,
+          "dt": 16.599999994039536,
+          "raw": [
+            0.5419587105085437,
+            -0.5884562482495336
+          ],
+          "smoothed": [
+            0.5130095129009823,
+            -0.6113178269247047
+          ],
+          "requested": {
+            "yaw": 15.69943950910386,
+            "pitch": 3.8364850767435437
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.3893075881026925,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2153.60000000149,
+          "dt": 16.900000005960464,
+          "raw": [
+            0.5760479438213277,
+            -0.5551295041872847
+          ],
+          "smoothed": [
+            0.548969321977504,
+            -0.5792656116574701
+          ],
+          "requested": {
+            "yaw": 16.77823378139951,
+            "pitch": 3.2595452019333218
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.41920043312687766,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.700000002980232,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 2169.39999999851,
+          "dt": 15.799999997019768,
+          "raw": [
+            0.6082781345814454,
+            -0.5196130396652082
+          ],
+          "smoothed": [
+            0.5813611386627591,
+            -0.5466860489931366
+          ],
+          "requested": {
+            "yaw": 17.74998828195716,
+            "pitch": 2.673113073975318
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.45255790147979474,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.5,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 2186.7999999970198,
+          "dt": 17.399999998509884,
+          "raw": [
+            0.6383221314804075,
+            -0.4822290497909778
+          ],
+          "smoothed": [
+            0.6144582352909921,
+            -0.509233409468588
+          ],
+          "requested": {
+            "yaw": 18.74290118080415,
+            "pitch": 1.998965562533443
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.4205417356757669,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17,
+          "renderMs": 0.8999999985098839
+        },
+        {
+          "t": 2203.39999999851,
+          "dt": 16.5,
+          "raw": [
+            0.6659128168559938,
+            -0.4433510125700806
+          ],
+          "smoothed": [
+            0.6433636186915681,
+            -0.47222298427847076
+          ],
+          "requested": {
+            "yaw": 19.610062682821432,
+            "pitch": 1.332777909111333
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.37461876990294385,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.600000001490116,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2220.39999999851,
+          "dt": 16.899999998509884,
+          "raw": [
+            0.6912833455717637,
+            -0.4026503894635016
+          ],
+          "smoothed": [
+            0.6706990742853931,
+            -0.43253580949831255
+          ],
+          "requested": {
+            "yaw": 20.430126350636183,
+            "pitch": 0.6184087630684854
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.32676349138807975,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.899999998509884,
+          "renderMs": 1
+        },
+        {
+          "t": 2236,
+          "dt": 15.700000002980232,
+          "raw": [
+            0.714039873349144,
+            -0.3607590044164367
+          ],
+          "smoothed": [
+            0.6942712810079804,
+            -0.39349781934062944
+          ],
+          "requested": {
+            "yaw": 21.137292552313802,
+            "pitch": -0.08427505976981031
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.2812731679286316,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 14.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2252.89999999851,
+          "dt": 16.899999998509884,
+          "raw": [
+            0.7343747040420174,
+            -0.3173228546184459
+          ],
+          "smoothed": [
+            0.7171479835870253,
+            -0.35004437122874127
+          ],
+          "requested": {
+            "yaw": 21.823593629685146,
+            "pitch": -0.866437125783798
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.23217435949762016,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.799999997019768,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2270.10000000149,
+          "dt": 17.30000000447035,
+          "raw": [
+            0.7519721659979004,
+            -0.2730162294890669
+          ],
+          "smoothed": [
+            0.7373093899281018,
+            -0.30544904815730484
+          ],
+          "requested": {
+            "yaw": 22.428435819917443,
+            "pitch": -1.6691529410696537
+          },
+          "frame": 142,
+          "desired": 142,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": true,
+          "error": 0.18328119860911252,
+          "changed": true,
+          "angularJump": 32.006165366303925,
+          "cacheWait": false,
+          "inputAgeMs": 17,
+          "renderMs": 1
+        },
+        {
+          "t": 2286.89999999851,
+          "dt": 16.799999997019768,
+          "raw": [
+            0.7670625857302584,
+            -0.22718932539362358
+          ],
+          "smoothed": [
+            0.7542178179949075,
+            -0.2609748712763815
+          ],
+          "requested": {
+            "yaw": 22.935688661921613,
+            "pitch": -2.4696881249262725
+          },
+          "frame": 142,
+          "desired": 142,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.13609676212741773,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.700000002980232,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2303.5,
+          "dt": 16.5,
+          "raw": [
+            0.7792981542086348,
+            -0.18081589213068316
+          ],
+          "smoothed": [
+            0.7683070732569937,
+            -0.2159443617525963
+          ],
+          "requested": {
+            "yaw": 23.3583663197842,
+            "pitch": -3.2802372963544073
+          },
+          "frame": 142,
+          "desired": 142,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.09048508811265159,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2320.2999999970198,
+          "dt": 16.899999998509884,
+          "raw": [
+            0.7886365940951339,
+            -0.1343589314263366
+          ],
+          "smoothed": [
+            0.7799038988295616,
+            -0.16940455334838214
+          ],
+          "requested": {
+            "yaw": 23.706271086961237,
+            "pitch": -4.117953847630262
+          },
+          "frame": 142,
+          "desired": 142,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.049196650485265475,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.69999999552965,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 2337,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.7953017948806569,
+            -0.0865739860443403
+          ],
+          "smoothed": [
+            0.7885875532972239,
+            -0.12269219580018464
+          ],
+          "requested": {
+            "yaw": 23.966780720991103,
+            "pitch": -4.958776283497817
+          },
+          "frame": 142,
+          "desired": 142,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.037963990633994964,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 1
+        },
+        {
+          "t": 2353.60000000149,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.7990464682584193,
+            -0.039047939302180756
+          ],
+          "smoothed": [
+            0.7944858658542322,
+            -0.07552095765031336
+          ],
+          "requested": {
+            "yaw": 24.143730097701354,
+            "pitch": -5.8078585701955
+          },
+          "frame": 143,
+          "desired": 143,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.0347906973387943,
+          "changed": true,
+          "angularJump": 1.7671834831942765,
+          "cacheWait": false,
+          "inputAgeMs": 15.5,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 2370.1999999955297,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.7999504478461792,
+            0.008903987348231057
+          ],
+          "smoothed": [
+            0.7975795051676452,
+            -0.027725841891208587
+          ],
+          "requested": {
+            "yaw": 24.236539277103745,
+            "pitch": -6.668170653859386
+          },
+          "frame": 143,
+          "desired": 143,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.07655734639580153,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.9000000059604645
+        },
+        {
+          "t": 2386.5,
+          "dt": 16.30000000447035,
+          "raw": [
+            0.7979997005430663,
+            0.05653740295748011
+          ],
+          "smoothed": [
+            0.7978137055447712,
+            0.01923917694470851
+          ],
+          "requested": {
+            "yaw": 24.243565288417525,
+            "pitch": -7.263431692624683
+          },
+          "frame": 144,
+          "desired": 144,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.06830229308570107,
+          "changed": true,
+          "angularJump": 2.0101424238435888,
+          "cacheWait": false,
+          "inputAgeMs": 15.399999998509884,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 2403.6999999955297,
+          "dt": 17.100000001490116,
+          "raw": [
+            0.7931777415747778,
+            0.10425483331882113
+          ],
+          "smoothed": [
+            0.7951493391255321,
+            0.06809910368677824
+          ],
+          "requested": {
+            "yaw": 24.163634295840353,
+            "pitch": -7.507731326335032
+          },
+          "frame": 144,
+          "desired": 144,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.06938583188848801,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.899999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2419.5,
+          "dt": 15.799999997019768,
+          "raw": [
+            0.7855050467163542,
+            0.15159756456862405
+          ],
+          "smoothed": [
+            0.789882058631093,
+            0.1137022226776641
+          ],
+          "requested": {
+            "yaw": 24.005615881007177,
+            "pitch": -7.735746921289461
+          },
+          "frame": 144,
+          "desired": 144,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.07043411204094394,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.600000001490116,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 2436.7999999970198,
+          "dt": 17.399999998509884,
+          "raw": [
+            0.7750803739451018,
+            0.1981171722116002
+          ],
+          "smoothed": [
+            0.7812815626762348,
+            0.16275139832206145
+          ],
+          "requested": {
+            "yaw": 23.747601002361435,
+            "pitch": -7.980992799511448
+          },
+          "frame": 144,
+          "desired": 144,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.07233349111692104,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17.100000001490116,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 2453.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.7618156296481029,
+            0.2442067698157948
+          ],
+          "smoothed": [
+            0.7702614012450345,
+            0.2088653627542859
+          ],
+          "requested": {
+            "yaw": 23.416996159425423,
+            "pitch": -8.21156262167257
+          },
+          "frame": 144,
+          "desired": 144,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.07562229513297823,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 2470,
+          "dt": 16.399999998509884,
+          "raw": [
+            0.7459167316328497,
+            0.2891508766546753
+          ],
+          "smoothed": [
+            0.756638894749345,
+            0.2537905949320279
+          ],
+          "requested": {
+            "yaw": 23.008320964554738,
+            "pitch": -8.43618878256128
+          },
+          "frame": 145,
+          "desired": 145,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.059321025398631246,
+          "changed": true,
+          "angularJump": 1.3166886272587515,
+          "cacheWait": false,
+          "inputAgeMs": 16.200000002980232,
+          "renderMs": 1.1000000014901161
+        },
+        {
+          "t": 2486.89999999851,
+          "dt": 17,
+          "raw": [
+            0.7272493263902864,
+            0.33332929253948707
+          ],
+          "smoothed": [
+            0.7398108667504759,
+            0.29933326551430456
+          ],
+          "requested": {
+            "yaw": 22.503480124588666,
+            "pitch": -8.663902135472663
+          },
+          "frame": 145,
+          "desired": 145,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.051586883883318,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.799999997019768,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2503.39999999851,
+          "dt": 16.5,
+          "raw": [
+            0.7059681365605504,
+            0.37630969979688866
+          ],
+          "smoothed": [
+            0.7207992051703257,
+            0.34257593269908176
+          ],
+          "requested": {
+            "yaw": 21.93313027718416,
+            "pitch": -8.88011547139655
+          },
+          "frame": 145,
+          "desired": 145,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.050407933308887536,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 2520.1999999955297,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.6821496482178864,
+            0.4179376238581709
+          ],
+          "smoothed": [
+            0.698918704695742,
+            0.3852401091914802
+          ],
+          "requested": {
+            "yaw": 21.27671526294665,
+            "pitch": -9.093436353858541
+          },
+          "frame": 145,
+          "desired": 145,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.05848091035145662,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.599999994039536,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 2536.89999999851,
+          "dt": 16.799999997019768,
+          "raw": [
+            0.6560438871025478,
+            0.4578279351408996
+          ],
+          "smoothed": [
+            0.6745533970503901,
+            0.42649100680102725
+          ],
+          "requested": {
+            "yaw": 20.54575603358609,
+            "pitch": -9.299690841906276
+          },
+          "frame": 146,
+          "desired": 146,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.0312785425913411,
+          "changed": true,
+          "angularJump": 2.06792552772951,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 1
+        },
+        {
+          "t": 2553.6999999955297,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.6274302466914237,
+            0.4963177263978582
+          ],
+          "smoothed": [
+            0.6478757791138624,
+            0.4660216946471308
+          ],
+          "requested": {
+            "yaw": 19.74542749549026,
+            "pitch": -9.497344281136794
+          },
+          "frame": 146,
+          "desired": 146,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.01801074307918895,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.699999995529652,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 2570.1999999955297,
+          "dt": 16.599999994039536,
+          "raw": [
+            0.5967529163307947,
+            0.5328094939569787
+          ],
+          "smoothed": [
+            0.6190450041687088,
+            0.5036867217242543
+          ],
+          "requested": {
+            "yaw": 18.880504247135654,
+            "pitch": -9.685669416522412
+          },
+          "frame": 146,
+          "desired": 146,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.0375283027933557,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 2586.89999999851,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.5637526574886254,
+            0.5676116112048031
+          ],
+          "smoothed": [
+            0.587742595728085,
+            0.5398762329349016
+          ],
+          "requested": {
+            "yaw": 17.94143199391694,
+            "pitch": -9.866616972575649
+          },
+          "frame": 148,
+          "desired": 148,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.02232045114452815,
+          "changed": true,
+          "angularJump": 2.109380019190861,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 1.3999999985098839
+        },
+        {
+          "t": 2603.60000000149,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.5287262324423083,
+            0.600373692900815
+          ],
+          "smoothed": [
+            0.5544602755324464,
+            0.5739938186603782
+          ],
+          "requested": {
+            "yaw": 16.942962388047782,
+            "pitch": -10.037204901203031
+          },
+          "frame": 148,
+          "desired": 148,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03168348978867599,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.200000002980232,
+          "renderMs": 0.09999999403953552
+        },
+        {
+          "t": 2619.5,
+          "dt": 16,
+          "raw": [
+            0.4917995285960759,
+            0.6309779898480434
+          ],
+          "smoothed": [
+            0.5199548171078066,
+            0.6053733512372114
+          ],
+          "requested": {
+            "yaw": 15.907798635308588,
+            "pitch": -10.194102564087197
+          },
+          "frame": 150,
+          "desired": 150,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.014561611887215994,
+          "changed": true,
+          "angularJump": 1.791763520281837,
+          "cacheWait": false,
+          "inputAgeMs": 15.700000002980232,
+          "renderMs": 0.8999999985098839
+        },
+        {
+          "t": 2636.89999999851,
+          "dt": 17.299999997019768,
+          "raw": [
+            0.4531052630881456,
+            0.6593145080777627
+          ],
+          "smoothed": [
+            0.4812523716047621,
+            0.6366025002361504
+          ],
+          "requested": {
+            "yaw": 14.746725270217253,
+            "pitch": -10.350248309081891
+          },
+          "frame": 150,
+          "desired": 150,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.043250694351087575,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2653.6999999955297,
+          "dt": 16.80000000447035,
+          "raw": [
+            0.41302852204510354,
+            0.6851331549248201
+          ],
+          "smoothed": [
+            0.44248147584226727,
+            0.6641819605915015
+          ],
+          "requested": {
+            "yaw": 13.583598397342408,
+            "pitch": -10.488145610858648
+          },
+          "frame": 151,
+          "desired": 151,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.06420104862632058,
+          "changed": true,
+          "angularJump": 1.533986616874788,
+          "cacheWait": false,
+          "inputAgeMs": 16.69999999552965,
+          "renderMs": 0.9000000059604645
+        },
+        {
+          "t": 2670.10000000149,
+          "dt": 16.5,
+          "raw": [
+            0.37123063729098416,
+            0.7086521106555246
+          ],
+          "smoothed": [
+            0.402455247986627,
+            0.6891637347773023
+          ],
+          "requested": {
+            "yaw": 12.382811561673202,
+            "pitch": -10.613054481787652
+          },
+          "frame": 153,
+          "desired": 153,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.023419089786646054,
+          "changed": true,
+          "angularJump": 2.779454558939358,
+          "cacheWait": false,
+          "inputAgeMs": 15.400000005960464,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 2686.7999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.3280985238441365,
+            0.729624121484
+          ],
+          "smoothed": [
+            0.36036000897972653,
+            0.7120693921791295
+          ],
+          "requested": {
+            "yaw": 11.119954391466187,
+            "pitch": -10.727582768796788
+          },
+          "frame": 153,
+          "desired": 153,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03463224115989096,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2703.39999999851,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.28405573510837034,
+            0.7478718736201029
+          ],
+          "smoothed": [
+            0.31732815927077923,
+            0.7322602271403895
+          ],
+          "requested": {
+            "yaw": 9.828998900197767,
+            "pitch": -10.828536943603087
+          },
+          "frame": 153,
+          "desired": 153,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.07501200928494126,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.7999999970197678
+        },
+        {
+          "t": 2720.1999999955297,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.23873008785377547,
+            0.7635495695456378
+          ],
+          "smoothed": [
+            0.27283178532637964,
+            0.7499739223372044
+          ],
+          "requested": {
+            "yaw": 8.49410768186578,
+            "pitch": -10.917105419587163
+          },
+          "frame": 155,
+          "desired": 155,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.06386627944547384,
+          "changed": true,
+          "angularJump": 3.0610052031948443,
+          "cacheWait": false,
+          "inputAgeMs": 16,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2736.7999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.1928252034768101,
+            0.7764138335347504
+          ],
+          "smoothed": [
+            0.22753801769577714,
+            0.7649422307722167
+          ],
+          "requested": {
+            "yaw": 7.135294652947704,
+            "pitch": -10.991946961762224
+          },
+          "frame": 157,
+          "desired": 157,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.023478931441799154,
+          "changed": true,
+          "angularJump": 2.7766589920031963,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.7000000029802322
+        },
+        {
+          "t": 2753.5,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.14595316312341544,
+            0.7865733749462092
+          ],
+          "smoothed": [
+            0.18135074958851022,
+            0.7771881734863144
+          ],
+          "requested": {
+            "yaw": 5.749676609729697,
+            "pitch": -11.053176675332713
+          },
+          "frame": 157,
+          "desired": 157,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.026576731948105795,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16,
+          "renderMs": 0
+        },
+        {
+          "t": 2770.10000000149,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.09855655696517451,
+            0.7939059170198761
+          ],
+          "smoothed": [
+            0.13465890556745796,
+            0.7866161568837032
+          ],
+          "requested": {
+            "yaw": 4.348921289098129,
+            "pitch": -11.100316592319658
+          },
+          "frame": 160,
+          "desired": 160,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.015300512382075367,
+          "changed": true,
+          "angularJump": 2.5021506929568247,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.5999999940395355
+        },
+        {
+          "t": 2786.7999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.05080573169635905,
+            0.7983851060902862
+          ],
+          "smoothed": [
+            0.08718748403432447,
+            0.7932788593551275
+          ],
+          "requested": {
+            "yaw": 2.924778643104124,
+            "pitch": -11.133630104676778
+          },
+          "frame": 161,
+          "desired": 161,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.02315668985447371,
+          "changed": true,
+          "angularJump": 1.2318576524734248,
+          "cacheWait": false,
+          "inputAgeMs": 16.100000001490116,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 2803.39999999851,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.0031595363850127622,
+            0.7999937608068151
+          ],
+          "smoothed": [
+            0.03979986298582857,
+            0.7970657328213054
+          ],
+          "requested": {
+            "yaw": 1.503150011649247,
+            "pitch": -11.152564472007668
+          },
+          "frame": 162,
+          "desired": 162,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.02544165723644272,
+          "changed": true,
+          "angularJump": 0.8322529646653833,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 2820.10000000149,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.04449787897171753,
+            0.798761503057714
+          ],
+          "smoothed": [
+            -0.007923239899365185,
+            0.7980257516258724
+          ],
+          "requested": {
+            "yaw": 0.08730340489216501,
+            "pitch": -11.157364566030502
+          },
+          "frame": 164,
+          "desired": 164,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.015635258449364062,
+          "changed": true,
+          "angularJump": 2.2267670463454508,
+          "cacheWait": false,
+          "inputAgeMs": 16.400000005960464,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 2836.7999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            -0.09228259473940137,
+            0.7946596269524226
+          ],
+          "smoothed": [
+            -0.05568122339597795,
+            0.7961201025498809
+          ],
+          "requested": {
+            "yaw": -1.2499201330129925,
+            "pitch": -11.147836320650544
+          },
+          "frame": 164,
+          "desired": 164,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03545407772824408,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 2853.39999999851,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.13973564045248033,
+            0.7877016889580313
+          ],
+          "smoothed": [
+            -0.10308377188555054,
+            0.7913725321964433
+          ],
+          "requested": {
+            "yaw": -2.577191490721025,
+            "pitch": -11.124098468883357
+          },
+          "frame": 166,
+          "desired": 166,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.024653490180828005,
+          "changed": true,
+          "angularJump": 2.1760448701140627,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.5
+        },
+        {
+          "t": 2870.1999999955297,
+          "dt": 16.799999997019768,
+          "raw": [
+            -0.1864071534208308,
+            0.7779796739976841
+          ],
+          "smoothed": [
+            -0.15043557275899389,
+            0.7837615118217435
+          ],
+          "requested": {
+            "yaw": -3.9030419151774387,
+            "pitch": -11.086043367009857
+          },
+          "frame": 167,
+          "desired": 167,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.034282124541651866,
+          "changed": true,
+          "angularJump": 1.6556158949414688,
+          "cacheWait": false,
+          "inputAgeMs": 16.19999999552965,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 2886.7999999970198,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.23269153088722005,
+            0.7654114262626095
+          ],
+          "smoothed": [
+            -0.19682387905238527,
+            0.7734129679740128
+          ],
+          "requested": {
+            "yaw": -5.201914491392397,
+            "pitch": -11.034300647771204
+          },
+          "frame": 168,
+          "desired": 168,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.016969184001784963,
+          "changed": true,
+          "angularJump": 1.5207609425331168,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 2903.39999999851,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.2781395988309624,
+            0.750092236703028
+          ],
+          "smoothed": [
+            -0.24268193725743367,
+            0.7602612249294797
+          ],
+          "requested": {
+            "yaw": -6.485940121133753,
+            "pitch": -10.96854193254854
+          },
+          "frame": 168,
+          "desired": 168,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.036294562986974185,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 2920.10000000149,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.3225880137394601,
+            0.732077163550148
+          ],
+          "smoothed": [
+            -0.2879188062476421,
+            0.7443055085639589
+          ],
+          "requested": {
+            "yaw": -7.752572452859588,
+            "pitch": -10.888763350720936
+          },
+          "frame": 170,
+          "desired": 170,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.012235210538217321,
+          "changed": true,
+          "angularJump": 2.5842449823547007,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 2936.7999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            -0.36562156977309623,
+            0.7115622725500961
+          ],
+          "smoothed": [
+            -0.331908323535044,
+            0.7257687270992242
+          ],
+          "requested": {
+            "yaw": -8.984278936906842,
+            "pitch": -10.796079443397261
+          },
+          "frame": 170,
+          "desired": 170,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03148650143516164,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 2953.39999999851,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.4076039216489935,
+            0.6883742027824411
+          ],
+          "smoothed": [
+            -0.3745969101161833,
+            0.7046800584218929
+          ],
+          "requested": {
+            "yaw": -10.179559361178741,
+            "pitch": -10.690636100010604
+          },
+          "frame": 172,
+          "desired": 172,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.02688593240839745,
+          "changed": true,
+          "angularJump": 2.796954163140918,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 2970.10000000149,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.4478833482590697,
+            0.6628729187048183
+          ],
+          "smoothed": [
+            -0.41608623291849206,
+            0.6810119697670577
+          ],
+          "requested": {
+            "yaw": -11.341260399643387,
+            "pitch": -10.57229565673643
+          },
+          "frame": 172,
+          "desired": 172,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.024783659620005713,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.30000000447035,
+          "renderMs": 0.09999999403953552
+        },
+        {
+          "t": 2985.7999999970198,
+          "dt": 15.699999995529652,
+          "raw": [
+            -0.4868002305720329,
+            0.6348429219224356
+          ],
+          "smoothed": [
+            -0.45454618304302014,
+            0.6559015342617586
+          ],
+          "requested": {
+            "yaw": -12.418139003130173,
+            "pitch": -10.446743479209934
+          },
+          "frame": 174,
+          "desired": 174,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.040226622803860516,
+          "changed": true,
+          "angularJump": 2.1177398818842783,
+          "cacheWait": false,
+          "inputAgeMs": 15.600000001490116,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 3003.39999999851,
+          "dt": 17.600000001490116,
+          "raw": [
+            -0.5239675190476021,
+            0.6045312555882458
+          ],
+          "smoothed": [
+            -0.49517273516894156,
+            0.6258387693487522
+          ],
+          "requested": {
+            "yaw": -13.555682462655973,
+            "pitch": -10.296429654644902
+          },
+          "frame": 174,
+          "desired": 174,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.04744331514622801,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17.100000001490116,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 3020,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.5592516318696947,
+            0.572046861936226
+          ],
+          "smoothed": [
+            -0.5313100746971418,
+            0.5955027847715846
+          ],
+          "requested": {
+            "yaw": -14.567527969445578,
+            "pitch": -10.144749731759063
+          },
+          "frame": 175,
+          "desired": 175,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.007424065975015809,
+          "changed": true,
+          "angularJump": 1.887806149901104,
+          "cacheWait": false,
+          "inputAgeMs": 16.30000000447035,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 3036.7999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            -0.5925257554863128,
+            0.537506492133234
+          ],
+          "smoothed": [
+            -0.5659658337224072,
+            0.5626696035323587
+          ],
+          "requested": {
+            "yaw": -15.53788922215301,
+            "pitch": -9.980583825562935
+          },
+          "frame": 175,
+          "desired": 175,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03197891643174848,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.600000001490116,
+          "renderMs": 0.5
+        },
+        {
+          "t": 3053.39999999851,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.6234903692621099,
+            0.5012581764294706
+          ],
+          "smoothed": [
+            -0.5985319412388668,
+            0.5279030275138257
+          ],
+          "requested": {
+            "yaw": -16.44974023261388,
+            "pitch": -9.806750945470268
+          },
+          "frame": 176,
+          "desired": 176,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03248241286210569,
+          "changed": true,
+          "angularJump": 1.4554421692513997,
+          "cacheWait": false,
+          "inputAgeMs": 16.100000001490116,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 3070.1999999955297,
+          "dt": 16.799999997019768,
+          "raw": [
+            -0.6524071394152972,
+            0.46299559872632634
+          ],
+          "smoothed": [
+            -0.6291486494072392,
+            0.4910168187867889
+          ],
+          "requested": {
+            "yaw": -17.30700806132831,
+            "pitch": -9.622319901835084
+          },
+          "frame": 177,
+          "desired": 177,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.01825000393592983,
+          "changed": true,
+          "angularJump": 1.280661499511426,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3086.7999999970198,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.6788271709067829,
+            0.4233127355025992
+          ],
+          "smoothed": [
+            -0.6571648870630118,
+            0.45283505269752433
+          ],
+          "requested": {
+            "yaw": -18.091462715689943,
+            "pitch": -9.431411071388762
+          },
+          "frame": 177,
+          "desired": 177,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03776058533595072,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3103.39999999851,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.7028365728829926,
+            0.38212661752106447
+          ],
+          "smoothed": [
+            -0.6829214668775724,
+            0.41295898021437516
+          ],
+          "requested": {
+            "yaw": -18.812646950497637,
+            "pitch": -9.232030708973017
+          },
+          "frame": 177,
+          "desired": 177,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.06276497327567604,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.6000000014901161
+        },
+        {
+          "t": 3120.10000000149,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.7244719610030077,
+            0.33932341168928604
+          ],
+          "smoothed": [
+            -0.7064442619137362,
+            0.37127200579337183
+          ],
+          "requested": {
+            "yaw": -19.471285211510224,
+            "pitch": -9.023595836868
+          },
+          "frame": 179,
+          "desired": 179,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.047716788149740966,
+          "changed": true,
+          "angularJump": 2.5861939753596386,
+          "cacheWait": false,
+          "inputAgeMs": 16.100000001490116,
+          "renderMs": 0.09999999403953552
+        },
+        {
+          "t": 3136.89999999851,
+          "dt": 16.799999997019768,
+          "raw": [
+            -0.7435035465799432,
+            0.2953006539495744
+          ],
+          "smoothed": [
+            -0.7275046633964037,
+            0.3280982860245622
+          ],
+          "requested": {
+            "yaw": -20.060976453024914,
+            "pitch": -8.80772723802395
+          },
+          "frame": 179,
+          "desired": 179,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.05719861240946531,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.700000002980232,
+          "renderMs": 0.8999999985098839
+        },
+        {
+          "t": 3153.10000000149,
+          "dt": 16.200000002980232,
+          "raw": [
+            -0.7597730422533013,
+            0.250489369565184
+          ],
+          "smoothed": [
+            -0.7454181936370117,
+            0.2850143220578161
+          ],
+          "requested": {
+            "yaw": -20.56255529976194,
+            "pitch": -8.59230741819022
+          },
+          "frame": 180,
+          "desired": 180,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.05446708948771346,
+          "changed": true,
+          "angularJump": 1.2704492749561849,
+          "cacheWait": false,
+          "inputAgeMs": 15.300000004470348,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 3170.1999999955297,
+          "dt": 17,
+          "raw": [
+            -0.7734179332646505,
+            0.2045108811399452
+          ],
+          "smoothed": [
+            -0.7614504264571211,
+            0.23891925386149535
+          ],
+          "requested": {
+            "yaw": -21.011457818725003,
+            "pitch": -8.361832077208618
+          },
+          "frame": 181,
+          "desired": 181,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.050643708056271906,
+          "changed": true,
+          "angularJump": 0.8072426602002755,
+          "cacheWait": false,
+          "inputAgeMs": 16.599999994039536,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 3186.7999999970198,
+          "dt": 16.599999994039536,
+          "raw": [
+            -0.7842831065092684,
+            0.15779736640442277
+          ],
+          "smoothed": [
+            -0.7743269326647544,
+            0.19317050754567722
+          ],
+          "requested": {
+            "yaw": -21.371999992538733,
+            "pitch": -8.133088345629526
+          },
+          "frame": 181,
+          "desired": 181,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.056910568848552806,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0
+        },
+        {
+          "t": 3203.39999999851,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.7923295117999177,
+            0.11051671697487264
+          ],
+          "smoothed": [
+            -0.7845186521143562,
+            0.14637808749190775
+          ],
+          "requested": {
+            "yaw": -21.657368137127584,
+            "pitch": -7.899126245360679
+          },
+          "frame": 181,
+          "desired": 181,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.06777645391511278,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3220.1999999955297,
+          "dt": 16.799999997019768,
+          "raw": [
+            -0.7975056167807715,
+            0.06312520259865573
+          ],
+          "smoothed": [
+            -0.7918990074660429,
+            0.09906634911825812
+          ],
+          "requested": {
+            "yaw": -21.864018086974813,
+            "pitch": -7.662567553492431
+          },
+          "frame": 181,
+          "desired": 181,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.08053241741885425,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.69999999552965,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3236.7999999970198,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.7998551620850961,
+            0.015222341666927708
+          ],
+          "smoothed": [
+            -0.7963858865418526,
+            0.05178246127569391
+          ],
+          "requested": {
+            "yaw": -21.989650701097485,
+            "pitch": -7.42614811427961
+          },
+          "frame": 181,
+          "desired": 181,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.09374495682001832,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 3252.6999999955297,
+          "dt": 15.800000004470348,
+          "raw": [
+            -0.7993299723862192,
+            -0.03273522941795548
+          ],
+          "smoothed": [
+            -0.7979938143491876,
+            0.005622684604067625
+          ],
+          "requested": {
+            "yaw": -22.034672679702865,
+            "pitch": -7.195349230921479
+          },
+          "frame": 181,
+          "desired": 181,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.10662231942630539,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.699999995529652,
+          "renderMs": 1.3000000044703484
+        },
+        {
+          "t": 3269.1999999955297,
+          "dt": 16.5,
+          "raw": [
+            -0.7959608135837515,
+            -0.08028937189374696
+          ],
+          "smoothed": [
+            -0.7968517456588736,
+            -0.04263970246177889
+          ],
+          "requested": {
+            "yaw": -22.002694756374073,
+            "pitch": -6.3997211635891205
+          },
+          "frame": 181,
+          "desired": 26,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.06006172021107227,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": true,
+          "inputAgeMs": 15.099999994039536,
+          "renderMs": 0.4000000059604645
+        },
+        {
+          "t": 3286.6999999955297,
+          "dt": 17.599999994039536,
+          "raw": [
+            -0.7897192146284894,
+            -0.12784194165672713
+          ],
+          "smoothed": [
+            -0.792677666617813,
+            -0.09250150879112368
+          ],
+          "requested": {
+            "yaw": -21.885820543224376,
+            "pitch": -5.502208649660915
+          },
+          "frame": 26,
+          "desired": 26,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.013316130457758294,
+          "changed": true,
+          "angularJump": 3.79991318455818,
+          "cacheWait": false,
+          "inputAgeMs": 17.099999994039536,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 3303.2999999970198,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.7806393099691356,
+            -0.17493503860265402
+          ],
+          "smoothed": [
+            -0.7858886267938844,
+            -0.1389899567620493
+          ],
+          "requested": {
+            "yaw": -21.695727428154374,
+            "pitch": -4.665416586184253
+          },
+          "frame": 26,
+          "desired": 26,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.0395008907718862,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 3319.1999999955297,
+          "dt": 15.899999998509884,
+          "raw": [
+            -0.768753733413643,
+            -0.2213994068704469
+          ],
+          "smoothed": [
+            -0.7764915297271359,
+            -0.18418484561843226
+          ],
+          "requested": {
+            "yaw": -21.432608710285415,
+            "pitch": -3.8519085867693597
+          },
+          "frame": 26,
+          "desired": 26,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.08510820309569402,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.699999995529652,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3336.7999999970198,
+          "dt": 17.5,
+          "raw": [
+            -0.7542010418305888,
+            -0.26679727978683465
+          ],
+          "smoothed": [
+            -0.7634930996347628,
+            -0.23235929362883662
+          ],
+          "requested": {
+            "yaw": -21.068652667698966,
+            "pitch": -2.9847685225820815
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.12204099496924847,
+          "changed": true,
+          "angularJump": 0.7247925243341696,
+          "cacheWait": false,
+          "inputAgeMs": 17.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3352.60000000149,
+          "dt": 15.900000005960464,
+          "raw": [
+            -0.73685825781748,
+            -0.311512291709634
+          ],
+          "smoothed": [
+            -0.7488860525737119,
+            -0.2757682830991345
+          ],
+          "requested": {
+            "yaw": -20.659655349989542,
+            "pitch": -2.2034067121167196
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.16686229051168133,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.700000002980232,
+          "renderMs": 0
+        },
+        {
+          "t": 3369.60000000149,
+          "dt": 17,
+          "raw": [
+            -0.7169946054151168,
+            -0.35485030055732114
+          ],
+          "smoothed": [
+            -0.7306254861321542,
+            -0.32104946544706225
+          ],
+          "requested": {
+            "yaw": -20.14835948962593,
+            "pitch": -1.38834542985402
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.21447111586814618,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 3386.2999999970198,
+          "dt": 16.5,
+          "raw": [
+            -0.6944422269895681,
+            -0.39717753382306153
+          ],
+          "smoothed": [
+            -0.7102989972872766,
+            -0.36381555035193436
+          ],
+          "requested": {
+            "yaw": -19.579217801969357,
+            "pitch": -0.6185559015663218
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.2354736153347006,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 1
+        },
+        {
+          "t": 3403.39999999851,
+          "dt": 17.299999997019768,
+          "raw": [
+            -0.669551218721748,
+            -0.4378369165662279
+          ],
+          "smoothed": [
+            -0.6867081341554347,
+            -0.40667010538945986
+          ],
+          "requested": {
+            "yaw": -18.918673634277784,
+            "pitch": 0.1528260891091371
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.2601449512724835,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3420.10000000149,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.6421112393476553,
+            -0.47717204057176077
+          ],
+          "smoothed": [
+            -0.661460693953019,
+            -0.4465830500090757
+          ],
+          "requested": {
+            "yaw": -18.21174530861014,
+            "pitch": 0.8712590922622221
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.29145861662333683,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.600000001490116,
+          "renderMs": 0
+        },
+        {
+          "t": 3436.5,
+          "dt": 16.399999998509884,
+          "raw": [
+            -0.6123634675841365,
+            -0.5147921751234494
+          ],
+          "smoothed": [
+            -0.6339874402270501,
+            -0.48475071729468083
+          ],
+          "requested": {
+            "yaw": -17.442494204283015,
+            "pitch": 1.5582771034031149
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.29170152805106364,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.30000000447035,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 3453.39999999851,
+          "dt": 16.899999998509884,
+          "raw": [
+            -0.5806124549323253,
+            -0.5503536837138993
+          ],
+          "smoothed": [
+            -0.6035400726117726,
+            -0.5221734467659723
+          ],
+          "requested": {
+            "yaw": -16.589967911055243,
+            "pitch": 2.231886233886361
+          },
+          "frame": 25,
+          "desired": 25,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.2567871561875299,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3470.10000000149,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.546589889716671,
+            -0.5841570785837636
+          ],
+          "smoothed": [
+            -0.5712991207841153,
+            -0.5572639624754934
+          ],
+          "requested": {
+            "yaw": -15.687221259880836,
+            "pitch": 2.863515516657741
+          },
+          "frame": 62,
+          "desired": 62,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": true,
+          "error": 0.22900322415360375,
+          "changed": true,
+          "angularJump": 12.551075875780375,
+          "cacheWait": false,
+          "inputAgeMs": 16.600000001490116,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 3486.10000000149,
+          "dt": 16,
+          "raw": [
+            -0.5106028424762096,
+            -0.6158609723429592
+          ],
+          "smoothed": [
+            -0.5378754383340714,
+            -0.5895316385988442
+          ],
+          "requested": {
+            "yaw": -14.751358151279607,
+            "pitch": 3.4443336868780543
+          },
+          "frame": 62,
+          "desired": 62,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.2109042377138372,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.600000001490116,
+          "renderMs": 0.09999999403953552
+        },
+        {
+          "t": 3503.39999999851,
+          "dt": 17.299999997019768,
+          "raw": [
+            -0.4730123291118582,
+            -0.6451816306344866
+          ],
+          "smoothed": [
+            -0.5003230419621761,
+            -0.6217501150806898
+          ],
+          "requested": {
+            "yaw": -13.69989105286654,
+            "pitch": 4.024266263551275
+          },
+          "frame": 62,
+          "desired": 62,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.20389315534228963,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17.200000002980232,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3520,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.4332592573374112,
+            -0.6725224278278271
+          ],
+          "smoothed": [
+            -0.46250237275888234,
+            -0.6503831970911936
+          ],
+          "requested": {
+            "yaw": -12.640912315174315,
+            "pitch": 4.539661739740345
+          },
+          "frame": 62,
+          "desired": 62,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.21017059113122497,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3536.7999999970198,
+          "dt": 16.799999997019768,
+          "raw": [
+            -0.39243102188568124,
+            -0.6971354911792687
+          ],
+          "smoothed": [
+            -0.42268156145304125,
+            -0.6769520338239879
+          ],
+          "requested": {
+            "yaw": -11.525929598610764,
+            "pitch": 5.017900800930643
+          },
+          "frame": 62,
+          "desired": 67,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": true,
+          "error": 0.1910087693493469,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": true,
+          "inputAgeMs": 16.600000001490116,
+          "renderMs": 0.6000000014901161
+        },
+        {
+          "t": 3553.39999999851,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.3499509281294798,
+            -0.7193986015425077
+          ],
+          "smoothed": [
+            -0.3816650688815692,
+            -0.7008898059834274
+          ],
+          "requested": {
+            "yaw": -10.377467806609546,
+            "pitch": 5.448780699800554
+          },
+          "frame": 67,
+          "desired": 67,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": true,
+          "error": 0.17310650714553175,
+          "changed": true,
+          "angularJump": 6.1591472586930625,
+          "cacheWait": false,
+          "inputAgeMs": 16,
+          "renderMs": 0
+        },
+        {
+          "t": 3570.10000000149,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.3062130864331699,
+            -0.739076143368917
+          ],
+          "smoothed": [
+            -0.33894977618618216,
+            -0.7225080660404313
+          ],
+          "requested": {
+            "yaw": -9.181439611138709,
+            "pitch": 5.8379093808266225
+          },
+          "frame": 67,
+          "desired": 67,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.16870823285573244,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.600000001490116,
+          "renderMs": 0.09999999403953552
+        },
+        {
+          "t": 3586.6999999955297,
+          "dt": 16.599999994039536,
+          "raw": [
+            -0.26164614535842423,
+            -0.7560035017240848
+          ],
+          "smoothed": [
+            -0.29535433842097736,
+            -0.741397840894846
+          ],
+          "requested": {
+            "yaw": -7.960767353712977,
+            "pitch": 6.177925328206087
+          },
+          "frame": 70,
+          "desired": 70,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.14827284525609447,
+          "changed": true,
+          "angularJump": 2.8291119009603207,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.4000000059604645
+        },
+        {
+          "t": 3603.39999999851,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.21615005479233484,
+            -0.7702461644261986
+          ],
+          "smoothed": [
+            -0.25068702613963967,
+            -0.7576668735397167
+          ],
+          "requested": {
+            "yaw": -6.710082609835521,
+            "pitch": 6.47076791581376
+          },
+          "frame": 70,
+          "desired": 70,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.14836728961325796,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0
+        },
+        {
+          "t": 3620.10000000149,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.16960568792509578,
+            -0.7818144988572769
+          ],
+          "smoothed": [
+            -0.20478481149158187,
+            -0.7713374604463435
+          ],
+          "requested": {
+            "yaw": -5.424820599689903,
+            "pitch": 6.716838480133043
+          },
+          "frame": 71,
+          "desired": 71,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.1432623843995579,
+          "changed": true,
+          "angularJump": 1.5142695642249726,
+          "cacheWait": false,
+          "inputAgeMs": 16.600000001490116,
+          "renderMs": 0.5
+        },
+        {
+          "t": 3636.7999999970198,
+          "dt": 16.799999997019768,
+          "raw": [
+            -0.12245174643618484,
+            -0.790572937681735
+          ],
+          "smoothed": [
+            -0.15799579705206723,
+            -0.7822687797347986
+          ],
+          "requested": {
+            "yaw": -4.114728195383493,
+            "pitch": 6.913602227325234
+          },
+          "frame": 73,
+          "desired": 73,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.1374667566906901,
+          "changed": true,
+          "angularJump": 2.4725651750919795,
+          "cacheWait": false,
+          "inputAgeMs": 16.100000001490116,
+          "renderMs": 0.7000000029802322
+        },
+        {
+          "t": 3653.39999999851,
+          "dt": 16.600000001490116,
+          "raw": [
+            -0.07514367113689124,
+            -0.7964630742778166
+          ],
+          "smoothed": [
+            -0.11127128150973402,
+            -0.790273662272957
+          ],
+          "requested": {
+            "yaw": -2.8064417601981626,
+            "pitch": 7.057690113012087
+          },
+          "frame": 73,
+          "desired": 73,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.14584524049881384,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.899999998509884,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3670.1999999955297,
+          "dt": 16.700000002980232,
+          "raw": [
+            -0.02699461950598303,
+            -0.799544426856774
+          ],
+          "smoothed": [
+            -0.06356011252431526,
+            -0.7955220786810824
+          ],
+          "requested": {
+            "yaw": -1.4705290286064372,
+            "pitch": 7.152161608358342
+          },
+          "frame": 73,
+          "desired": 73,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.168675825646153,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.69999999552965,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 3686.7999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.020678352370149256,
+            -0.7997327089367148
+          ],
+          "smoothed": [
+            -0.01587056791081707,
+            -0.7979058239176379
+          ],
+          "requested": {
+            "yaw": -0.1352217794284878,
+            "pitch": 7.195069022616342
+          },
+          "frame": 73,
+          "desired": 73,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.2007943446142313,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.299999997019768,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 3703.5,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.06856407082536631,
+            -0.7970564397781716
+          ],
+          "smoothed": [
+            0.031746406866379986,
+            -0.7974268131259711
+          ],
+          "requested": {
+            "yaw": 1.2615463280657897,
+            "pitch": 7.186446828366338
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.2228649973541696,
+          "changed": true,
+          "angularJump": 1.5725901404620668,
+          "cacheWait": false,
+          "inputAgeMs": 16.399999998509884,
+          "renderMs": 1
+        },
+        {
+          "t": 3720.1999999955297,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.11591917270590324,
+            -0.7915571649597893
+          ],
+          "smoothed": [
+            0.07939875758194148,
+            -0.7941038555137061
+          ],
+          "requested": {
+            "yaw": 2.6911168495326345,
+            "pitch": 7.126633591345569
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.24749336995109178,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.599999994039536,
+          "renderMs": 0.4000000059604645
+        },
+        {
+          "t": 3736.7999999970198,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.16314383191709858,
+            -0.7831884129042037
+          ],
+          "smoothed": [
+            0.12680898120924355,
+            -0.7879243449070717
+          ],
+          "requested": {
+            "yaw": 4.1134235583516965,
+            "pitch": 7.015402400426152
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.27386226865274843,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.19999999552965,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 3753.39999999851,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.20978214086589686,
+            -0.7720048272994937
+          ],
+          "smoothed": [
+            0.173601753816466,
+            -0.778946521590344
+          ],
+          "requested": {
+            "yaw": 5.517206736568371,
+            "pitch": 6.853801580725052
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.3000538887660204,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.100000001490116,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3770,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.25539429334204367,
+            -0.7581383481451907
+          ],
+          "smoothed": [
+            0.21972871485814682,
+            -0.7672117373249285
+          ],
+          "requested": {
+            "yaw": 6.901015567818795,
+            "pitch": 6.642575463947574
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.33207832028566403,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.5
+        },
+        {
+          "t": 3786.6999999955297,
+          "dt": 16.69999999552965,
+          "raw": [
+            0.300365734471042,
+            -0.741471796871379
+          ],
+          "smoothed": [
+            0.2653793893943751,
+            -0.752639700190275
+          ],
+          "requested": {
+            "yaw": 8.270535803905643,
+            "pitch": 6.38027879552381
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.3476325746811137,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.19999999552965,
+          "renderMs": 0.5
+        },
+        {
+          "t": 3803.39999999851,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.34425764028967687,
+            -0.7221403444637223
+          ],
+          "smoothed": [
+            0.31003438009123613,
+            -0.7353732366116489
+          ],
+          "requested": {
+            "yaw": 9.610185524811476,
+            "pitch": 6.069482451108539
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.3511485747225504,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.200000002980232,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3820.10000000149,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.3866608312510489,
+            -0.700352341022894
+          ],
+          "smoothed": [
+            0.3534145694949888,
+            -0.7155470139335197
+          ],
+          "requested": {
+            "yaw": 10.911591206924054,
+            "pitch": 5.712610442902215
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.3469410285134362,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.600000001490116,
+          "renderMs": 0.3999999985098839
+        },
+        {
+          "t": 3836.6999999955297,
+          "dt": 16.599999994039536,
+          "raw": [
+            0.4279336351773364,
+            -0.6759236672020816
+          ],
+          "smoothed": [
+            0.3954396497595171,
+            -0.6932013992711451
+          ],
+          "requested": {
+            "yaw": 12.172343614859905,
+            "pitch": 5.310389378979472
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.3440841118913407,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.099999994039536,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 3852.60000000149,
+          "dt": 15.900000005960464,
+          "raw": [
+            0.46766841589841723,
+            -0.6490656767778322
+          ],
+          "smoothed": [
+            0.43505126049819826,
+            -0.6689965408396235
+          ],
+          "requested": {
+            "yaw": 13.360691937020338,
+            "pitch": 4.874701927212082
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.3503451694689519,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.700000002980232,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 3869.60000000149,
+          "dt": 16.899999998509884,
+          "raw": [
+            0.5054997718980514,
+            -0.6200564334082972
+          ],
+          "smoothed": [
+            0.47523809544899664,
+            -0.6410790166686138
+          ],
+          "requested": {
+            "yaw": 14.566296985544291,
+            "pitch": 4.372186492133907
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.3659889856459782,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.80000000447035,
+          "renderMs": 0
+        },
+        {
+          "t": 3886.7999999970198,
+          "dt": 17.299999997019768,
+          "raw": [
+            0.5417473967440634,
+            -0.5886507947170634
+          ],
+          "smoothed": [
+            0.5137435521654443,
+            -0.6107257789745429
+          ],
+          "requested": {
+            "yaw": 15.721460687037721,
+            "pitch": 3.8258282136406327
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.38981930581635066,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17.100000001490116,
+          "renderMs": 0.20000000298023224
+        },
+        {
+          "t": 3903.5,
+          "dt": 16.600000001490116,
+          "raw": [
+            0.5758485934655917,
+            -0.5553362921723194
+          ],
+          "smoothed": [
+            0.5487677345317106,
+            -0.5794888383603456
+          ],
+          "requested": {
+            "yaw": 16.772186158025708,
+            "pitch": 3.263563282585081
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.4189798243299373,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3919.5,
+          "dt": 16,
+          "raw": [
+            0.6080915339496551,
+            -0.5198314018398232
+          ],
+          "smoothed": [
+            0.5814356326096922,
+            -0.5466372159934785
+          ],
+          "requested": {
+            "yaw": 17.752223100365157,
+            "pitch": 2.6722340799814726
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.4526111115344024,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.800000004470348,
+          "renderMs": 0.19999999552965164
+        },
+        {
+          "t": 3936.89999999851,
+          "dt": 17.5,
+          "raw": [
+            0.6381489512281946,
+            -0.48245820134635053
+          ],
+          "smoothed": [
+            0.614507322686215,
+            -0.5092119950131289
+          ],
+          "requested": {
+            "yaw": 18.74437380266084,
+            "pitch": 1.9985801023351781
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.4204905379568303,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17.100000001490116,
+          "renderMs": 1.6000000014901161
+        },
+        {
+          "t": 3953.39999999851,
+          "dt": 16.5,
+          "raw": [
+            0.6659128168559934,
+            -0.4433510125700808
+          ],
+          "smoothed": [
+            0.6433851305058436,
+            -0.47221359971474414
+          ],
+          "requested": {
+            "yaw": 19.610708037249697,
+            "pitch": 1.332608986964254
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.37459616975319504,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 14.799999997019768,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 3970.10000000149,
+          "dt": 16.700000002980232,
+          "raw": [
+            0.691138733760734,
+            -0.40289856129751733
+          ],
+          "smoothed": [
+            0.670419663915049,
+            -0.43297258764181806
+          ],
+          "requested": {
+            "yaw": 20.421744039525862,
+            "pitch": 0.626270769651585
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.3272798505181266,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.5,
+          "renderMs": 0.6999999955296516
+        },
+        {
+          "t": 3985.7999999970198,
+          "dt": 15.599999994039536,
+          "raw": [
+            0.7140398733491433,
+            -0.3607590044164378
+          ],
+          "smoothed": [
+            0.6940441071242025,
+            -0.3938621450747077
+          ],
+          "requested": {
+            "yaw": 21.130477335800464,
+            "pitch": -0.07771719655640208
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.28170078096111173,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 4003.5,
+          "dt": 17.80000000447035,
+          "raw": [
+            0.7343747040420174,
+            -0.317322854618446
+          ],
+          "smoothed": [
+            0.7178127124094826,
+            -0.3487541545488671
+          ],
+          "requested": {
+            "yaw": 21.843535494358868,
+            "pitch": -0.8896610260215327
+          },
+          "frame": 74,
+          "desired": 74,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": false,
+          "limited": true,
+          "error": 0.23072307517259055,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17.600000001490116,
+          "renderMs": 0.29999999701976776
+        },
+        {
+          "t": 4019.60000000149,
+          "dt": 16.100000001490116,
+          "raw": [
+            0.7519721659979004,
+            -0.27301622948906634
+          ],
+          "smoothed": [
+            0.736699886721792,
+            -0.3068777413634377
+          ],
+          "requested": {
+            "yaw": 22.410150723728147,
+            "pitch": -1.6434364633592615
+          },
+          "frame": 142,
+          "desired": 142,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": true,
+          "error": 0.18483057519951948,
+          "changed": true,
+          "angularJump": 32.006165366303925,
+          "cacheWait": false,
+          "inputAgeMs": 15.700000002980232,
+          "renderMs": 1.5
+        },
+        {
+          "t": 4036.7999999970198,
+          "dt": 17.19999999552965,
+          "raw": [
+            0.7669809664266873,
+            -0.22746471625108056
+          ],
+          "smoothed": [
+            0.75416716168107,
+            -0.2610692973282885
+          ],
+          "requested": {
+            "yaw": 22.93416897250649,
+            "pitch": -2.4679884559919474
+          },
+          "frame": 142,
+          "desired": 142,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.13620389474626837,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.600000001490116,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 4053.6999999955297,
+          "dt": 16.80000000447035,
+          "raw": [
+            0.7791681133303263,
+            -0.18137544257495164
+          ],
+          "smoothed": [
+            0.7683749394100132,
+            -0.2157801183169057
+          ],
+          "requested": {
+            "yaw": 23.360402304374787,
+            "pitch": -3.283193678196838
+          },
+          "frame": 142,
+          "desired": 142,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.09031207216480883,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 16.69999999552965,
+          "renderMs": 0.10000000149011612
+        },
+        {
+          "t": 4069.2999999970198,
+          "dt": 15.699999995529652,
+          "raw": [
+            0.788684783380807,
+            -0.13407577135176052
+          ],
+          "smoothed": [
+            0.7794210634034651,
+            -0.17134273373242276
+          ],
+          "requested": {
+            "yaw": 23.69178602417834,
+            "pitch": -4.083066600717531
+          },
+          "frame": 142,
+          "desired": 142,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.05068202067333509,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 15.399999998509884,
+          "renderMs": 0.30000000447034836
+        },
+        {
+          "t": 4086.7999999970198,
+          "dt": 17.5,
+          "raw": [
+            0.7952706601692356,
+            -0.08685952494682447
+          ],
+          "smoothed": [
+            0.7886635652503665,
+            -0.12207736599011008
+          ],
+          "requested": {
+            "yaw": 23.969061079585384,
+            "pitch": -4.969843220079159
+          },
+          "frame": 142,
+          "desired": 142,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.0382224912368096,
+          "changed": false,
+          "angularJump": 0,
+          "cacheWait": false,
+          "inputAgeMs": 17.100000001490116,
+          "renderMs": 0.8999999985098839
+        },
+        {
+          "t": 4103.39999999851,
+          "dt": 16.5,
+          "raw": [
+            0.7990464682584193,
+            -0.03904793930218098
+          ],
+          "smoothed": [
+            0.794496316836921,
+            -0.07543433948113465
+          ],
+          "requested": {
+            "yaw": 24.14404362718202,
+            "pitch": -5.8094176972407165
+          },
+          "frame": 143,
+          "desired": 143,
+          "filename": "Generate_video_from_image_reference_20261009112404.mp4",
+          "supported": true,
+          "limited": false,
+          "error": 0.03485576643206277,
+          "changed": true,
+          "angularJump": 1.7671834831942765,
+          "cacheWait": false,
+          "inputAgeMs": 15.600000001490116,
+          "renderMs": 0.10000000149011612
+        }
+      ],
+      "frames": 211,
+      "changes": 70,
+      "waits": 5,
+      "readyMs": 5.5,
+      "status": "ready",
+      "current": 143,
+      "desired": 143,
+      "input": [
+        0.7990464682584193,
+        -0.03904793930218098
+      ],
+      "smoothed": [
+        0.794496316836921,
+        -0.07543433948113465
+      ],
+      "error": 0.03485576643206277,
+      "supported": true,
+      "limited": false,
+      "reason": "Available primary photograph",
+      "lastChangeMs": 4103.39999999851,
+      "largeJumps": 7,
+      "sourceCounts": {
+        "Generate_video_from_image_reference_20261009112404.mp4": 211
+      },
+      "cache": {
+        "loaded": 24,
+        "pending": 0,
+        "queued": 0,
+        "hits": 240,
+        "misses": 5,
+        "evictions": 157,
+        "errors": 0,
+        "decodes": 181,
+        "decodeMs": [
+          2.2999999970197678,
+          2.5,
+          2.100000001490116,
+          2.3000000044703484,
+          2.2999999970197678,
+          4,
+          4.600000001490116,
+          3.899999998509884,
+          4,
+          3.100000001490116,
+          3.399999998509884,
+          3.0999999940395355,
+          3.5,
+          2.2000000029802322,
+          2.399999998509884,
+          2.5,
+          2.5,
+          2.5,
+          2.8000000044703484,
+          2.7000000029802322,
+          2.899999998509884,
+          3.1999999955296516,
+          2.7999999970197678,
+          3.100000001490116,
+          3.2999999970197678,
+          2.600000001490116,
+          2.5,
+          2.8000000044703484,
+          2.7999999970197678,
+          2.600000001490116,
+          2.9000000059604645,
+          2.5,
+          2.7000000029802322,
+          2.899999998509884,
+          2.8000000044703484,
+          2.7000000029802322,
+          3.0999999940395355,
+          3,
+          3.2999999970197678,
+          3.2999999970197678,
+          3.100000001490116,
+          3,
+          2.3000000044703484,
+          2.5,
+          2,
+          2,
+          2.2999999970197678,
+          3.8000000044703484,
+          3.899999998509884,
+          2.2999999970197678,
+          2.100000001490116,
+          2.3000000044703484,
+          2.100000001490116,
+          2.1999999955296516,
+          4.5,
+          4.800000004470348,
+          3.399999998509884,
+          3.5,
+          3.899999998509884,
+          3.5,
+          3.6999999955296516,
+          3.1999999955296516,
+          3.2999999970197678,
+          3,
+          3.0999999940395355,
+          3.0999999940395355,
+          3.399999998509884,
+          3.7000000029802322,
+          3.2999999970197678,
+          3.5,
+          3,
+          3.2999999970197678,
+          3.100000001490116,
+          3.2000000029802322,
+          3.1999999955296516,
+          3.5,
+          3.600000001490116,
+          3.8000000044703484,
+          3.7000000029802322,
+          3.7000000029802322,
+          4,
+          4,
+          4.100000001490116,
+          3.100000001490116,
+          3.100000001490116,
+          3.399999998509884,
+          3.4000000059604645,
+          3.2999999970197678,
+          3.899999998509884,
+          4.100000001490116,
+          3.899999998509884,
+          3.899999998509884,
+          4.300000004470348,
+          4,
+          4.200000002980232,
+          4.100000001490116,
+          4,
+          4.100000001490116,
+          4.700000002980232,
+          4.199999995529652,
+          4,
+          4,
+          4,
+          3.5,
+          4,
+          3.899999998509884,
+          3.2000000029802322,
+          3.399999998509884,
+          3.3000000044703484,
+          3.5,
+          3.399999998509884,
+          2.9000000059604645,
+          2.899999998509884,
+          3.2000000029802322,
+          3.399999998509884,
+          3.100000001490116,
+          3.5,
+          3.100000001490116,
+          3,
+          3.399999998509884,
+          3.4000000059604645,
+          3,
+          3.5,
+          3.600000001490116,
+          3.3000000044703484,
+          3.5999999940395355,
+          3.399999998509884,
+          2.7999999970197678,
+          3.5999999940395355,
+          3.100000001490116,
+          4.300000004470348,
+          4,
+          4.399999998509884,
+          4.399999998509884,
+          4.199999995529652,
+          4.100000001490116,
+          3.7000000029802322,
+          3.399999998509884,
+          3.2000000029802322,
+          3.3000000044703484,
+          3.5,
+          4.299999997019768,
+          4.299999997019768,
+          3.7000000029802322,
+          3.7999999970197678,
+          4.100000001490116,
+          2.5,
+          2.2999999970197678,
+          2.399999998509884,
+          2.399999998509884,
+          2.399999998509884,
+          2.100000001490116,
+          2.100000001490116,
+          2.2999999970197678,
+          2.2000000029802322,
+          2.100000001490116,
+          2,
+          2.100000001490116,
+          2.3000000044703484,
+          2.1999999955296516,
+          2,
+          2.5,
+          3.8000000044703484,
+          4.100000001490116,
+          3.8000000044703484,
+          3.7000000029802322,
+          3.600000001490116,
+          4,
+          4.100000001490116,
+          4,
+          3.5,
+          3.5,
+          3.600000001490116,
+          3.600000001490116,
+          4.699999995529652,
+          4.100000001490116,
+          3.6999999955296516,
+          3.6999999955296516,
+          4.399999998509884,
+          4.600000001490116,
+          4.100000001490116
+        ],
+        "loadMs": [
+          4.199999995529652,
+          10.899999998509884,
+          10.799999997019768,
+          4.300000004470348,
+          4.299999997019768,
+          10.700000002980232,
+          11.399999998509884,
+          6.799999997019768,
+          7.399999998509884,
+          5.700000002980232,
+          6.100000001490116,
+          5.399999998509884,
+          5.800000004470348,
+          4.5,
+          4.5,
+          5.799999997019768,
+          5.700000002980232,
+          4.800000004470348,
+          5.5,
+          5.4000000059604645,
+          5.600000001490116,
+          5.799999997019768,
+          4.299999997019768,
+          5.800000004470348,
+          5.5999999940395355,
+          4,
+          4.100000001490116,
+          4.9000000059604645,
+          4.799999997019768,
+          5.299999997019768,
+          5.300000004470348,
+          4.299999997019768,
+          4.399999998509884,
+          5.200000002980232,
+          5.100000001490116,
+          4.5,
+          5.5,
+          5.700000002980232,
+          6.199999995529652,
+          5,
+          5.200000002980232,
+          5,
+          4.600000001490116,
+          5,
+          3.899999998509884,
+          4,
+          4.199999995529652,
+          7.399999998509884,
+          7.399999998509884,
+          4.5,
+          5.100000001490116,
+          5.100000001490116,
+          4.600000001490116,
+          4.699999995529652,
+          11.699999995529652,
+          12.600000001490116,
+          6.5,
+          6.4000000059604645,
+          5.899999998509884,
+          6.600000001490116,
+          6.600000001490116,
+          5.5,
+          5.5,
+          4.5,
+          5.5,
+          5.600000001490116,
+          8.399999998509884,
+          8.900000005960464,
+          5.699999995529652,
+          5.700000002980232,
+          5.300000004470348,
+          5.299999997019768,
+          6.100000001490116,
+          6.100000001490116,
+          5.399999998509884,
+          6.299999997019768,
+          6.300000004470348,
+          8.5,
+          5.600000001490116,
+          6.600000001490116,
+          6.700000002980232,
+          6.700000002980232,
+          6.700000002980232,
+          5.800000004470348,
+          5.600000001490116,
+          6.200000002980232,
+          6.100000001490116,
+          9.799999997019768,
+          10.5,
+          8.100000001490116,
+          8.700000002980232,
+          8.199999995529652,
+          8.200000002980232,
+          8.199999995529652,
+          7.399999998509884,
+          7.600000001490116,
+          8.5,
+          8.600000001490116,
+          9.200000002980232,
+          9,
+          7.100000001490116,
+          7.399999998509884,
+          8,
+          5.600000001490116,
+          6.600000001490116,
+          7.199999995529652,
+          5.399999998509884,
+          5.899999998509884,
+          4.899999998509884,
+          5.600000001490116,
+          5.699999995529652,
+          4.100000001490116,
+          4.199999995529652,
+          4.899999998509884,
+          5,
+          4.800000004470348,
+          5.600000001490116,
+          4.700000002980232,
+          4.5,
+          5.300000004470348,
+          5.700000002980232,
+          4.399999998509884,
+          5,
+          5.299999997019768,
+          5.4000000059604645,
+          5,
+          5.199999995529652,
+          4.600000001490116,
+          6,
+          6.200000002980232,
+          8.200000002980232,
+          6,
+          6.200000002980232,
+          8.100000001490116,
+          8.399999998509884,
+          9.899999998509884,
+          6.100000001490116,
+          4.899999998509884,
+          4.399999998509884,
+          4.399999998509884,
+          4.5,
+          8,
+          8.200000002980232,
+          5.600000001490116,
+          5.699999995529652,
+          5.799999997019768,
+          4.199999995529652,
+          4.399999998509884,
+          3.5,
+          3.5,
+          3.5,
+          3.7000000029802322,
+          3.899999998509884,
+          4.699999995529652,
+          5,
+          3.399999998509884,
+          3.2000000029802322,
+          3.100000001490116,
+          3.3000000044703484,
+          4,
+          4.0999999940395355,
+          5.100000001490116,
+          6.399999998509884,
+          7.700000002980232,
+          7,
+          5.700000002980232,
+          5.5,
+          6.300000004470348,
+          5.9000000059604645,
+          6.399999998509884,
+          4.899999998509884,
+          5.4000000059604645,
+          5.200000002980232,
+          5.5,
+          9.299999997019768,
+          9.5,
+          6.299999997019768,
+          7,
+          8.700000002980232,
+          9.399999998509884,
+          8.100000001490116
+        ],
+        "peakImages": 24,
+        "nominalDecodedBytes": 49766400,
+        "peakNominalBytes": 49766400
+      },
+      "started": 31.600000001490116,
+      "reduced": false
+    }
+  }
+}

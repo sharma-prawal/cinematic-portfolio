@@ -1,0 +1,19 @@
+{
+  "verdict": "NO-GO",
+  "total_original_sources": 19,
+  "excluded_derived": 1,
+  "total_jpegs": 4559,
+  "primary_jpegs": 240,
+  "primary_reviewed": 240,
+  "selected_primary": 197,
+  "selected_secondary": 0,
+  "primary_percent": 100,
+  "pose_components": 12,
+  "medium_circle_unsupported": "34.1%",
+  "normal_circle_max_jump_deg": 33.01918964479057,
+  "peak_decoded_960_bytes": 49766400,
+  "peak_decoded_1280_bytes": 88473600,
+  "engineer_qa_pass": true,
+  "recording_seconds": 58.2,
+  "preserved": true
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "command": "rtk proxy npm run typecheck",
+    "exit_code": 0,
+    "seconds": 0.7123733749976964,
+    "stdout": "\n> v24-primary-video-cursor-tracking@0.1.0 typecheck\n> tsc --noEmit\n\n",
+    "stderr": ""
+  },
+  {
+    "command": "rtk proxy npm run lint",
+    "exit_code": 0,
+    "seconds": 1.1624689579984988,
+    "stdout": "\n> v24-primary-video-cursor-tracking@0.1.0 lint\n> eslint src scripts/*.mjs\n\n",
+    "stderr": ""
+  },
+  {
+    "command": "rtk proxy npm test",
+    "exit_code": 0,
+    "seconds": 0.228745541004173,
+    "stdout": "\n> v24-primary-video-cursor-tracking@0.1.0 test\n> node --test scripts/controller.test.mjs\n\n\u2714 native primary extraction is complete, chronological and timestamp preserving (6.288416ms)\n\u2714 source inventory distinguishes original candidates from derived previews (0.389667ms)\n\u2714 runtime provenance and all optimized photographs resolve (1.616375ms)\n\u2714 normalization rejects invalid extents and clamps viewport boundaries (0.054625ms)\n\u2714 coordinate smoothing is frame-rate independent at 20, 35 and 50ms (0.091667ms)\n\u2714 direction CENTER selects a truthful photographic orientation (0.124167ms)\n\u2714 direction LEFT selects a truthful photographic orientation (0.122583ms)\n\u2714 direction RIGHT selects a truthful photographic orientation (0.45675ms)\n\u2714 direction UP selects a truthful photographic orientation (0.09125ms)\n\u2714 direction DOWN selects a truthful photographic orientation (0.093584ms)\n\u2714 direction UPPER-LEFT selects a truthful photographic orientation (0.058416ms)\n\u2714 direction UPPER-RIGHT selects a truthful photographic orientation (0.045958ms)\n\u2714 direction LOWER-LEFT selects a truthful photographic orientation (0.042917ms)\n\u2714 direction LOWER-RIGHT selects a truthful photographic orientation (0.055208ms)\n\u2714 unsupported upper interior holds a stable pose without a detour or invented image (0.120792ms)\n\u2714 stationary selection does not chatter (13.180333ms)\n\u2714 two-axis targets and shallow downward range are explicit (0.054209ms)\n\u2714 circular trajectories disclose unsampled regions rather than asserting complete coverage (21.755ms)\n\u2714 B and C are identical when no secondary replacement passed (0.352542ms)\n\u2714 manifest validation rejects broken image paths and neighbor links (1.525708ms)\n\u2139 tests 20\n\u2139 suites 0\n\u2139 pass 20\n\u2139 fail 0\n\u2139 cancelled 0\n\u2139 skipped 0\n\u2139 todo 0\n\u2139 duration_ms 109.551\n",
+    "stderr": ""
+  },
+  {
+    "command": "rtk proxy npm run build",
+    "exit_code": 0,
+    "seconds": 1.5419083750020945,
+    "stdout": "\n> v24-primary-video-cursor-tracking@0.1.0 build\n> tsc --noEmit && vite build\n\nvite v7.3.7 building client environment for production...\ntransforming...\n\u2713 432 modules transformed.\nrendering chunks...\ncomputing gzip size...\ndist/index.html                   0.44 kB \u2502 gzip:  0.30 kB\ndist/assets/index-wR_w1-i3.css    4.86 kB \u2502 gzip:  1.65 kB\ndist/assets/index-Do1vlsrQ.js   245.53 kB \u2502 gzip: 77.55 kB\n\u2713 built in 785ms\n",
+    "stderr": ""
+  }
+]

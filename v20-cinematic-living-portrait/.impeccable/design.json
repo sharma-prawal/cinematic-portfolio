@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-15T04:27:37.999945+00:00",
+  "title": "Design System: V20 Cinematic Living Portrait",
+  "extensions": {
+    "colorMeta": {
+      "studio": {
+        "role": "neutral",
+        "displayName": "Studio silver",
+        "tonalRamp": [
+          "oklch(15% 0.008 230)",
+          "oklch(26% 0.008 230)",
+          "oklch(38% 0.008 230)",
+          "oklch(49% 0.008 230)",
+          "oklch(61% 0.008 230)",
+          "oklch(72% 0.008 230)",
+          "oklch(84% 0.008 230)",
+          "oklch(95% 0.008 230)"
+        ],
+        "note": "Synthetic neutral preview ramp only; no implementation scale is inferred."
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Charcoal ink",
+        "tonalRamp": [
+          "oklch(15% 0.008 230)",
+          "oklch(26% 0.008 230)",
+          "oklch(38% 0.008 230)",
+          "oklch(49% 0.008 230)",
+          "oklch(61% 0.008 230)",
+          "oklch(72% 0.008 230)",
+          "oklch(84% 0.008 230)",
+          "oklch(95% 0.008 230)"
+        ],
+        "note": "Synthetic neutral preview ramp only; no implementation scale is inferred."
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15% 0.008 230)",
+          "oklch(26% 0.008 230)",
+          "oklch(38% 0.008 230)",
+          "oklch(49% 0.008 230)",
+          "oklch(61% 0.008 230)",
+          "oklch(72% 0.008 230)",
+          "oklch(84% 0.008 230)",
+          "oklch(95% 0.008 230)"
+        ],
+        "note": "Synthetic neutral preview ramp only; no implementation scale is inferred."
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Rule grey",
+        "tonalRamp": [
+          "oklch(15% 0.008 230)",
+          "oklch(26% 0.008 230)",
+          "oklch(38% 0.008 230)",
+          "oklch(49% 0.008 230)",
+          "oklch(61% 0.008 230)",
+          "oklch(72% 0.008 230)",
+          "oklch(84% 0.008 230)",
+          "oklch(95% 0.008 230)"
+        ],
+        "note": "Synthetic neutral preview ramp only; no implementation scale is inferred."
+      },
+      "photograph-mount": {
+        "role": "neutral",
+        "displayName": "Photograph mount",
+        "tonalRamp": [
+          "oklch(15% 0.008 230)",
+          "oklch(26% 0.008 230)",
+          "oklch(38% 0.008 230)",
+          "oklch(49% 0.008 230)",
+          "oklch(61% 0.008 230)",
+          "oklch(72% 0.008 230)",
+          "oklch(84% 0.008 230)",
+          "oklch(95% 0.008 230)"
+        ],
+        "note": "Synthetic neutral preview ramp only; no implementation scale is inferred."
+      },
+      "atmosphere-light": {
+        "role": "neutral",
+        "displayName": "Atmosphere light",
+        "tonalRamp": [
+          "oklch(15% 0.008 230)",
+          "oklch(26% 0.008 230)",
+          "oklch(38% 0.008 230)",
+          "oklch(49% 0.008 230)",
+          "oklch(61% 0.008 230)",
+          "oklch(72% 0.008 230)",
+          "oklch(84% 0.008 230)",
+          "oklch(95% 0.008 230)"
+        ],
+        "note": "Synthetic neutral preview ramp only; no implementation scale is inferred."
+      },
+      "atmosphere-dark": {
+        "role": "neutral",
+        "displayName": "Atmosphere dark",
+        "tonalRamp": [
+          "oklch(15% 0.008 230)",
+          "oklch(26% 0.008 230)",
+          "oklch(38% 0.008 230)",
+          "oklch(49% 0.008 230)",
+          "oklch(61% 0.008 230)",
+          "oklch(72% 0.008 230)",
+          "oklch(84% 0.008 230)",
+          "oklch(95% 0.008 230)"
+        ],
+        "note": "Synthetic neutral preview ramp only; no implementation scale is inferred."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "pointer-spring",
+        "value": "stiffness: 300; damping: 35; mass: 1; restDelta: 0.0001; restSpeed: 0.001",
+        "purpose": "Near-critical shared translation; no rotation/scale."
+      },
+      {
+        "name": "B-default-limits",
+        "value": "x: \u00b12px; y: \u00b11.5px",
+        "purpose": "Whole-frame experimental translation."
+      },
+      {
+        "name": "C-default-limits",
+        "value": "atmosphere: \u00b118px per axis; caption: \u00b13px x, \u00b12px y",
+        "purpose": "Exterior atmosphere/caption only; photograph remains opaque and stationary."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "still first frame; springs jump(0); atmosphere hidden",
+        "purpose": "Live system preference or development simulation disables interaction and playback."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact",
+        "value": "640px"
+      },
+      {
+        "name": "interactive-capability",
+        "value": "(hover: hover) and (pointer: fine)"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Playback toggle",
+      "kind": "button",
+      "refersTo": "playback-toggle",
+      "description": "Native production Pause/Play affordance; no custom hover or active animation is implemented.",
+      "html": "<button class=\"ds-play\" aria-label=\"Pause portrait\">Pause</button>",
+      "css": ".ds-play{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;color:var(--ink,#303436);font-size:12px;line-height:1.5;background:transparent;border:0;border-bottom:1px solid currentColor;padding:2px 0;cursor:pointer;touch-action:manipulation}.ds-play:focus-visible{outline:2px solid var(--ink,#303436);outline-offset:4px;}"
+    },
+    {
+      "name": "Caption and status",
+      "kind": "custom",
+      "refersTo": "caption",
+      "description": "Centered serif caption above a live status message.",
+      "html": "<footer class=\"ds-caption\"><h1>A quiet presence.</h1><p role=\"status\">A living portrait</p></footer>",
+      "css": ".ds-caption{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;color:var(--ink,#303436);font-size:12px;line-height:1.5;text-align:center}.ds-caption h1{font-family:Georgia,\"Times New Roman\",serif;font-size:24px;line-height:1.3;font-weight:400;letter-spacing:-.02em;margin:0 0 10px}.ds-caption p{margin:0}@media(max-width:640px){.ds-caption h1{font-size:22px}}"
+    },
+    {
+      "name": "Evaluation mode radio",
+      "kind": "input",
+      "description": "Observed development-only comparison selector.",
+      "html": "<label class=\"ds-radio\"><input type=\"radio\" name=\"ds-mode\" checked>A \u00b7 Living video</label>",
+      "css": ".ds-radio{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;color:var(--ink,#303436);font-size:12px;line-height:1.5;display:flex;align-items:center;gap:8px;margin:6px 0}.ds-radio input{width:16px;height:16px;margin:0;accent-color:var(--ink,#303436)}.ds-radio input:focus-visible{outline:2px solid var(--ink,#303436);outline-offset:4px;}"
+    },
+    {
+      "name": "Evaluation checkbox",
+      "kind": "input",
+      "description": "Observed development-only interaction toggle.",
+      "html": "<label class=\"ds-check\"><input type=\"checkbox\" checked>Interactive motion</label>",
+      "css": ".ds-check{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;color:var(--ink,#303436);font-size:12px;line-height:1.5;display:flex;align-items:center;gap:8px;margin:6px 0}.ds-check input{width:16px;height:16px;margin:0;accent-color:var(--ink,#303436)}.ds-check input:focus-visible{outline:2px solid var(--ink,#303436);outline-offset:4px;}"
+    },
+    {
+      "name": "Return to neutral",
+      "kind": "button",
+      "refersTo": "return-neutral",
+      "description": "Development-only reset; no custom hover/active animation in the source.",
+      "html": "<button class=\"ds-neutral\">Return to neutral</button>",
+      "css": ".ds-neutral{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;color:var(--ink,#303436);font-size:12px;line-height:1.5;background:transparent;border:1px solid var(--rule,#7a7e80);padding:6px 10px;margin-top:8px;cursor:pointer;touch-action:manipulation}.ds-neutral:focus-visible{outline:2px solid var(--ink,#303436);outline-offset:4px;}"
+    },
+    {
+      "name": "Evaluation range",
+      "kind": "input",
+      "description": "Observed development-only bounded numerical adjustment.",
+      "html": "<label class=\"ds-range\">Frame X (px)<input type=\"range\" min=\"0\" max=\"2\" step=\"0.1\" value=\"2\" aria-label=\"Frame X (px)\"><span>2</span></label>",
+      "css": ".ds-range{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;color:var(--ink,#303436);font-size:12px;line-height:1.5;display:grid;grid-template-columns:1fr 95px 28px;gap:6px;align-items:center;margin:10px 0}.ds-range input{width:95px;accent-color:var(--ink,#303436)}.ds-range span{text-align:right;font-variant-numeric:tabular-nums}.ds-range input:focus-visible{outline:2px solid var(--ink,#303436);outline-offset:4px;}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Neutral studio portrait",
+    "overview": "This is a narrow extension of the inherited neutral photographic studio. A complete rectangular photograph remains dominant on a silver-grey mount; the serif caption adds a quiet editorial note. It defines only the isolated V20 experiment, not a new portfolio identity.\n\nThe existing studio world is preserved through neutral color, generous negative space, restrained controls and an unaltered source frame. V20 deliberately changes recorded-pose selection into native living-video playback, with A as the default and B/C retained as evaluation variants.",
+    "keyCharacteristics": [
+      "Complete 16:9 source composition and opaque photographic pixels.",
+      "Flat silver mount, charcoal text and a quiet serif caption.",
+      "Default native video; bounded translation only in comparison variants."
+    ],
+    "rules": [
+      {
+        "name": "The Opaque Photograph Rule",
+        "body": "Atmosphere belongs outside the opaque video; it never changes the face pixels.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do preserve the complete source frame, including hair, forehead, shoulders, expression events and watermark.",
+      "Do keep A as default; label B and C as experimental comparisons.",
+      "Do disable pointer parallax for touch and use a still first frame for reduced motion.",
+      "Do keep evaluation controls development-only behind ?debug=1."
+    ],
+    "donts": [
+      "Don't infer anatomical tracking from presentation translation.",
+      "Don't place gradients, masks, glows or generated layers over facial pixels.",
+      "Don't crop, scale, rotate, reconstruct or cursor-seek the source.",
+      "Don't treat this local experiment or its recorded telemetry as production or perceptual-loop approval."
+    ]
+  }
+}

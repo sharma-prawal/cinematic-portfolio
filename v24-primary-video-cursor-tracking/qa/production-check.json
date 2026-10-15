@@ -1,0 +1,69 @@
+{
+  "modes": [
+    {
+      "query": "?mode=A",
+      "panels": [
+        "A"
+      ],
+      "status": "ready"
+    },
+    {
+      "query": "?mode=B",
+      "panels": [
+        "B"
+      ],
+      "status": "ready"
+    },
+    {
+      "query": "?mode=C",
+      "panels": [
+        "C"
+      ],
+      "status": "ready"
+    },
+    {
+      "query": "?compare=1",
+      "panels": [
+        "B",
+        "C"
+      ],
+      "status": "ready"
+    }
+  ],
+  "evidence": [
+    {
+      "path": "/evidence/REPORT.md",
+      "status": 200,
+      "bytes": 32445
+    },
+    {
+      "path": "/evidence/source-inventory.csv",
+      "status": 200,
+      "bytes": 5074
+    },
+    {
+      "path": "/evidence/primary-frame-audit.csv",
+      "status": 200,
+      "bytes": 161006
+    },
+    {
+      "path": "/evidence/browser-results.json",
+      "status": 200,
+      "bytes": 68032
+    },
+    {
+      "path": "/evidence/preservation-after.json",
+      "status": 200,
+      "bytes": 240
+    }
+  ],
+  "sourceHashes": {
+    "src/main.tsx": "2c4d6d0361d7606f3ba3e2d18a782a051b15d39b72568d5294ef1672b93e7a1a",
+    "src/controller.ts": "3c766a8c49cc964123c8c49d481a1ae021e163c77f3be2027b5f48e7d05a86f2",
+    "src/cache.ts": "94ce67366e5c2539e2599211ccb4b85be0410b3b9d8869af4d0242a7ad932eff",
+    "src/style.css": "9d5f1dd419eb7e84410324eaa5a01ddcaaad415ca14ce5710efc872eb4e37855",
+    "public/atlas.json": "0778d028bf757aa9ecf13a5fbc05a2966336042a2d2a140fe36326d1c1da2cd2"
+  },
+  "errors": [],
+  "passed": true
+}

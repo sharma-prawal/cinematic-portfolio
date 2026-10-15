@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-15T16:37:43.536934+00:00",
+  "title": "Design System: V24 primary portrait study",
+  "extensions": {
+    "colorMeta": {
+      "studio-grey": {
+        "role": "neutral",
+        "displayName": "Studio Grey",
+        "tonalRamp": [
+          "oklch(15.00% 0.00571 197.03)",
+          "oklch(26.43% 0.00571 197.03)",
+          "oklch(37.86% 0.00571 197.03)",
+          "oklch(49.29% 0.00571 197.03)",
+          "oklch(60.71% 0.00571 197.03)",
+          "oklch(72.14% 0.00571 197.03)",
+          "oklch(83.57% 0.00571 197.03)",
+          "oklch(95.00% 0.00571 197.03)"
+        ]
+      },
+      "charcoal": {
+        "role": "neutral",
+        "displayName": "Charcoal",
+        "tonalRamp": [
+          "oklch(15.00% 0.01808 184.58)",
+          "oklch(26.43% 0.01808 184.58)",
+          "oklch(37.86% 0.01808 184.58)",
+          "oklch(49.29% 0.01808 184.58)",
+          "oklch(60.71% 0.01808 184.58)",
+          "oklch(72.14% 0.01808 184.58)",
+          "oklch(83.57% 0.01808 184.58)",
+          "oklch(95.00% 0.01808 184.58)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15.00% 0.01997 177.36)",
+          "oklch(26.43% 0.01997 177.36)",
+          "oklch(37.86% 0.01997 177.36)",
+          "oklch(49.29% 0.01997 177.36)",
+          "oklch(60.71% 0.01997 177.36)",
+          "oklch(72.14% 0.01997 177.36)",
+          "oklch(83.57% 0.01997 177.36)",
+          "oklch(95.00% 0.01997 177.36)"
+        ]
+      },
+      "control-paper": {
+        "role": "neutral",
+        "displayName": "Control Paper",
+        "tonalRamp": [
+          "oklch(15.00% 0.00618 137.77)",
+          "oklch(26.43% 0.00618 137.77)",
+          "oklch(37.86% 0.00618 137.77)",
+          "oklch(49.29% 0.00618 137.77)",
+          "oklch(60.71% 0.00618 137.77)",
+          "oklch(72.14% 0.00618 137.77)",
+          "oklch(83.57% 0.00618 137.77)",
+          "oklch(95.00% 0.00618 137.77)"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Rule",
+        "tonalRamp": [
+          "oklch(15.00% 0.01452 171.98)",
+          "oklch(26.43% 0.01452 171.98)",
+          "oklch(37.86% 0.01452 171.98)",
+          "oklch(49.29% 0.01452 171.98)",
+          "oklch(60.71% 0.01452 171.98)",
+          "oklch(72.14% 0.01452 171.98)",
+          "oklch(83.57% 0.01452 171.98)",
+          "oklch(95.00% 0.01452 171.98)"
+        ]
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Focus",
+        "tonalRamp": [
+          "oklch(15.00% 0.04934 174.57)",
+          "oklch(26.43% 0.04934 174.57)",
+          "oklch(37.86% 0.04934 174.57)",
+          "oklch(49.29% 0.04934 174.57)",
+          "oklch(60.71% 0.04934 174.57)",
+          "oklch(72.14% 0.04934 174.57)",
+          "oklch(83.57% 0.04934 174.57)",
+          "oklch(95.00% 0.04934 174.57)"
+        ]
+      },
+      "selected": {
+        "role": "neutral",
+        "displayName": "Selected",
+        "tonalRamp": [
+          "oklch(15.00% 0.03053 172.49)",
+          "oklch(26.43% 0.03053 172.49)",
+          "oklch(37.86% 0.03053 172.49)",
+          "oklch(49.29% 0.03053 172.49)",
+          "oklch(60.71% 0.03053 172.49)",
+          "oklch(72.14% 0.03053 172.49)",
+          "oklch(83.57% 0.03053 172.49)",
+          "oklch(95.00% 0.03053 172.49)"
+        ]
+      },
+      "selected-ink": {
+        "role": "neutral",
+        "displayName": "Selected Ink",
+        "tonalRamp": [
+          "oklch(15.00% 0.00000 0.00)",
+          "oklch(26.43% 0.00000 0.00)",
+          "oklch(37.86% 0.00000 0.00)",
+          "oklch(49.29% 0.00000 0.00)",
+          "oklch(60.71% 0.00000 0.00)",
+          "oklch(72.14% 0.00000 0.00)",
+          "oklch(83.57% 0.00000 0.00)",
+          "oklch(95.00% 0.00000 0.00)"
+        ]
+      },
+      "control-hover": {
+        "role": "neutral",
+        "displayName": "Control Hover",
+        "tonalRamp": [
+          "oklch(15.00% 0.01372 145.46)",
+          "oklch(26.43% 0.01372 145.46)",
+          "oklch(37.86% 0.01372 145.46)",
+          "oklch(49.29% 0.01372 145.46)",
+          "oklch(60.71% 0.01372 145.46)",
+          "oklch(72.14% 0.01372 145.46)",
+          "oklch(83.57% 0.01372 145.46)",
+          "oklch(95.00% 0.01372 145.46)"
+        ]
+      },
+      "inspection-paper": {
+        "role": "neutral",
+        "displayName": "Inspection Paper",
+        "tonalRamp": [
+          "oklch(15.00% 0.00928 150.68)",
+          "oklch(26.43% 0.00928 150.68)",
+          "oklch(37.86% 0.00928 150.68)",
+          "oklch(49.29% 0.00928 150.68)",
+          "oklch(60.71% 0.00928 150.68)",
+          "oklch(72.14% 0.00928 150.68)",
+          "oklch(83.57% 0.00928 150.68)",
+          "oklch(95.00% 0.00928 150.68)"
+        ]
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "coordinate-response-options",
+        "value": "20ms | 35ms | 50ms; default 35ms",
+        "purpose": "Coordinate smoothing only; never interpolates or transforms the photograph."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact",
+        "value": "800px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Review button",
+      "kind": "button",
+      "refersTo": "button",
+      "description": "Native review action with inherited focus treatment.",
+      "html": "<button class=\"ds-button\">Inspect</button>",
+      "css": ".ds-button{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:13px;line-height:1.5;color:#1f2c2a;background:var(--paper,#edf0ec);border:1px solid var(--rule,#6c7773);border-radius:5px;min-height:36px;padding:6px 12px;cursor:pointer;}.ds-button:hover{background:#dce4dc;}.ds-button:focus-visible{outline:2px solid var(--focus,#163f35);outline-offset:3px;}.ds-button:disabled{opacity:.55;cursor:default;}"
+    },
+    {
+      "name": "Selected mode",
+      "kind": "button",
+      "refersTo": "button-selected",
+      "description": "Pressed comparison mode; its dark fill remains stable on hover.",
+      "html": "<button class=\"ds-selected\" aria-pressed=\"true\">B \u00b7 Primary</button>",
+      "css": ".ds-selected{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:13px;line-height:1.5;color:#1f2c2a;background:var(--paper,#edf0ec);border:1px solid var(--rule,#6c7773);border-radius:5px;min-height:36px;padding:6px 12px;background:#263c35;color:#fff;border-color:#263c35;cursor:pointer;}.ds-selected:hover{background:#263c35;}.ds-selected:focus-visible{outline:2px solid var(--focus,#163f35);outline-offset:3px;}"
+    },
+    {
+      "name": "Response select",
+      "kind": "input",
+      "refersTo": "select",
+      "description": "Native coordinate response selector.",
+      "html": "<label class=\"ds-label\">Response <select class=\"ds-select\"><option>20 ms</option><option selected>35 ms</option><option>50 ms</option></select></label>",
+      "css": ".ds-label{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:13px;line-height:1.5;color:#1f2c2a;display:flex;align-items:center;gap:8px;}.ds-select{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:13px;line-height:1.5;color:#1f2c2a;background:var(--paper,#edf0ec);border:1px solid var(--rule,#6c7773);border-radius:5px;min-height:36px;padding:6px 12px;}.ds-select:focus-visible{outline:2px solid var(--focus,#163f35);outline-offset:3px;}.ds-select:disabled{opacity:.55;}"
+    },
+    {
+      "name": "Mode navigation",
+      "kind": "nav",
+      "refersTo": "button",
+      "description": "A wrapping native button group, with one pressed state.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Photographic modes\"><button class=\"ds-mode\">A \u00b7 Source</button><button class=\"ds-mode\" aria-pressed=\"true\">B \u00b7 Primary</button><button class=\"ds-mode\">C \u00b7 Repairs</button></nav>",
+      "css": ".ds-nav{display:flex;gap:6px;flex-wrap:wrap;}.ds-mode{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:13px;line-height:1.5;color:#1f2c2a;background:var(--paper,#edf0ec);border:1px solid var(--rule,#6c7773);border-radius:5px;min-height:36px;padding:6px 12px;cursor:pointer;}.ds-mode:hover{background:#dce4dc;}.ds-mode[aria-pressed=true],.ds-mode[aria-pressed=true]:hover{background:#263c35;color:#fff;border-color:#263c35;}.ds-mode:focus-visible{outline:2px solid var(--focus,#163f35);outline-offset:3px;}"
+    },
+    {
+      "name": "Source frame input",
+      "kind": "input",
+      "refersTo": "source-frame",
+      "description": "Native source scrubber and tabular frame label.",
+      "html": "<label class=\"ds-frame-label\">Original frame <input class=\"ds-frame\" aria-label=\"Original primary source frame\" type=\"range\" min=\"0\" max=\"239\" value=\"0\"><output class=\"ds-output\">0 / 239</output></label>",
+      "css": ".ds-frame-label{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:13px;line-height:1.5;color:#1f2c2a;display:flex;align-items:center;flex-wrap:wrap;gap:8px;}.ds-frame{width:min(35vw,460px);accent-color:var(--focus,#163f35);}.ds-frame:focus-visible{outline:2px solid var(--focus,#163f35);outline-offset:3px;}.ds-output{font-variant-numeric:tabular-nums;}@media(max-width:800px){.ds-frame{width:42vw;}}"
+    },
+    {
+      "name": "Inspection region",
+      "kind": "custom",
+      "refersTo": "inspection",
+      "description": "Flat source and controller disclosure surface.",
+      "html": "<aside class=\"ds-inspection\"><p class=\"ds-provenance\">Source: primary photograph sequence.</p><p class=\"ds-provenance\">Empty regions hold the last photograph; sparse boundaries can change discretely. No faces are blended.</p></aside>",
+      "css": ".ds-inspection{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:13px;line-height:1.5;color:#1f2c2a;background:#dfe5e0;padding:16px 20px;border-top:1px solid var(--rule,#6c7773);}.ds-provenance{max-width:90ch;font-size:12px;margin:12px 0 0;}@media(max-width:800px){.ds-inspection{padding:16px 12px;}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Neutral studio portrait",
+    "overview": "This isolated review surface extends the parent experiment's pinned studio world. The complete source photograph leads, surrounded by flat grey, native system text and compact engineering controls. This records V24's implemented local values; it establishes no portfolio identity and changes no parent design authority.\n\nThe photograph supplies the visual material. Mode navigation, frame status and optional inspection controls support source comparison with quiet, legible presentation.",
+    "keyCharacteristics": [
+      "Complete photographic composition in an uncropped 16:9 rectangle.",
+      "Flat neutral surroundings and system typography.",
+      "Native controls, explicit state labels and visible keyboard focus.",
+      "Responsive comparisons and source limitations presented openly."
+    ],
+    "rules": [
+      {
+        "name": "The Full Composition Rule",
+        "body": "Keep the complete source rectangle visible at every viewport and give comparison photographs equal sizing.",
+        "section": "layout"
+      }
+    ],
+    "dos": [
+      "Do preserve the full photographic rectangle and equal comparison sizing.",
+      "Do use the inherited flat studio surface and native system controls.",
+      "Do retain visible focus, explicit state labels and source-coverage disclosures.",
+      "Do let review content wrap and scroll on narrow or short viewports."
+    ],
+    "donts": [
+      "Don't treat these V24 measurements as changes to the parent portfolio design system.",
+      "Don't add decorative imagery, generated portrait assets or authored entrance motion to this pinned experiment.",
+      "Don't disguise absent photographic coverage with face blending or crossfades."
+    ]
+  }
+}
