@@ -1,5 +1,13 @@
 # Cursor-controlled portrait prototype
 
+> Research prototypes for a cursor-controlled cinematic portrait — head tracking, pose atlases and video-driven experiments, one version per folder.
+
+<p align="center">
+  <img src="docs/screenshots/desktop.jpg" width="72%" alt="Screenshot" />
+  <img src="docs/screenshots/mobile.jpg" width="18%" alt="Screenshot" />
+</p>
+
+
 A standalone React + TypeScript + Vite experiment using only frames from the supplied 10-second video. It contains a reusable `HeadTracker` component and no portfolio sections.
 
 ## Run locally
