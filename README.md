@@ -54,3 +54,7 @@ The old atlas, mapping, changed source modules, original styling, extraction/tes
 ## Limitations
 
 The directional audit in `analysis/direction-audit/REVIEW.md` rejects the current DOWN and LOWER-RIGHT frames: the former looks essentially forward, the latter rightward/slightly upward. Both require suitable new source footage; eye openness alone is insufficient. Lower-left remains a usable modest down-left pose. Runtime selection is preserved pending a valid clip, so those two known visual inaccuracies remain. Right yaw is weaker than before; upper-right includes some head roll. Some center/opposite changes and middle-sweep gaps remain discrete. Slight expression, shirt, and position changes and the diamond artifact remain in the source. Images are never facially crossfaded or artificially interpolated. Desktop assets stay 960 pixels wide to limit decoded memory; large high-DPI screens may look softer than the original.
+
+## License
+
+Code is released under the [MIT License](LICENSE). Photos, video, artwork, audio and written content are not covered by it: personal media is © Prawal Sharma, all rights reserved, and third-party assets remain under their own licenses.
